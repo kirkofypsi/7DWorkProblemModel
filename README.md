@@ -1,4 +1,4 @@
-# 7DWorkProblemModel
+# 7D Work Problems Model
 The novel classification system for work problems
 
 <div align="left">
