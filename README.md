@@ -10,5 +10,5 @@ __The Institute for a Better Workplace__ conducted one of the most comprehensive
 
 ## Culture
 
-Culture dimension groups work satisfaction factors related to employees contentment from having a good culture in the organization. Its factors are related to the ability to work in an environment where it is easy to feel comfortable and to be a part of the organization's identity.
+"Culture" dimension refers to employees satisfaction from having a great culture in the organization. Its factors are related to the ability to work in an environment where it is easy to feel comfortable and to be a part of the organization's identity.
 
