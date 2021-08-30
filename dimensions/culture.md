@@ -34,6 +34,8 @@ Examples:
 
 Organization's culture is perceived as promoting competition instead of cooperation. Employees are in competition with one another and they may feel that they have to "step on" other people to get ahead. The organization might also be a very competitive environment where employees are forced to compete for promotions, bonuses or recognition.
 
+Examples:
+
 * fierce / intense / unhealthy / tough / vicious / rough / unfriendly competition
 * people get ahead by stepping on other people
 * employees in competition with one another
