@@ -5,14 +5,14 @@
 </div>
 <br/>
 
-__The Institute for a Better Workplace__ conducted one of the most comprehensive studies on how organizations and employees are impacted by work problems. The study was based on more than two million opinions about workplace experiences gathered from the employees of over 300 organizations. Machine learning and natural language processing were used to analyse this vast dataset of opinions in order to create a typology of workplace problems. The resulting classification system called the __7D Work Problems Model™__ groups work problems according to the satisfaction factors that are most negatively affected by them.
+__The Institute for a Better Workplace__ conducted one of the most comprehensive studies on how organizations and employees are impacted by work problems. The study was based on more than two million opinions about workplace experiences gathered from the employees of over 300 organizations. Machine learning and natural language processing were used to analyse the vast dataset of opinions in order to create a typology of workplace problems. The resulting classification system called the __7D Work Problems Model™__ groups work problems according to the satisfaction factors that they negatively affect.
 
 
 defines seven work satisfaction dimensions that are further decomposed into work satisfaction factors. Work problems that constitute the lowest level of classification are assigned to the satisfaction factors they most negatively affect.
 
 ## [Culture](dimensions/culture.md)
 
-"Culture" dimension refers to employees satisfaction from having a great culture in the organization. Its factors are related to the ability to work in an environment where it is easy to feel comfortable and to be a part of the organization's identity.
+"Culture" dimension refers to the employees' satisfaction of having a great culture in their organization. Its factors are related to the ability to work in an environment where it is easy to feel comfortable and to be a part of the organization's identity.
 
 
 
