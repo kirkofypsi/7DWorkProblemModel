@@ -1,5 +1,3 @@
-# 7D Work Problems Model
-
 <div align="left">
    <img id="last-update-badge" src="https://img.shields.io/badge/%F0%9F%93%85%20Last%20update%20-%20August%2031%2C%202021-blue.svg" alt="Last update: August 31, 2021" /> <img src="https://img.shields.io/badge/ %E2%9C%94%20Taxonomy%20version%20-%201.0.0-yellow.svg" alt="1.0.0"/>
 </div>
@@ -9,6 +7,8 @@ __The Institute for a Better Workplace__ conducted one of the most comprehensive
 
 
 defines seven work satisfaction dimensions that are further decomposed into work satisfaction factors. Work problems that constitute the lowest level of classification are assigned to the satisfaction factors they most negatively affect.
+
+# 7D Work Problems Model
 
 ## [Culture](dimensions/culture.md)
 
