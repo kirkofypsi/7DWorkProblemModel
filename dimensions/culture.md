@@ -18,9 +18,20 @@ Examples:
 * misalignment between teams / departments
 * departments / teams work in silos
 
+### No team spirit
 
+Organization's culture is perceived as not fostering team spirit. There is lack of collaboration and teamwork skills are not valued. Employees do not care to help each other and do not see any point in cooperating.
 
-Cooperativeness	2-ICO		No team spirit	3-CLH	Organization's culture is perceived as not fostering team spirit. There is lack of collaboration and teamwork skills are not valued. Employees do not care to help each other and do not see any point in cooperating.
-Cooperativeness	2-ICO		Unhealthy employees competition	3-CPT	Organization's culture is perceived as promoting competition instead of cooperation. Employees are in competition with one another and they may feel that they have to "step on" other people to get ahead. The organization might also be a very competitive environment where employees are forced to compete for promotions, bonuses or recognition.
+Examples:
+
+* unhelpful / unsupportive / uncooperative / selfish staff / workers / people / co-workers / personnel / team-mates / workforce
+* no support from colleagues
+* teamwork is not valued
+* no workplace camaraderie
+* no team culture / no team spirit
+
+### Unhealthy employees competition
+
+Organization's culture is perceived as promoting competition instead of cooperation. Employees are in competition with one another and they may feel that they have to "step on" other people to get ahead. The organization might also be a very competitive environment where employees are forced to compete for promotions, bonuses or recognition.
 
 
