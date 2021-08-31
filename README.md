@@ -17,6 +17,13 @@ __The Institute for a Better Workplace__ conducted one of the most comprehensive
 
 *Exemplary fragment of 7D Work Problem Model™*
 
+## Opportunities
+### Career growth
+#### Outsiders favored over insiders
+#### Difficulties in internal transfers
+#### Poor career growth
+#### Undefined career paths
+
 
 __The Institute for a Better Workplace__ decided to open-source __7D Work Problem Model™__ typology
 
