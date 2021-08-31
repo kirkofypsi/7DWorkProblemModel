@@ -17,8 +17,8 @@ __The Institute for a Better Workplace__ conducted one of the most comprehensive
 
 *Exemplary fragment of 7D Work Problem Model™ structure*
 
-* Opportunities (*Work satisfaction dimension*)
-    * Career growth
+* __Opportunities__ (*Work satisfaction dimension*)
+    * __Career growth__ (*Work satisfaction factor*)
        * Outsiders favored over insiders
        * Difficulties in internal transfers
        * Poor career growth
