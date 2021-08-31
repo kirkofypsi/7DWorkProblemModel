@@ -15,6 +15,11 @@ __The Institute for a Better Workplace__ conducted one of the most comprehensive
 |  2|  __Work satisfaction factor__   | low-level components of work satisfaction in the organization; work problems negatively affect work satisfaction factors | 39  |
 |  3| __Work problem__ | any source of frustration, stress, or dissatisfaction for the employees in their workplace | 130 |
 
+__The Institute for a Better Workplace__ decided to open-source __7D Work Problem Model™__ typology
+
+
+
+
 # The seven dimensions of work satisfaction
 
 ## [Culture](dimensions/culture.md)
