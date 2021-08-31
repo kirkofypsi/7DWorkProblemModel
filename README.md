@@ -18,12 +18,11 @@ __The Institute for a Better Workplace__ conducted one of the most comprehensive
 *Exemplary fragment of 7D Work Problem Model™ structure*
 
 * __Opportunities__  &nbsp;  &nbsp;  &nbsp;  <-- *Work satisfaction dimension*
-    * __Career growth__  &nbsp;  &nbsp;  &nbsp; ( *Work satisfaction factor* )
-       * Outsiders favored over insiders  &nbsp;  &nbsp;  &nbsp; ( *Work problem* )
-       * Difficulties in internal transfers  &nbsp;  &nbsp;  &nbsp; ( *Work problem* )
-       * Poor career growth  &nbsp;  &nbsp;  &nbsp; ( *Work problem* )
-       * Undefined career paths  &nbsp;  &nbsp;  &nbsp; ( *Work problem* )
-
+    * __Career growth__  &nbsp;  &nbsp;  &nbsp; <-- *Work satisfaction factor*
+       * Poor career growth  &nbsp;  &nbsp;  &nbsp; <-- *Work problem*
+       * Difficulties in internal transfers  &nbsp;  &nbsp;  &nbsp; <-- *Work problem*
+       * Undefined career paths  &nbsp;  &nbsp;  &nbsp; <-- *Work problem*
+       * Outsiders favored over insiders  &nbsp;  &nbsp;  &nbsp; <-- *Work problem*
 
 __The Institute for a Better Workplace__ decided to open-source __7D Work Problem Model™__ typology
 
