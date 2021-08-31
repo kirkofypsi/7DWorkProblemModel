@@ -9,9 +9,9 @@ __The Institute for a Better Workplace__ conducted one of the most comprehensive
 
 | Level (from the top)  |      Level name      |  Description  | Cardinality |
 |-----------------------|---------------------:|--------------:|------------:| 
-|  1|  Work satisfaction dimension | $1600 |  |
-|  2|    Work satisfaction factor   |   $12 |   |
-|  3| Work problem |    $1 |   |
+|  1|  __Work satisfaction dimension__ | $1600 |  |
+|  2|  __Work satisfaction factor__   |   $12 |   |
+|  3| __Work problem__ |    $1 |   |
 
 # The seven dimensions of work satisfaction
 
