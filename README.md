@@ -5,7 +5,7 @@
 </div>
 <br/>
 
-__The Institute for a Better Workplace__ conducted one of the most comprehensive studies on how organizations and employees are impacted by work problems. The study was based on more than two million opinions about workplace experiences gathered from the employees of over 300 organizations. Machine learning and natural language processing were used to analyze the vast dataset of opinions in order to create a typology of work problems. The resulting classification system called the __7D Work Problem Model™__ assigns each __work problem__ to the __work satisfaction factor__ that is most negatively affected by the problem existence in the organization. Work satisfaction factors are subsequently grouped into __work satisfaction dimensions__ representing crucial concepts from the areas of management and systems organization.
+__The Institute for a Better Workplace__ conducted one of the most comprehensive studies on how organizations and employees are impacted by work problems. The study was based on more than two million opinions about workplace experiences gathered from the employees of over 300 organizations. Machine learning and natural language processing were used to analyze the vast dataset of opinions in order to create a typology of work problems. The resulting classification system called the __7D Work Problem Model™__ assigns each __work problem__ to the __work satisfaction factor__ that is most negatively affected by this problem occurence in the organization. Work satisfaction factors are subsequently grouped into __work satisfaction dimensions__ representing crucial concepts from the areas of management and systems organization.
 
 *Summary of 7D Work Problem Model™ structure*
 
