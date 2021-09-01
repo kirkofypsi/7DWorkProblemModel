@@ -1,4 +1,4 @@
-[Back to list of dimensions](../taxonomy.md)
+[Back to the list of dimensions](../taxonomy.md)
 
 # Culture
 
