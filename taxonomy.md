@@ -8,7 +8,7 @@
 
 ### 1. [Culture](dimensions/culture.md)
 
-"Culture" dimension refers to employees' satisfaction stemming from great culture of their organization. Its factors are related to the ability to work in an environment where it is easy to feel comfortable and to be a part of the organization's identity.
+__Culture__ dimension refers to employees' satisfaction stemming from great culture of their organization. Its factors are related to the ability to work in an environment where it is easy to feel comfortable and to be a part of the organization's identity.
 
 
 
