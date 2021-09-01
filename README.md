@@ -8,18 +8,11 @@ We believe that low satisfaction from work largely stems from the fact that mode
 
 Work-related health risks have been since long studied by the science.  Initially, their studies were almost completely limited to physical work hazards but in the recent decades, the focus has shifted towards mental and social factors and how they affect workers' health.  In scientific literature, they are usually referred to as psychosocial stressors or hazards. We use instead the simpler term __work problem__ as we want to also cover those work characteristics that prevents employees from achieving self actualization and full satisfaction from work, even if they are not negatively affecting employees' mental health. Therefore for us the term __work problem__ means any source of employees' frustration, stress, or dissatisfaction in the workplace.
 
-Unfortunately, there is an absence of a reference taxonomy cataloguing all factors leading to dissatisfaction in the workplace, even if we limit ourselves only to psychosocial stressors and physical hazards. Numerous attempts were made, most notably the one described in [1]
-
-
-# Why is our catalogue of work problems different?
-
-
-
-
-__The Institute for a Better Workplace__ conducted one of the most comprehensive studies on how organizations and employees are impacted by work problems. The study was based on more than two million opinions about workplace experiences gathered from the employees of over 300 organizations. Machine learning and natural language processing were used to analyze the vast dataset of opinions in order to create a taxonomy of work problems. 
-
+Unfortunately, there is an absence of a reference taxonomy cataloguing all factors leading to dissatisfaction in the workplace, even if we limit ourselves only to psychosocial stressors and physical hazards. Numerous attempts were made, most notably the one described in [1] comprising of 53 categories, however, in our opinion they are not covering all relevant dissatisfaction factors and were created manually, instead of being derived from automated analysis of large datasets of employees opinions.
 
 # 7D Work Problem Model™
+
+__The Institute for a Better Workplace__ conducted one of the most comprehensive studies on how organizations and employees are impacted by work problems. The study was based on more than two million opinions about workplace experiences gathered from the employees of over 300 organizations. Machine learning and natural language processing were used to analyze the vast dataset of opinions in order to create a taxonomy of work problems. 
 
 The resulting classification system called the __7D Work Problem Model™__ assigns each __work problem__ to the __work satisfaction factor__ that is most negatively affected by this problem occurence in the organization. Work satisfaction factors are subsequently grouped into __work satisfaction dimensions__ representing crucial concepts from the areas of management and systems organization.
 
