@@ -6,7 +6,7 @@ We believe that low satisfaction from work largely stems from the fact that mode
 
 # Catalogue of work problems
 
-Work-related health risks have been since long studied by the science.  Initially, those studies were almost completely limited to physical work hazards but in the recent decades, the focus has shifted towards mental and social factors and how they affect workers' health.  In scientific literature, they are usually referred to as psychosocial stressors or hazards. We use instead the simpler term __work problem__ as we want to also cover those work characteristics that prevents employees from achieving self actualization and full satisfaction from work, even if they are not negatively affecting employees' mental health. Therefore for us the term __work problem__ means any source of employees' frustration, stress, or dissatisfaction in the workplace.
+Work-related health risks have been since long studied by the science.  Initially, those studies were almost completely limited to physical work hazards but in the recent decades, the focus has shifted towards mental and social factors and how they affect workers' well-being.  In scientific literature, they are usually referred to as psychosocial stressors or hazards. We use instead the simpler term __work problem__ as we want to also cover those work characteristics that prevents employees from achieving self actualization and full satisfaction from work, even if they are not negatively affecting employees' mental health. Therefore for us the term __work problem__ means any source of employees' frustration, stress, or dissatisfaction in the workplace.
 
 Unfortunately, there is an absence in the scientific literature of a reference taxonomy cataloguing all factors leading to dissatisfaction in the workplace, even if we limit ourselves only to psychosocial stressors and physical hazards. Numerous attempts were made, most notably the one described in [1] comprising of 53 categories, however, in our opinion they are not covering all relevant dissatisfaction factors and were not derived from analysis of really large datasets of employees opinions (1M+).
 
@@ -33,10 +33,12 @@ The resulting classification system called the __7D Work Problem Model™__ assi
        * Undefined career paths  &nbsp;  &nbsp;  &nbsp; <-- *Work problem*
        * Outsiders favored over insiders  &nbsp;  &nbsp;  &nbsp; <-- *Work problem*
 
-__The Institute for a Better Workplace__ decided to open-source work problem taxonomy in order to make it available to researchers and companies interested in the topic. It is our hope that this taxonomy will be used to improve work environments and the health of employees around the world.
+__The Institute for a Better Workplace__ decided to open-source work problem taxonomy in order to make it available to researchers and companies interested in the topic. It is our hope that this taxonomy will be used to improve work environments and the well-being of employees around the world.
 <br/>
 # Explore [ 7D Work Problem Model™](taxonomy.md)
 <br/>
 <br/>
+
 ### References
+
 [1] Jean-Luc Kop, Virginie Althaus, Nadja Formet, Vincent Grosjean, Systematic comparative content analysis of 17 psychosocial work environment questionnaires using a new taxonomy, International Journal of Occupational and Environmental Health, April 2016
