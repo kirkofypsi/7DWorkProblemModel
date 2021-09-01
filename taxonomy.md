@@ -28,4 +28,4 @@ __Strategy__ dimension groups work satisfaction factors related to employees con
 
 ### 6. Work Organization
 
-Dimension grouping work satisfaction factors related to being part of an organization that manages work well. Its factors reflect the organization's ability to manage work effectively and efficiently, with the right tools, processes and schedule.
+__Work organization__ dimension groups work satisfaction factors related to to employees contentment from being part of an organization that manages work well. Its factors reflect the organization's ability to manage work effectively and efficiently, with the right tools, processes and schedule.
