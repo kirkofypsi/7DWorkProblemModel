@@ -8,7 +8,7 @@ We believe that low satisfaction from work largely stems from the fact that mode
 
 Work-related health risks have been since long studied by the science.  Initially, their studies were almost completely limited to physical work hazards but in the recent decades, the focus has shifted towards mental and social factors and how they affect workers' health.  In scientific literature, they are usually referred to as psychosocial stressors or hazards. We use instead the simpler term __work problem__ as we want to also include those work characteristics that prevents employees from achieving self actualization and the full satisfaction from work, even if they are not negatively affecting employees' mental health. Therefore for us the term __work problem__ means any source of employees' frustration, stress, or dissatisfaction in the workplace.
 
-# 7D Work Problem Model™
+# Why is our catalogue of work problems different?
 
 __The Institute for a Better Workplace__ conducted one of the most comprehensive studies on how organizations and employees are impacted by work problems. The study was based on more than two million opinions about workplace experiences gathered from the employees of over 300 organizations. Machine learning and natural language processing were used to analyze the vast dataset of opinions in order to create a typology of work problems. The resulting classification system called the __7D Work Problem Model™__ assigns each __work problem__ to the __work satisfaction factor__ that is most negatively affected by this problem occurence in the organization. Work satisfaction factors are subsequently grouped into __work satisfaction dimensions__ representing crucial concepts from the areas of management and systems organization.
 
@@ -32,6 +32,7 @@ __The Institute for a Better Workplace__ conducted one of the most comprehensive
 __The Institute for a Better Workplace__ decided to open-source __7D Work Problem Model™__ typology
 
 
+# 7D Work Problem Model™
 
 
 
