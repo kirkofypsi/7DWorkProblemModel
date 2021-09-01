@@ -6,7 +6,7 @@ We believe that low satisfaction from work largely stems from the fact that mode
 
 # Catalogue of work problems
 
-Work-related health risks have been since long studied by the science.  Initially, their studies were almost completely limited to physical work hazards but in the recent decades, the focus has shifted towards mental and social factors and how they affect workers' health and well-being.
+Work-related health risks have been since long studied by the science.  Initially, their studies were almost completely limited to physical work hazards but in the recent decades, the focus has shifted towards mental and social factors and how they affect workers' health.  In scientific literature, they are usually referred to as psychosocial stressors or hazards. It must be noted that we don't want to stop at work aspects that negatively affects health but also to include those work characteristics that prevents employees from achieving self actualization and the full satisfaction from work. That is why, we use the name "work problem" to describe any source of frustration, stress, or dissatisfaction for the employees in their workplace.
 
 
 # 7D Work Problem Model™
