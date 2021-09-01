@@ -35,3 +35,4 @@ __Strategy__ dimension groups work satisfaction factors related to employees con
 ### 7. Work Organization
 
 __Work organization__ dimension groups work satisfaction factors related to to employees contentment from being part of an organization that manages work well. Its factors reflect the organization's ability to manage work effectively and efficiently, with the right tools, processes and schedule.
+
