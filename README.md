@@ -36,7 +36,6 @@ The resulting classification system called the __7D Work Problem Model™__ assi
 
 __The Institute for a Better Workplace__ decided to open-source the largest and the most exhaustive catalogue of the factors that contribute to work dissatisfaction and make it available for free to anyone.
 <br/>
-<div align="center">
 # Explore [ 7D Work Problem Model™](taxonomy.md)
-</div>
+
 
