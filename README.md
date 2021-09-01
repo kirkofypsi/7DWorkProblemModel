@@ -34,8 +34,7 @@ The resulting classification system called the __7D Work Problem Model™__ assi
        * Undefined career paths  &nbsp;  &nbsp;  &nbsp; <-- *Work problem*
        * Outsiders favored over insiders  &nbsp;  &nbsp;  &nbsp; <-- *Work problem*
 
-__The Institute for a Better Workplace__ decided to open-source __7D Work Problem Model™__ typology
-
+__The Institute for a Better Workplace__ decided to open-source the largest and the most exhaustive catalogue of the factors that contribute to work dissatisfaction and make it available for free to anyone.
 
 # Explore [ 7D Work Problem Model™](taxonomy.md)
 
