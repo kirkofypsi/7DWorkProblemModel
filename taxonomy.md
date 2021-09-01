@@ -18,3 +18,14 @@ __Leadership__ dimension groups work satisfaction factors related to employees c
 
 __Opportunities__ dimension groups work satisfaction factors related to employees contentment from having good opportunities for both career and personal development. Its factors are related to learning, social interactions, and opportunities to work on creative, challenging tasks.
 
+### 4. Rewards
+
+__Rewards__ dimension groups work satisfaction factors related to employees contentment from being compensated well. Its factors reflect the organization's ability to attract, retain and motivate employees with good benefits, salary, and other compensation.
+
+### 5. Strategy
+
+__Strategy__ dimension groups work satisfaction factors related to employees contentment from having a good strategy in the organization. Its factors are related to the ability to work with a clear vision, the right values, and in a well-organized way.
+
+### 6. Work Organization
+
+Dimension grouping work satisfaction factors related to being part of an organization that manages work well. Its factors reflect the organization's ability to manage work effectively and efficiently, with the right tools, processes and schedule.
