@@ -1,4 +1,4 @@
-[Back to 7D Work Problems Model](../README.md)
+[Back to list of dimensions](../taxonomy.md)
 
 # Culture
 
