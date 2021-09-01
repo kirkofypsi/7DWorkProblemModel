@@ -33,9 +33,10 @@ The resulting classification system called the __7D Work Problem Model™__ assi
        * Undefined career paths  &nbsp;  &nbsp;  &nbsp; <-- *Work problem*
        * Outsiders favored over insiders  &nbsp;  &nbsp;  &nbsp; <-- *Work problem*
 
-__The Institute for a Better Workplace__ decided to open-source the largest and the most exhaustive catalogue of the factors that contribute to work dissatisfaction and made it available for free to anyone.
+__The Institute for a Better Workplace__ decided to open-source work problem taxonomy in order to make it available to researchers and companies interested in the topic. It is our hope that this taxonomy will be used to improve work environments and the health of employees around the world.
 <br/>
 # Explore [ 7D Work Problem Model™](taxonomy.md)
 <br/>
 <br/>
+### References
 [1] Jean-Luc Kop, Virginie Althaus, Nadja Formet, Vincent Grosjean, Systematic comparative content analysis of 17 psychosocial work environment questionnaires using a new taxonomy, International Journal of Occupational and Environmental Health, April 2016
