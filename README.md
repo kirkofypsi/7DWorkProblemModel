@@ -34,6 +34,6 @@ __The Institute for a Better Workplace__ decided to open-source __7D Work Proble
 
 # 7D Work Problem Model™
 
-
+Explore [ 7D Work Problem Model™](dimensions/culture.md)
 
 
