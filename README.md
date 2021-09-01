@@ -35,6 +35,7 @@ The resulting classification system called the __7D Work Problem Model™__ assi
 
 __The Institute for a Better Workplace__ decided to open-source work problem taxonomy in order to make it available to researchers and companies interested in the topic. It is our hope that this taxonomy will be used to improve work environments and the well-being of employees around the world.
 <br/>
+<br/>
 # Explore [ 7D Work Problem Model™](taxonomy.md)
 <br/>
 <br/>
