@@ -1,9 +1,9 @@
-# 7D Work Problem Model™
+# Introduction
 
-<div align="left">
-   <img id="last-update-badge" src="https://img.shields.io/badge/%F0%9F%93%85%20Last%20update%20-%20August%2031%2C%202021-blue.svg" alt="Last update: August 31, 2021" /> <img src="https://img.shields.io/badge/ %E2%9C%94%20Typology%20version%20-%201.0.0-yellow.svg" alt="1.0.0"/>
-</div>
-<br/>
+In the 21st century, work is still a miserable experience despite all the technological advances. Numerous reports show that most of today's workforce is disengaged and that this disengagement has worsened over the last few decades. As job satisfaction is strongly correlated with mental health, dissatisfaction from work may partially explain the recent pandemic of psychological issues among working adults. We must take this issue seriously because it has severe implications for the economy and society. We cannot afford to maintain such a dysfunctional system in the long term.
+
+
+# 7D Work Problem Model™
 
 __The Institute for a Better Workplace__ conducted one of the most comprehensive studies on how organizations and employees are impacted by work problems. The study was based on more than two million opinions about workplace experiences gathered from the employees of over 300 organizations. Machine learning and natural language processing were used to analyze the vast dataset of opinions in order to create a typology of work problems. The resulting classification system called the __7D Work Problem Model™__ assigns each __work problem__ to the __work satisfaction factor__ that is most negatively affected by this problem occurence in the organization. Work satisfaction factors are subsequently grouped into __work satisfaction dimensions__ representing crucial concepts from the areas of management and systems organization.
 
@@ -37,4 +37,8 @@ __The Institute for a Better Workplace__ decided to open-source __7D Work Proble
 
 
 
+<div align="left">
+   <img id="last-update-badge" src="https://img.shields.io/badge/%F0%9F%93%85%20Last%20update%20-%20August%2031%2C%202021-blue.svg" alt="Last update: August 31, 2021" /> <img src="https://img.shields.io/badge/ %E2%9C%94%20Typology%20version%20-%201.0.0-yellow.svg" alt="1.0.0"/>
+</div>
+<br/>
 
