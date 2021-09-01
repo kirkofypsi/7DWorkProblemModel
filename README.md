@@ -1,6 +1,6 @@
 # Introduction
 
-In the 21st century, work is still a miserable experience despite all the technological advances. Numerous reports show that most of today's workforce is disengaged and that this disengagement has worsened over the last few decades. As job satisfaction is strongly correlated with mental health, dissatisfaction from work may partially explain the recent pandemic of psychological issues among working adults. We must take this issue seriously because it has severe implications for the economy and society. We cannot afford to maintain such a dysfunctional system in the long term.
+In the 21st century, work is still a miserable experience despite all the technological advances. Numerous reports show that most of today's workforce is disengaged and that this disengagement has worsened over the last few decades. As job satisfaction is strongly correlated with mental health, dissatisfaction from work may partially explain the recent increase of psychological issues among working adults. __The Institute for a Better Workplace__ believes that we must take this issue seriously because it has severe implications for the economy and society and that we cannot afford to maintain such a dysfunctional work system in the long term.
 
 
 # 7D Work Problem Model™
