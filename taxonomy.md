@@ -14,4 +14,7 @@ __Culture__ dimension refers to employees' satisfaction stemming from great cult
 
 __Leadership__ dimension groups work satisfaction factors related to employees contentment from being led by good leaders. Its factors are closely related to the leader's qualities and their ability to establish a good relationship with employees.
 
+### 3. Opportunities
+
+__Opportunities__ dimension groups work satisfaction factors related to employees contentment from having good opportunities for both career and personal development. Its factors are related to learning, social interactions, and opportunities to work on creative, challenging tasks.
 
