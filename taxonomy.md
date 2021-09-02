@@ -14,7 +14,7 @@ __Business performance__ dimension groups work satisfaction factors related to e
 
 ### 2. [Culture](dimensions/culture.md)
 
-__Culture__ dimension groups satisfaction factors related to employees satisfaction of working in an organization that has the culture which makes it easy for them to feel comfortable and be part of the organization's identity.
+__Culture__ dimension groups work satisfaction factors related to employees satisfaction from being embedded in a positive organizational culture that is characterized by trust, respect, and collaboration.
 
 ### 3. Leadership
 
