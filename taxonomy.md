@@ -30,7 +30,7 @@ __Rewards__ dimension groups factors related to employee satisfaction of being w
 
 ### 6. Strategy
 
-__Strategy__ dimension groups work satisfaction factors related to employees contentment from having a good strategy in the organization. Its factors are related to the ability to work with a clear vision, the right values, and in a well-organized way.
+__Strategy__ dimension groups work satisfaction factors related to employees satisfaction of working in an organization whose vision, structure and planning are effective and coherent.
 
 ### 7. Work Organization
 
