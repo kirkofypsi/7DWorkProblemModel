@@ -10,15 +10,15 @@
 
 ### 1. Business performance
 
-__Business performance__ dimension groups work satisfaction factors related to employees contentment from working in an organization that performs well. Its factors reflect the organization's ability to manage with good results its workforce, customers, products, markets and financials.
+__Business performance__ dimension groups work satisfaction factors related to employees satisfaction from working in an organization that is able to manage with good results its workforce, customers, products, markets and financials.
 
 ### 2. [Culture](dimensions/culture.md)
 
-__Culture__ dimension refers to employees' satisfaction stemming from great culture of their organization. Its factors are related to the ability to work in an environment where it is easy to feel comfortable and to be a part of the organization's identity.
+Culture dimension groups satisfaction factors related to employees satisfaction of working in an organization that has the culture which makes it easy for them to feel comfortable and be part of the organization's identity.
 
 ### 3. Leadership
 
-__Leadership__ dimension groups work satisfaction factors related to employees contentment from being led by good leaders. Its factors are closely related to the leader's qualities and their ability to establish a good relationship with employees.
+__Leadership__ dimension groups work satisfaction factors related to employees satisfaction from being led by good leaders.
 
 ### 4. Opportunities
 
