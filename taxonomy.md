@@ -26,7 +26,7 @@ __Opportunities__ dimension groups work satisfaction factors related to employee
 
 ### 5. Rewards
 
-__Rewards__ dimension groups factors related to employee satisfaction of being well rewarded for their work.
+__Rewards__ dimension groups work satisfaction factors related to employee satisfaction of being well rewarded for their work.
 
 ### 6. Strategy
 
