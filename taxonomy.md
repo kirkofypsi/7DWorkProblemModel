@@ -10,7 +10,7 @@
 
 ### 1. Business performance
 
-__Business performance__ dimension groups work satisfaction factors related to employees satisfaction from working in an organization that is able to manage with good results its workforce, customers, products, markets and financials.
+__Business performance__ dimension groups work satisfaction factors related to employees satisfaction from working in an organization that is able to manage its customers, products, markets, financials and workforce with good results.
 
 ### 2. [Culture](dimensions/culture.md)
 
