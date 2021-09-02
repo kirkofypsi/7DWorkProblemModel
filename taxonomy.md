@@ -22,7 +22,7 @@ __Leadership__ dimension groups work satisfaction factors related to employees s
 
 ### 4. Opportunities
 
-__Opportunities__ dimension groups work satisfaction factors related to employees satisfaction from having good opportunities for career, intellectual and social development.
+__Opportunities__ dimension groups work satisfaction factors related to employees satisfaction from having good opportunities for professional, intellectual and social development.
 
 ### 5. Rewards
 
