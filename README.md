@@ -15,7 +15,7 @@ Unfortunately, there is an absence in the scientific literature of a reference t
 In order to build taxonomy of work problems that is exhaustive and whose validity is tested on large dataset of employees opinions the __Institute for a Better Workplace__ conducted one of the most comprehensive studies on how organizations and employees are impacted by work problems. The study was based on more than two million opinions about workplace experiences reported by the employees of over 300 global organizations. Two million opinions is equivalent to 250 average-sized books so obviously without the recent advances in machine learning and the transformers revolution in NLP such a study would have been very difficult to conduct.
 
 The resulting taxonomy called the __7D Work Problem Model™__ recognizes 130 different work problems at its most granular level which is enough to classify more than 75% of our dataset of employees' opinions. Instead of grouping  work problems into super-problem categories we decided to aggregate them by work satisfaction factors that they act against. For example, the occurrence of a work problem "No freedom to speak one's mind"  negatively affects employees satisfaction of being able to be open at their workplace. We call this satisfaction factor "Openness" and thus the aforementioned problem was assigned to it along with the two other problems "Lack of transparency" and "Aversion to risk or changes". Finally, work satisfaction factors were subsequently grouped into __work satisfaction dimensions__ representing crucial concepts from the areas of management and systems organization.
-
+<br/>
 *Summary of 7D Work Problem Model™ taxonomy levels*
 
 | Level (from the top)  |      Level name      |  Description  | Cardinality |
@@ -33,6 +33,7 @@ The resulting taxonomy called the __7D Work Problem Model™__ recognizes 130 di
        * Undefined career paths  &nbsp;  &nbsp;  &nbsp; <-- *Work problem*
        * Outsiders favored over insiders  &nbsp;  &nbsp;  &nbsp; <-- *Work problem*
 
+<br/>
 The __7D Work Problem Model™__ does not represent a static taxonomy. It will be thoroughly reviewed every few months and possibly modified to reflect new developments in research or changes in the world of work.
 
 __The Institute for a Better Workplace__ decided to open-source work problem taxonomy in order to make it available to researchers and companies interested in the topic. It is our hope that this taxonomy will be used to improve work environments and the well-being of employees around the world.
