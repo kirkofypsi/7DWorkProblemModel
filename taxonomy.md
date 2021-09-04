@@ -32,7 +32,7 @@ __Rewards__ dimension groups work satisfaction factors related to employee satis
 
 __Strategy__ dimension groups work satisfaction factors related to employees satisfaction from working in an organization whose vision, structure and planning are effective and coherent.
 
-### 7. Work Organization
+### 7. [Work Organization](dimensions/work_organization.md)
 
 __Work organization__ dimension groups work satisfaction factors related to employees satisfaction of working in an organization where all work processes are managed smoothly and efficiently.
 
