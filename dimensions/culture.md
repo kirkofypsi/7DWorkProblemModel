@@ -12,7 +12,7 @@ Working for an organization that encourages teamwork and collaboration across em
 
 Organization's culture is perceived as siloed and encouraging conflict between groups of employees. As a consequence different parts of the organization are not cooperating and they work against each other. Siloes lead to operational inefficiencies, poor information sharing and lack of synergy in the organization.
 
-Examples:
+Exemplary statements reported by employees:
 
 * difficult to interact / work with other teams / departments
 * little fiefdoms through various departments
