@@ -20,7 +20,7 @@ __Culture__ dimension groups work satisfaction factors related to employees sati
 
 __Leadership__ dimension groups work satisfaction factors related to employees satisfaction from being led by good leaders.
 
-### 4. Opportunities
+### 4. [Opportunities](dimensions/opportunities.md)
 
 __Opportunities__ dimension groups work satisfaction factors related to employees satisfaction from having good opportunities for professional, intellectual and social development.
 
