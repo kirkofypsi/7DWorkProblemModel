@@ -8,7 +8,7 @@
 
 ## The seven dimensions of work satisfaction
 
-### 1. Business performance
+### 1. [Business performance](dimensions/business_performance.md)
 
 __Business performance__ dimension groups work satisfaction factors related to employees satisfaction from working in an organization that is able to manage its customers, products, markets, financials and workforce with good results.
 
