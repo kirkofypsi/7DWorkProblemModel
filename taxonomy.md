@@ -28,7 +28,7 @@ __Opportunities__ dimension groups work satisfaction factors related to employee
 
 __Rewards__ dimension groups work satisfaction factors related to employee satisfaction of being well rewarded for their work.
 
-### 6. Strategy
+### 6. [Strategy](dimensions/strategy.md)
 
 __Strategy__ dimension groups work satisfaction factors related to employees satisfaction from working in an organization whose vision, structure and planning are effective and coherent.
 
