@@ -34,5 +34,5 @@ __Strategy__ dimension groups work satisfaction factors related to employees sat
 
 ### 7. Work Organization
 
-__Work Organization__ dimension groups work satisfaction factors related to employees satisfaction of working in an organization where all work processes are managed smoothly and efficiently.
+__Work organization__ dimension groups work satisfaction factors related to employees satisfaction of working in an organization where all work processes are managed smoothly and efficiently.
 
