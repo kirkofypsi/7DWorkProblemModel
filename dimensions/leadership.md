@@ -15,15 +15,15 @@ Leaders are perceived as not communicating enough or not effectively. Employees 
 
 Exemplary statements reported by employees:
 
-* no communication between offices
+* *no communication between offices*
 
-* the communication is not working
+* *the communication is not working*
 
-* no timely dissemination of information to employees
+* *no timely dissemination of information to employees*
 
-* strategy is not clearly communicated
+* *strategy is not clearly communicated*
 
-* lack of communication between teams
+* *lack of communication between teams*
 
 
 
