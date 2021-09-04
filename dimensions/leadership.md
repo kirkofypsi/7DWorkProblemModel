@@ -13,7 +13,7 @@ Being led by leaders who listen to employees' concerns or views, communicate eff
 ### Dysfunctional communication
 Leaders are perceived as not communicating enough or not effectively. Employees may feel like they are in the dark about what is going on and how their work fits into the bigger picture. Business units may not be able to collaborate effectively due to lack of knowledge sharing.
 
-Exemplary statements reported by employees:
+__Exemplary statements reported by employees:__
 
 * *no communication between offices*
 * *the communication is not working*
