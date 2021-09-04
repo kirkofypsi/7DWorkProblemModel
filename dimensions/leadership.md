@@ -16,17 +16,10 @@ Leaders are perceived as not communicating enough or not effectively. Employees 
 Exemplary statements reported by employees:
 
 * *no communication between offices*
-
 * *the communication is not working*
-
 * *no timely dissemination of information to employees*
-
 * *strategy is not clearly communicated*
-
 * *lack of communication between teams*
-
-
-
 
 ### Inefficient meetings
 Leaders run business meetings in a way that is perceived  a time waste. There are too many meetings, they lack focus, have no specific purpose or their outcome is not clear.
