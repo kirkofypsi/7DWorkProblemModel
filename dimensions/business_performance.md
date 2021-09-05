@@ -6,7 +6,7 @@ Business performance dimension groups work satisfaction factors related to emplo
 Working for an organization that successfully manages its workforce, including hiring and retaining the right people, creating secure employment, and avoiding unnecessary layoffs.
 
 ### High employee turnover
-Organization experiences high employees turnover. It may have a high attrition rate of talented people leaving on their own or there could be bleeding of its best talent by competitors offering better pay and conditions. The organization may be perceived as a place where employees spend just few years, get their experience and then move on to better opportunities elsewhere.
+Organization experiences high employee turnover. It may have a high attrition rate of talented people leaving on their own or there could be bleeding of its best talent by competitors offering better pay and conditions. The organization may be perceived as a place where employees spend just few years, get their experience and then move on to better opportunities elsewhere.
 
 __Exemplary statements reported by employees:__
 
