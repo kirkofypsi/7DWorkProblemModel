@@ -91,7 +91,7 @@ __Exemplary statements reported by employees:__
 
 
 ## Empowerment
-Being led by leaders who encourage employees to take responsibility for the decisions at work and to trust employees to make their own decisions.
+Being led by leaders who encourage employees to take responsibility for the decisions at work and who trust employees to make their own decisions.
 
 ### Limited work autonomy
 Leaders do not delegate authority or empower employees. They micromanage and constantly scrutinize the work of their staff. Employees are not given enough freedom to work how they want or make decisions on their own.
