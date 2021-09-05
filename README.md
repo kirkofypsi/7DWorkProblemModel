@@ -49,5 +49,6 @@ __The Institute for a Better Workplace__ decided to open-source work problem tax
 ### References
 
 [1] https://www.gallup.com/workplace/352949/employee-engagement-holds-steady-first-half-2021.aspx
+
 [2] Jean-Luc Kop, Virginie Althaus, Nadja Formet, Vincent Grosjean, Systematic comparative content analysis of 17 psychosocial work environment questionnaires using a new taxonomy, International Journal of Occupational and Environmental Health, April 2016
 
