@@ -1,6 +1,6 @@
 # Introduction
 
-In the 21st century, work is still a miserable experience despite all the technological advances. Numerous reports show that most of today's workforce is disengaged and that this disengagement has worsened over the last few decades. As job satisfaction is strongly correlated with mental health, dissatisfaction from work may partially explain the recent raise of psychological issues among working adults. __The Institute for a Better Workplace__ believes that we must take this issue seriously because it has severe implications for the economy and society and that we cannot afford to maintain such a dysfunctional work system in the long term.
+In the 21st century, work is still a miserable experience despite all the technological advances. Numerous reports show that only around one third of today's workforce is engaged [1] and that the engagement has not significantly improved over the last decade. As job satisfaction is strongly correlated with mental health, dissatisfaction from work may partially explain the recent raise of psychological issues among working adults. __The Institute for a Better Workplace__ believes that we must take this issue seriously because it has severe implications for the economy and society and that we cannot afford to maintain such a dysfunctional work system in the long term.
 
 We believe that low work satisfaction largely stems from the fact that modern companies are extremely non-transparent and able to successfully employ propaganda to create a favorable but untrue image of themselves. This in turn prevents the general public from realizing weaknesses of organizations and creates an opportunity for companies to continue their current bad practices. Our aim is to open the black box of companies and to provide a neutral point of view on the working world. In order to do that, however, we had to first create an exhaustive catalogue of the most common work problems. Without it, it would be extremely difficult to objectively compare different companies by their work climate and to offer to the general public a uniform, digestible, and easy-to-understand view of what is happening at different work places. 
 
@@ -48,4 +48,6 @@ __The Institute for a Better Workplace__ decided to open-source work problem tax
 
 ### References
 
-[1] Jean-Luc Kop, Virginie Althaus, Nadja Formet, Vincent Grosjean, Systematic comparative content analysis of 17 psychosocial work environment questionnaires using a new taxonomy, International Journal of Occupational and Environmental Health, April 2016
+[1] https://www.gallup.com/workplace/352949/employee-engagement-holds-steady-first-half-2021.aspx
+[2] Jean-Luc Kop, Virginie Althaus, Nadja Formet, Vincent Grosjean, Systematic comparative content analysis of 17 psychosocial work environment questionnaires using a new taxonomy, International Journal of Occupational and Environmental Health, April 2016
+
