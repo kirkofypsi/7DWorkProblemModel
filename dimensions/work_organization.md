@@ -58,7 +58,7 @@ __Exemplary statements reported by employees:__
 Being provided with adequate and modern tools for the job.
 
 ### OUTDATED, INEFFICIENT OR MISSING TOOLS
-> Organization is perceived as having outdated, inefficient or completely missing tools. The infrastructure could be in need of updating, employees could have a totally inadequate hardware setup for their jobs, technology stack could be a bit outdated, legacy code base might be extremely difficult to maintain or replace, systems and applications used by employees could be very poor quality or simply outdated.
+> Organization is perceived as having outdated or inefficient tools. The infrastructure could be in need of updating, employees could have a totally inadequate hardware setup for their jobs, technology stack could be a bit outdated, legacy code base might be extremely difficult to maintain or replace, systems and applications used by employees could be very poor quality or simply outdated.
 
 __Exemplary statements reported by employees:__
 
