@@ -70,7 +70,7 @@ __Exemplary statements reported by employees:__
 
 
 ## TRAINING
-Being offered sufficient training both during onboarding and in the course of employment.
+Being offered sufficient training during both onboarding and in the course of employment.
 
 ### INADEQUATE OR SLOW ONBOARDING
 > Organization fails to provide new hires with adequate support during their first few weeks of employment. Employees complain about poor training quality,  inadequate on-boarding materials or the slowness of the on-boarding process.
