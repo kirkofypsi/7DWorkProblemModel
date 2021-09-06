@@ -8,31 +8,23 @@
 
 ## The seven dimensions of work satisfaction
 
-### 1. [Business performance](dimensions/business_performance.md)
+### [ LEADERSHIP ](dimensions/leadership.md)
+Leadership dimension groups work satisfaction factors related to employees satisfaction from being led by good leaders.
 
-__Business performance__ dimension groups work satisfaction factors related to employees satisfaction from working in an organization that is able to manage its customers, products, markets, financials and workforce with good results.
+### [ OPPORTUNITIES ](dimensions/opportunities.md)
+Opportunities dimension groups work satisfaction factors related to employees satisfaction from having good opportunities for professional, intellectual and social development.
 
-### 2. [Culture](dimensions/culture.md)
+### [ STRATEGY ](dimensions/strategy.md)
+Strategy dimension groups work satisfaction factors related to employees satisfaction from working in an organization whose vision, structure and planning are effective and coherent.
 
-__Culture__ dimension groups work satisfaction factors related to employees satisfaction from being embedded in a positive organizational culture that is characterized by trust, respect, and collaboration.
+### [ CULTURE ](dimensions/culture.md)
+Culture dimension groups work satisfaction factors related to employees satisfaction from being embedded in a positive organizational culture that is characterized by trust, respect, and collaboration.
 
-### 3. [Leadership](dimensions/leadership.md)
+### [ BUSINESS PERFORMANCE ](dimensions/business_performance.md)
+Business performance dimension groups work satisfaction factors related to employees satisfaction from working in an organization that is able to manage its customers, products, markets, financials and workforce with good results.
 
-__Leadership__ dimension groups work satisfaction factors related to employees satisfaction from being led by good leaders.
+### [ WORK ORGANIZATION ](dimensions/work_organization.md)
+Work organization dimension groups work satisfaction factors related to employees satisfaction of working in an organization where all work processes are managed smoothly and efficiently.
 
-### 4. [Opportunities](dimensions/opportunities.md)
-
-__Opportunities__ dimension groups work satisfaction factors related to employees satisfaction from having good opportunities for professional, intellectual and social development.
-
-### 5. [Rewards](dimensions/rewards.md)
-
-__Rewards__ dimension groups work satisfaction factors related to employee satisfaction of being well rewarded for their work.
-
-### 6. [Strategy](dimensions/strategy.md)
-
-__Strategy__ dimension groups work satisfaction factors related to employees satisfaction from working in an organization whose vision, structure and planning are effective and coherent.
-
-### 7. [Work Organization](dimensions/work_organization.md)
-
-__Work organization__ dimension groups work satisfaction factors related to employees satisfaction of working in an organization where all work processes are managed smoothly and efficiently.
-
+### [ REWARDS ](dimensions/rewards.md)
+Rewards dimension groups work satisfaction factors related to employee satisfaction of being well rewarded for their work.
