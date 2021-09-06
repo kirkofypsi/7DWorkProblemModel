@@ -22,7 +22,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Lack of accountability
-Organization's culture does not emphasize accountability. Leaders have little accountability for actions and employees are not held responsible for their job performance. One common manifestation of this problem is a tolerance for underperforming employees. Instead of dealing with poor performers, managers may cover them up by pushing their work to good performers.
+> Organization's culture does not emphasize accountability. Leaders have little accountability for actions and employees are not held responsible for their job performance. One common manifestation of this problem is a tolerance for underperforming employees. Instead of dealing with poor performers, managers may cover them up by pushing their work to good performers.
 
 __Exemplary statements reported by employees:__
 
@@ -42,7 +42,7 @@ __Exemplary statements reported by employees:__
 Working for an organization that respects the human rights and dignity of all employees.
 
 ### Unethical or illegal practices
-Employees allege that they have met in the organization with cases of unethical or illegal practices. It might include any actions related to misleading customers, spying on customers, stealing customers data, violating labor law or supporting unethical industries like the arms trade. In rare cases, employees allege that they witnessed very serious law breaches related to fraud, corruption or bribery.
+> Employees allege that they have met in the organization with cases of unethical or illegal practices. It might include any actions related to misleading customers, spying on customers, stealing customers data, violating labor law or supporting unethical industries like the arms trade. In rare cases, employees allege that they witnessed very serious law breaches related to fraud, corruption or bribery.
 
 __Exemplary statements reported by employees:__
 
@@ -58,7 +58,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Gossips or slanders
-Employees allege that the organization has a gossipy culture. Management might be the source of this problem by talking about employees behind their backs or by taking hearsay-based decisions. Employees may also be encouraged to tattle on each other and management may spread rumours about colleagues, thus creating an atmosphere where denigration is tolerated.
+> Employees allege that the organization has a gossipy culture. Management might be the source of this problem by talking about employees behind their backs or by taking hearsay-based decisions. Employees may also be encouraged to tattle on each other and management may spread rumours about colleagues, thus creating an atmosphere where denigration is tolerated.
 
 __Exemplary statements reported by employees:__
 
@@ -74,7 +74,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Politicking or manipulations
-Employees allege that the organization is highly politicized. They might be constantly involved in power plays and office politics which prevents them from doing their job properly.  There could be also a lot of manipulation including sycophancy or backstabbing.
+> Employees allege that the organization is highly politicized. They might be constantly involved in power plays and office politics which prevents them from doing their job properly.  There could be also a lot of manipulation including sycophancy or backstabbing.
 
 __Exemplary statements reported by employees:__
 
@@ -90,7 +90,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Hostile or rude attitudes
-Employees allege that the organization's culture is full of hostile or rude attitudes. It might be common for personnel to behave in a way that is perceived as disrespectful or offensive. Employees might be unkind or unpleasant towards each other, they might be overly aggressive, condescending or abusive. Work in a hostile environment is not only stressful but also affects individual and organizational performance.
+> Employees allege that the organization's culture is full of hostile or rude attitudes. It might be common for personnel to behave in a way that is perceived as disrespectful or offensive. Employees might be unkind or unpleasant towards each other, they might be overly aggressive, condescending or abusive. Work in a hostile environment is not only stressful but also affects individual and organizational performance.
 
 __Exemplary statements reported by employees:__
 
@@ -106,7 +106,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Sexual harassment
-Employees allege that there are cases of sexual harassment in the organization. This might mean that the organizational culture is permissive for this type of behaviours.
+> Employees allege that there are cases of sexual harassment in the organization. This might mean that the organizational culture is permissive for this type of behaviours.
 
 __Exemplary statements reported by employees:__
 
@@ -122,7 +122,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Mobbing
-Employees allege that the there are cases of mobbing in the organization. This might mean that the organizational culture is permissive for this type of behaviours.
+> Employees allege that the there are cases of mobbing in the organization. This might mean that the organizational culture is permissive for this type of behaviours.
 
 __Exemplary statements reported by employees:__
 
@@ -142,7 +142,7 @@ __Exemplary statements reported by employees:__
 Working for an organization that maintains consistent standards of behavior across the organization.
 
 ### Inconsistent or fake culture
-Organization is perceived as having inconsistent culture or the one that is incompatible with officially espoused values and principles. The incongruence between declared and actual culture could lead to questions such as whether the leadership is just faking the culture or not fully committed to it. Cultural inconsistencies, on the other hand, usually happen when the culture was not established in a conscious way but is a result of an organic growth - e.g. many acquisitions of companies operating differently.
+> Organization is perceived as having inconsistent culture or the one that is incompatible with officially espoused values and principles. The incongruence between declared and actual culture could lead to questions such as whether the leadership is just faking the culture or not fully committed to it. Cultural inconsistencies, on the other hand, usually happen when the culture was not established in a conscious way but is a result of an organic growth - e.g. many acquisitions of companies operating differently.
 
 __Exemplary statements reported by employees:__
 
@@ -162,7 +162,7 @@ __Exemplary statements reported by employees:__
 Working for an organization that encourages teamwork and collaboration across employees.
 
 ### Conflicted or siloed organization
-Organization's culture is perceived as siloed and encouraging conflict between groups of employees. As a consequence different parts of the organization are not cooperating and they work against each other. Siloes lead to operational inefficiencies, poor information sharing and lack of synergy in the organization.
+> Organization's culture is perceived as siloed and encouraging conflict between groups of employees. As a consequence different parts of the organization are not cooperating and they work against each other. Siloes lead to operational inefficiencies, poor information sharing and lack of synergy in the organization.
 
 __Exemplary statements reported by employees:__
 
@@ -178,7 +178,7 @@ __Exemplary statements reported by employees:__
 
 
 ### No team spirit
-Organization's culture is perceived as not fostering team spirit. There is lack of collaboration and teamwork skills are not valued. Employees do not care to help each other and do not see any point in cooperating.
+> Organization's culture is perceived as not fostering team spirit. There is lack of collaboration and teamwork skills are not valued. Employees do not care to help each other and do not see any point in cooperating.
 
 __Exemplary statements reported by employees:__
 
@@ -194,7 +194,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Unhealthy employees competition
-Organization's culture is perceived as promoting competition instead of cooperation. Employees are in competition with one another and they may feel that they have to "step on" other people to get ahead. The organization might also be a very competitive environment where employees are forced to compete for promotions, bonuses or recognition.
+> Organization's culture is perceived as promoting competition instead of cooperation. Employees are in competition with one another and they may feel that they have to "step on" other people to get ahead. The organization might also be a very competitive environment where employees are forced to compete for promotions, bonuses or recognition.
 
 __Exemplary statements reported by employees:__
 
@@ -214,7 +214,7 @@ __Exemplary statements reported by employees:__
 Working for an organization that encourages a variety of perspectives, backgrounds and talents in the workplace.
 
 ### Not enough diversity
-Organization is perceived as not being diverse enough. It may lack racial,  gender, age or some other form of diversity. Lack of people from variety backgrounds and perspectives is considered by employees as a factor that might be limiting the organization's potential.
+> Organization is perceived as not being diverse enough. It may lack racial,  gender, age or some other form of diversity. Lack of people from variety backgrounds and perspectives is considered by employees as a factor that might be limiting the organization's potential.
 
 __Exemplary statements reported by employees:__
 
@@ -234,7 +234,7 @@ __Exemplary statements reported by employees:__
 Working for an organization that provides equal opportunity for all employees regardless of race, nationality, ethnic background, social standing, gender or sexual orientation.
 
 ### Favoritism & cliques
-Employees allege that the organization has a culture of favoritism and cliques. They claim that some employees are favored over others, promotions are based on who you know or what your relationship is with management, and certain teams have an exclusionary culture. There might be also cases of nepotism and cronyism.
+> Employees allege that the organization has a culture of favoritism and cliques. They claim that some employees are favored over others, promotions are based on who you know or what your relationship is with management, and certain teams have an exclusionary culture. There might be also cases of nepotism and cronyism.
 
 __Exemplary statements reported by employees:__
 
@@ -250,7 +250,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Age discrimination
-Employees allege that the organization is discriminatory on the grounds of age.
+> Employees allege that the organization is discriminatory on the grounds of age.
 
 __Exemplary statements reported by employees:__
 
@@ -266,7 +266,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Racial discrimination
-Employees allege that the organization is discriminatory on the grounds of race.
+> Employees allege that the organization is discriminatory on the grounds of race.
 
 __Exemplary statements reported by employees:__
 
@@ -282,7 +282,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Gender discrimination
-Employees allege that the organization is discriminatory on the grounds of gender identity and expression.
+> Employees allege that the organization is discriminatory on the grounds of gender identity and expression.
 
 __Exemplary statements reported by employees:__
 
@@ -298,7 +298,7 @@ __Exemplary statements reported by employees:__
 
 
 ### National origin discrimination
-Employees allege that the organization is discriminatory on the grounds of nationality.
+> Employees allege that the organization is discriminatory on the grounds of nationality.
 
 __Exemplary statements reported by employees:__
 
@@ -314,7 +314,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Other problems with discrimination
-Employees allege that the organization is discriminatory on the grounds other than age, race, gender and nationality.
+> Employees allege that the organization is discriminatory on the grounds other than age, race, gender and nationality.
 
 __Exemplary statements reported by employees:__
 
@@ -334,7 +334,7 @@ __Exemplary statements reported by employees:__
 Working for an organization that promotes openness.
 
 ### No freedom to speak one's mind
-Organization's culture is perceived as not offering freedom to employees to express their thoughts. Employees might be afraid to speak their mind or ask questions about important decisions in fear of retaliation.
+> Organization's culture is perceived as not offering freedom to employees to express their thoughts. Employees might be afraid to speak their mind or ask questions about important decisions in fear of retaliation.
 
 __Exemplary statements reported by employees:__
 
@@ -350,7 +350,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Lack of transparency
-Organization's culture is perceived as secretive. Employees might not be aware of the organization's goals, strategy or its future plans. They may also feel that they are being left in the dark and that the organization is not open with them. Leaders might also be unwilling to share information about the company's financial performance, pay ranges or other sensitive data.
+> Organization's culture is perceived as secretive. Employees might not be aware of the organization's goals, strategy or its future plans. They may also feel that they are being left in the dark and that the organization is not open with them. Leaders might also be unwilling to share information about the company's financial performance, pay ranges or other sensitive data.
 
 __Exemplary statements reported by employees:__
 
@@ -366,7 +366,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Aversion to risk or changes
-Organization is perceived to be risk averse or it is simply too difficult for employees to introduce changes. The slow adoption of ideas could also fall into this category as well as an overly rigid way of thinking, old-school management style or culture.
+> Organization is perceived to be risk averse or it is simply too difficult for employees to introduce changes. The slow adoption of ideas could also fall into this category as well as an overly rigid way of thinking, old-school management style or culture.
 
 __Exemplary statements reported by employees:__
 
@@ -386,7 +386,7 @@ __Exemplary statements reported by employees:__
 Working for an organization that promotes trust between employees.
 
 ### Low trust
-Organization's culture is perceived as one of distrust. Employees do not trust leaders or co-workers and they may be reluctant to share information with them. Leaders might not trust their staff and they might also be distrustful of customers.
+> Organization's culture is perceived as one of distrust. Employees do not trust leaders or co-workers and they may be reluctant to share information with them. Leaders might not trust their staff and they might also be distrustful of customers.
 
 __Exemplary statements reported by employees:__
 
@@ -406,7 +406,7 @@ __Exemplary statements reported by employees:__
 Working for an organization that protects well-being of its employees.
 
 ### Stress or constant pressure
-Organization's culture is perceived as tolerant to high stress levels, which is not conducive to employees' well being. This might mean that excessive pressure on employees is seen as a valid method for achieving targets. High levels of stress experienced by the employees might eventually cause a burn-out state or anxiety issues.
+> Organization's culture is perceived as tolerant to high stress levels, which is not conducive to employees' well being. This might mean that excessive pressure on employees is seen as a valid method for achieving targets. High levels of stress experienced by the employees might eventually cause a burn-out state or anxiety issues.
 
 __Exemplary statements reported by employees:__
 
@@ -422,7 +422,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Low morale
-Organization's culture is perceived as full of negativity and unhappiness. Employees' morale is low. Many of them are not motivated to do their best. Passive attitudes are common.
+> Organization's culture is perceived as full of negativity and unhappiness. Employees' morale is low. Many of them are not motivated to do their best. Passive attitudes are common.
 
 __Exemplary statements reported by employees:__
 
@@ -438,7 +438,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Poor work-life balance
-Organization's culture is perceived as not supportive for keeping good work-life balance. Employees might complain about the fact that they spend too much time in work and not enough on their family or hobbies. They also might feel like they are being forced to sacrifice their personal lives to succeed at work.
+> Organization's culture is perceived as not supportive for keeping good work-life balance. Employees might complain about the fact that they spend too much time in work and not enough on their family or hobbies. They also might feel like they are being forced to sacrifice their personal lives to succeed at work.
 
 __Exemplary statements reported by employees:__
 
@@ -454,7 +454,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Impersonal culture
-Organization's culture is perceived as promoting employees' objectification. Employess might be seen as cogs in the machine or resources to exploit for profit and when they are no longer useful, management might choose to replace them with someone else.
+> Organization's culture is perceived as promoting employees' objectification. Employess might be seen as cogs in the machine or resources to exploit for profit and when they are no longer useful, management might choose to replace them with someone else.
 
 __Exemplary statements reported by employees:__
 
