@@ -320,7 +320,7 @@ __Exemplary statements reported by employees:__
 * *surrounding neighborhood can be unsafe*
 
 ### OVERCROWDED WORKPLACE
-> Workplace is perceived as overcrowded. Employees might have to be forced to hot-desk in the office. Also there may be too little space per employee or not enough room for everybody to work in an ergonomic way.
+> Workplace is perceived as overcrowded. There may be too little space per employee or not enough room for everybody to work in an ergonomic way.
 
 __Exemplary statements reported by employees:__
 
