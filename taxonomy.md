@@ -28,3 +28,6 @@ Work organization dimension groups work satisfaction factors related to employee
 
 ### [ REWARDS ](dimensions/rewards.md)
 Rewards dimension groups work satisfaction factors related to employee satisfaction of being well rewarded for their work.
+
+## Taxonomy index
+
