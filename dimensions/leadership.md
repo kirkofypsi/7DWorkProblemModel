@@ -39,6 +39,21 @@ __Exemplary statements reported by employees:__
 * *no review system in place*
 
 
+## COMPETENCE
+Being led by leaders who have the necessary knowledge and skills to carry out their job.
+
+### INCOMPETENT LEADERS
+> Leaders are not equipped with the necessary skills to fulfill their management duties. To employees, they are either incompetent or unprofessional. They cannot be considered role models for their subordinates and peers.
+
+__Exemplary statements reported by employees:__
+
+* *managers lack leadership qualities*
+* *company run by amateurs*
+* *managers don't know the job*
+* *managers are poorly trained*
+* *company led by novices*
+
+
 ## DECISION-MAKING
 Being led by leaders who make quick decisions taking into account employees' views.
 
@@ -83,17 +98,6 @@ __Exemplary statements reported by employees:__
 ## FAIRNESS
 Being led by leaders who treat employees fairly by applying the same criteria to every employee.
 
-### UNMERITED PROMOTIONS
-> Leaders are perceived as not being fair in awarding promotions. Employees have a perception that promotions are too often given to poorly performing employees, unqualified internal candidates or people who are using personal connections to get promoted. The overall feeling is that promotions are decided arbitrarily, wrongfully and sometimes dishonestly.
-
-__Exemplary statements reported by employees:__
-
-* *doubtful promotions*
-* *unwarranted promotions*
-* *promotions not based on performance*
-* *unfair career progressions*
-* *promotions are not based on merit*
-
 ### OTHER UNFAIR DECISIONS
 > Leaders are perceived as being unfair in other aspects than promotion-related. They might not be meritocratic, might apply unfair practices toward employees, or treat preferentially some employees. The organization may not have a fair system in place for rewards, appraisals, hiring, work assignment or other decisions.
 
@@ -104,6 +108,17 @@ __Exemplary statements reported by employees:__
 * *company is not meritocratic*
 * *unfair expectations*
 * *unfair enforcement of policies*
+
+### UNMERITED PROMOTIONS
+> Leaders are perceived as not being fair in awarding promotions. Employees have a perception that promotions are too often given to poorly performing employees, unqualified internal candidates or people who are using personal connections to get promoted. The overall feeling is that promotions are decided arbitrarily, wrongfully and sometimes dishonestly.
+
+__Exemplary statements reported by employees:__
+
+* *doubtful promotions*
+* *unwarranted promotions*
+* *promotions not based on performance*
+* *unfair career progressions*
+* *promotions are not based on merit*
 
 
 ## INTEGRITY
@@ -121,34 +136,8 @@ __Exemplary statements reported by employees:__
 * *management is not honest with employees*
 
 
-## COMPETENCE
-Being led by leaders who have the necessary knowledge and skills to carry out their job.
-
-### INCOMPETENT LEADERS
-> Leaders are not equipped with the necessary skills to fulfill their management duties. To employees, they are either incompetent or unprofessional. They cannot be considered role models for their subordinates and peers.
-
-__Exemplary statements reported by employees:__
-
-* *managers lack leadership qualities*
-* *company run by amateurs*
-* *managers don't know the job*
-* *managers are poorly trained*
-* *company led by novices*
-
-
 ## RESPECTFULNESS
 Being led by leaders who treat all employees with dignity and show appreciation for their efforts at work.
-
-### NO APPRECIATION OR RECOGNITION
-> Leaders are perceived as showing little or no appreciation for hard work and contributions made by employees. They are accused of undervaluing their employees, minimizing individual contributions made by them or simply not recognizing any great work done, which could diminish employees' sense of accomplishment and motivation.
-
-__Exemplary statements reported by employees:__
-
-* *leadership does not value employees*
-* *you won't get credit for your work*
-* *under-appreciated*
-* *you can feel undervalued*
-* *company is not really interested in employee's appreciation*
 
 ### EGOCENTRIC OR AGGRESSIVE LEADERS
 > Leaders are perceived as being egocentric or aggressive. They are disrespectful to employees and lack appropriate manners which manifests itself by the very aggressive communication style or use of a rude language. Finally, some of the leaders demonstrate conceiting attitude or behavior.
@@ -160,6 +149,17 @@ __Exemplary statements reported by employees:__
 * *managers are belittling to staff*
 * *management can be passive-aggressive*
 * *management's respect for staff is low*
+
+### NO APPRECIATION OR RECOGNITION
+> Leaders are perceived as showing little or no appreciation for hard work and contributions made by employees. They are accused of undervaluing their employees, minimizing individual contributions made by them or simply not recognizing any great work done, which could diminish employees' sense of accomplishment and motivation.
+
+__Exemplary statements reported by employees:__
+
+* *leadership does not value employees*
+* *you won't get credit for your work*
+* *under-appreciated*
+* *you can feel undervalued*
+* *company is not really interested in employee's appreciation*
 
 
 ## SUPPORTIVENESS
