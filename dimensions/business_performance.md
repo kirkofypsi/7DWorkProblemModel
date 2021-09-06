@@ -3,7 +3,7 @@
 Business performance dimension groups work satisfaction factors related to employees satisfaction from working in an organization that is able to manage its customers, products, markets, financials and workforce with good results.
 
 ## Workforce
-Working for an organization that successfully manages its workforce, including hiring and retaining the right people, creating secure employment, and avoiding unnecessary layoffs.
+Working for an organization that successfully manages its workforce including hiring and retaining right people, creating secure employment, and avoiding moving core competences out of the organization.
 
 ### High employee turnover
 Organization experiences high employee turnover. It may have a high attrition rate of talented people leaving on their own or there could be bleeding of its best talent by competitors offering better pay and conditions. The organization may be perceived as a place where employees spend just few years, get their experience and then move on to better opportunities elsewhere.
@@ -135,7 +135,7 @@ __Exemplary statements reported by employees:__
 
 
 ## Offering
-Working for an organization that successfully manages its products to be competitive, attractive to customers and well priced.
+Working for an organization that successfully manages its products to be competitive and well priced.
 
 ### Poor market offering
 Products or services offered by the organization are outdated or inferior to the competition. This may be the result of a lack of investment in product development or a gap toward competitors in terms of innovation.
@@ -171,7 +171,7 @@ __Exemplary statements reported by employees:__
 
 
 ## Market
-Working for an organization that builds strong brands and is able to find unsaturated markets where it can thrive.
+Working for an organization that builds strong brands, has a positive image, and is competitive in the market.
 
 ### Weak brand or reputation
 Organization does not have recognizable brands or its reputation in the market is not as strong as it should be. A weak brand or a poor reputation may make marketing and sales more difficult, cause employees turnover or slow down business development.
@@ -287,4 +287,3 @@ __Exemplary statements reported by employees:__
 * *cheap mentality*
 
 * *constant cost reductions*
-
