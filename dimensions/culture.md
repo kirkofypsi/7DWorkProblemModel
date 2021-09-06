@@ -6,7 +6,7 @@ Culture dimension groups work satisfaction factors related to employees satisfac
 Working for an organization that is good at allocating responsibility for results and holds people accountable for their actions.
 
 ### Blame game
-Organization's culture is blame-oriented. The staff is constantly blamed for mistakes and failures that are not their fault. Management often passes the buck to other departments or throws its own employees under the bus in order to avoid responsibility.
+> Organization's culture is blame-oriented. The staff is constantly blamed for mistakes and failures that are not their fault. Management often passes the buck to other departments or throws its own employees under the bus in order to avoid responsibility.
 
 __Exemplary statements reported by employees:__
 
