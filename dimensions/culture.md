@@ -102,7 +102,7 @@ __Exemplary statements reported by employees:__
 
 * *co-workers do not respect each other*
 
-* *culture of fear*
+* *employees fight with each other*
 
 
 ### Sexual harassment
@@ -134,7 +134,7 @@ __Exemplary statements reported by employees:__
 
 * *managers insulting people*
 
-* *managers intimidate by using offensive language*
+* *bullying*
 
 
 
@@ -383,7 +383,7 @@ __Exemplary statements reported by employees:__
 
 
 ## Trust
-Working for an organization that promotes trust between employees as the basis for open communication and collaboration.
+Working for an organization that promotes trust between employees.
 
 ### Low trust
 Organization's culture is perceived as one of distrust. Employees do not trust leaders or co-workers and they may be reluctant to share information with them. Leaders might not trust their staff and they might also be distrustful of customers.
@@ -403,7 +403,7 @@ __Exemplary statements reported by employees:__
 
 
 ## Well-being
-Being part of a work environment that supports emotional health.
+Working for an organization that protects well-being of its employees.
 
 ### Stress or constant pressure
 Organization's culture is perceived as tolerant to high stress levels, which is not conducive to employees' well being. This might mean that excessive pressure on employees is seen as a valid method for achieving targets. High levels of stress experienced by the employees might eventually cause a burn-out state or anxiety issues.
@@ -422,7 +422,7 @@ __Exemplary statements reported by employees:__
 
 
 ### Low morale
-Organization's culture is perceived as full of negativity and unhappiness. Employees' morale is low. Many of them are not motivated to do their best. Burnout and passive attitudes are common.
+Organization's culture is perceived as full of negativity and unhappiness. Employees' morale is low. Many of them are not motivated to do their best. Passive attitudes are common.
 
 __Exemplary statements reported by employees:__
 
@@ -467,4 +467,3 @@ __Exemplary statements reported by employees:__
 * *management treats you like a commodity*
 
 * *impersonal environment*
-
