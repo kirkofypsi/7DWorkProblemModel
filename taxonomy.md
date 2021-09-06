@@ -32,5 +32,5 @@ Rewards dimension groups work satisfaction factors related to employee satisfact
 ## Taxonomy index
 
 | Work Satisfaction Dimension | Work Satisfaction Factor | Work Problem |
-|-----------:|---------------:|-------------------------:|-------------:|
+|----------------------------:|-------------------------:|-------------:|
 |Rewards|Compensation|[Uncompetitive salary](dimensions/rewards.md#uncompetitive_salary)|
