@@ -33,4 +33,4 @@ Rewards dimension groups work satisfaction factors related to employee satisfact
 
 | Work Satisfaction Dimension | Work Satisfaction Factor | Work Problem |
 |----------------------------:|-------------------------:|-------------:|
-|Rewards|Compensation|[Uncompetitive salary](dimensions/rewards.md#uncompetitive_salary)|
+|Rewards|Compensation|[Uncompetitive salary](dimensions/rewards.md#uncompetitive-salary)|
