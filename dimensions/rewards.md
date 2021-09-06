@@ -3,7 +3,7 @@
 Rewards dimension groups work satisfaction factors related to employee satisfaction of being well rewarded for their work.
 
 ## Benefits
-Having competitive and attractive benefits.
+Working in an organization that offers competitive benefits package.
 
 ### Poor pension plan
 Organization either does not offer any pension plan or its pension plan is not competitive with the rest of the industry. Employees might feel that the organization is not helping them to save for their retirement.
@@ -135,7 +135,7 @@ __Exemplary statements reported by employees:__
 
 
 ## Compensation
-Having competitive and attractive compensation.
+Being offered competitive compensation including salary, bonuses, and equity-based pay.
 
 ### Unpaid work time
 Employees are not compensated for every hour of their work. They might be expected to do unpaid overtime or they are not paid for the training that is necessary to perform their job properly.
@@ -231,4 +231,3 @@ __Exemplary statements reported by employees:__
 * *pays below market*
 
 * *slave wage*
-
