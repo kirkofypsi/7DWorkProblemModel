@@ -50,7 +50,7 @@ __Exemplary statements reported by employees:__
 * *no team building*
 
 ### OTHER PROBLEMS WITH BENEFITS
-> Organization is failing to provide its employees with attractive benefits in general or in areas other than the ones listed in the other categories. This might be manifested by the lack of employee discounts, company car, or reimbursement for education or relocation. This category also covers instances when an employee is expecting to receive gifts in connection to an important personal or religious event but organization doesn't offer it.
+> Organization is failing to provide its employees with attractive benefits in general or in areas other than the ones listed in the other categories. This might be manifested by a lack of employee discounts, company car, or reimbursement for education or relocation. This category also covers instances when an employee is expecting to receive gifts in connection to an important personal or religious event but organization doesn't offer it.
 
 __Exemplary statements reported by employees:__
 
