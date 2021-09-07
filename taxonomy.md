@@ -73,7 +73,7 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Culture ](dimensions/culture.md) | [ Equality ](dimensions/culture.md#equality)  | [ Racial discrimination ](dimensions/culture.md#racial-discrimination) |
 |  [ Culture ](dimensions/culture.md) | [ Openness ](dimensions/culture.md#openness)  | [ Aversion to risk or changes ](dimensions/culture.md#aversion-to-risk-or-changes) |
 |  [ Culture ](dimensions/culture.md) | [ Openness ](dimensions/culture.md#openness)  | [ Lack of transparency ](dimensions/culture.md#lack-of-transparency) |
-|  [ Culture ](dimensions/culture.md) | [ Openness ](dimensions/culture.md#openness)  | [ No freedom to speak one's mind ](dimensions/culture.md#no-freedom-to-speak-one's-mind) |
+|  [ Culture ](dimensions/culture.md) | [ Openness ](dimensions/culture.md#openness)  | [ No freedom to speak one's mind ](dimensions/culture.md#no-freedom-to-speak-ones-mind) |
 |  [ Culture ](dimensions/culture.md) | [ Trust ](dimensions/culture.md#trust)  | [ Low trust ](dimensions/culture.md#low-trust) |
 |  [ Culture ](dimensions/culture.md) | [ Well-being ](dimensions/culture.md#well-being)  | [ Impersonal culture ](dimensions/culture.md#impersonal-culture) |
 |  [ Culture ](dimensions/culture.md) | [ Well-being ](dimensions/culture.md#well-being)  | [ Low morale ](dimensions/culture.md#low-morale) |
@@ -83,7 +83,7 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Leadership ](dimensions/leadership.md) | [ Communication ](dimensions/leadership.md#communication)  | [ Inefficient meetings ](dimensions/leadership.md#inefficient-meetings) |
 |  [ Leadership ](dimensions/leadership.md) | [ Communication ](dimensions/leadership.md#communication)  | [ Poor performance feedback ](dimensions/leadership.md#poor-performance-feedback) |
 |  [ Leadership ](dimensions/leadership.md) | [ Competence ](dimensions/leadership.md#competence)  | [ Incompetent leaders ](dimensions/leadership.md#incompetent-leaders) |
-|  [ Leadership ](dimensions/leadership.md) | [ Decision-making ](dimensions/leadership.md#decision-making)  | [ Employees' input ignored ](dimensions/leadership.md#employees'-input-ignored) |
+|  [ Leadership ](dimensions/leadership.md) | [ Decision-making ](dimensions/leadership.md#decision-making)  | [ Employees' input ignored ](dimensions/leadership.md#employees-input-ignored) |
 |  [ Leadership ](dimensions/leadership.md) | [ Decision-making ](dimensions/leadership.md#decision-making)  | [ Slow decision-making ](dimensions/leadership.md#slow-decision-making) |
 |  [ Leadership ](dimensions/leadership.md) | [ Empowerment ](dimensions/leadership.md#empowerment)  | [ Limited work autonomy ](dimensions/leadership.md#limited-work-autonomy) |
 |  [ Leadership ](dimensions/leadership.md) | [ Fairness ](dimensions/leadership.md#fairness)  | [ Other unfair decisions ](dimensions/leadership.md#other-unfair-decisions) |
@@ -148,7 +148,7 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Work organization ](dimensions/work_organization.md) | [ Place of work ](dimensions/work_organization.md#place-of-work)  | [ Uncomfortable place of work ](dimensions/work_organization.md#uncomfortable-place-of-work) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Place of work ](dimensions/work_organization.md#place-of-work)  | [ Unsafe place of work ](dimensions/work_organization.md#unsafe-place-of-work) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Processes ](dimensions/work_organization.md#processes)  | [ Bureaucracy or overregulation ](dimensions/work_organization.md#bureaucracy-or-overregulation) |
-|  [ Work organization ](dimensions/work_organization.md) | [ Tools ](dimensions/work_organization.md#tools)  | [ Outdated, inefficient or missing tools ](dimensions/work_organization.md#outdated,-inefficient-or-missing-tools) |
+|  [ Work organization ](dimensions/work_organization.md) | [ Tools ](dimensions/work_organization.md#tools)  | [ Outdated, inefficient or missing tools ](dimensions/work_organization.md#outdated-inefficient-or-missing-tools) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Training ](dimensions/work_organization.md#training)  | [ Inadequate or slow onboarding ](dimensions/work_organization.md#inadequate-or-slow-onboarding) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Training ](dimensions/work_organization.md#training)  | [ Inadequate training ](dimensions/work_organization.md#inadequate-training) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Work arrangements ](dimensions/work_organization.md#work-arrangements)  | [ Difficult to get enough paid time ](dimensions/work_organization.md#difficult-to-get-enough-paid-time) |
