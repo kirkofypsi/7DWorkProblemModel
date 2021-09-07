@@ -53,5 +53,3 @@ __The Institute for a Better Workplace__ decided to open-source work problem tax
 [2] Jean-Luc Kop, Virginie Althaus, Nadja Formet, Vincent Grosjean, Systematic comparative content analysis of 17 psychosocial work environment questionnaires using a new taxonomy, International Journal of Occupational and Environmental Health, April 2016
 
 [3]  Hamidrezaa Mokarami, Stefano Toderi, Reclassification of the work-related stress questionnaires scales based on the work system model: A scoping review and qualitative study, Work, April 2019
-
-[4]
