@@ -4,7 +4,7 @@
 </div>
 <br/>
  
-[Back to introduction](README.md)
+[Back to the introduction](README.md)
 
 ## The seven dimensions of work satisfaction
 
