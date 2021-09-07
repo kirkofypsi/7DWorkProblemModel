@@ -4,7 +4,7 @@
 </div>
 <br/>
  
-[Back to the introduction](README.md)
+[Back to introduction](README.md)
 
 ## The seven dimensions of work satisfaction
 
@@ -83,7 +83,7 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Leadership ](dimensions/leadership.md) | [ Communication ](dimensions/leadership.md#communication)  | [ Inefficient meetings ](dimensions/leadership.md#inefficient-meetings) |
 |  [ Leadership ](dimensions/leadership.md) | [ Communication ](dimensions/leadership.md#communication)  | [ Poor performance feedback ](dimensions/leadership.md#poor-performance-feedback) |
 |  [ Leadership ](dimensions/leadership.md) | [ Competence ](dimensions/leadership.md#competence)  | [ Incompetent leaders ](dimensions/leadership.md#incompetent-leaders) |
-|  [ Leadership ](dimensions/leadership.md) | [ Decision-making ](dimensions/leadership.md#decision-making)  | [ Employees input ignored ](dimensions/leadership.md#employees-input-ignored) |
+|  [ Leadership ](dimensions/leadership.md) | [ Decision-making ](dimensions/leadership.md#decision-making)  | [ Employees' input ignored ](dimensions/leadership.md#employees'-input-ignored) |
 |  [ Leadership ](dimensions/leadership.md) | [ Decision-making ](dimensions/leadership.md#decision-making)  | [ Slow decision-making ](dimensions/leadership.md#slow-decision-making) |
 |  [ Leadership ](dimensions/leadership.md) | [ Empowerment ](dimensions/leadership.md#empowerment)  | [ Limited work autonomy ](dimensions/leadership.md#limited-work-autonomy) |
 |  [ Leadership ](dimensions/leadership.md) | [ Fairness ](dimensions/leadership.md#fairness)  | [ Other unfair decisions ](dimensions/leadership.md#other-unfair-decisions) |
@@ -137,6 +137,16 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Work organization ](dimensions/work_organization.md) | [ Objectives ](dimensions/work_organization.md#objectives)  | [ Demanding or unrealistic objectives ](dimensions/work_organization.md#demanding-or-unrealistic-objectives) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Objectives ](dimensions/work_organization.md#objectives)  | [ Unclear objectives ](dimensions/work_organization.md#unclear-objectives) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Objectives ](dimensions/work_organization.md#objectives)  | [ Unstable or conflicting objectives ](dimensions/work_organization.md#unstable-or-conflicting-objectives) |
+|  [ Work organization ](dimensions/work_organization.md) | [ Place of work ](dimensions/work_organization.md#place-of-work)  | [ Difficult commute ](dimensions/work_organization.md#difficult-commute) |
+|  [ Work organization ](dimensions/work_organization.md) | [ Place of work ](dimensions/work_organization.md#place-of-work)  | [ Distracting place of work ](dimensions/work_organization.md#distracting-place-of-work) |
+|  [ Work organization ](dimensions/work_organization.md) | [ Place of work ](dimensions/work_organization.md#place-of-work)  | [ High cost of living nearby ](dimensions/work_organization.md#high-cost-of-living-nearby) |
+|  [ Work organization ](dimensions/work_organization.md) | [ Place of work ](dimensions/work_organization.md#place-of-work)  | [ Inadequate parking options ](dimensions/work_organization.md#inadequate-parking-options) |
+|  [ Work organization ](dimensions/work_organization.md) | [ Place of work ](dimensions/work_organization.md#place-of-work)  | [ Inconvenient or unsafe location ](dimensions/work_organization.md#inconvenient-or-unsafe-location) |
+|  [ Work organization ](dimensions/work_organization.md) | [ Place of work ](dimensions/work_organization.md#place-of-work)  | [ Overcrowded place of work ](dimensions/work_organization.md#overcrowded-place-of-work) |
+|  [ Work organization ](dimensions/work_organization.md) | [ Place of work ](dimensions/work_organization.md#place-of-work)  | [ Run-down place of work ](dimensions/work_organization.md#run-down-place-of-work) |
+|  [ Work organization ](dimensions/work_organization.md) | [ Place of work ](dimensions/work_organization.md#place-of-work)  | [ Substandard place of work ](dimensions/work_organization.md#substandard-place-of-work) |
+|  [ Work organization ](dimensions/work_organization.md) | [ Place of work ](dimensions/work_organization.md#place-of-work)  | [ Uncomfortable place of work ](dimensions/work_organization.md#uncomfortable-place-of-work) |
+|  [ Work organization ](dimensions/work_organization.md) | [ Place of work ](dimensions/work_organization.md#place-of-work)  | [ Unsafe place of work ](dimensions/work_organization.md#unsafe-place-of-work) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Processes ](dimensions/work_organization.md#processes)  | [ Bureaucracy or overregulation ](dimensions/work_organization.md#bureaucracy-or-overregulation) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Tools ](dimensions/work_organization.md#tools)  | [ Outdated, inefficient or missing tools ](dimensions/work_organization.md#outdated,-inefficient-or-missing-tools) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Training ](dimensions/work_organization.md#training)  | [ Inadequate or slow onboarding ](dimensions/work_organization.md#inadequate-or-slow-onboarding) |
@@ -155,13 +165,3 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Work organization ](dimensions/work_organization.md) | [ Working time ](dimensions/work_organization.md#working-time)  | [ Long hours on workdays ](dimensions/work_organization.md#long-hours-on-workdays) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Working time ](dimensions/work_organization.md#working-time)  | [ Non-standard work hours ](dimensions/work_organization.md#non-standard-work-hours) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Working time ](dimensions/work_organization.md#working-time)  | [ Work on days off ](dimensions/work_organization.md#work-on-days-off) |
-|  [ Work organization ](dimensions/work_organization.md) | [ Workplace ](dimensions/work_organization.md#workplace)  | [ Difficult commute ](dimensions/work_organization.md#difficult-commute) |
-|  [ Work organization ](dimensions/work_organization.md) | [ Workplace ](dimensions/work_organization.md#workplace)  | [ Distracting workplace ](dimensions/work_organization.md#distracting-workplace) |
-|  [ Work organization ](dimensions/work_organization.md) | [ Workplace ](dimensions/work_organization.md#workplace)  | [ High cost of living nearby ](dimensions/work_organization.md#high-cost-of-living-nearby) |
-|  [ Work organization ](dimensions/work_organization.md) | [ Workplace ](dimensions/work_organization.md#workplace)  | [ Inadequate parking options ](dimensions/work_organization.md#inadequate-parking-options) |
-|  [ Work organization ](dimensions/work_organization.md) | [ Workplace ](dimensions/work_organization.md#workplace)  | [ Inconvenient or unsafe location ](dimensions/work_organization.md#inconvenient-or-unsafe-location) |
-|  [ Work organization ](dimensions/work_organization.md) | [ Workplace ](dimensions/work_organization.md#workplace)  | [ Overcrowded workplace ](dimensions/work_organization.md#overcrowded-workplace) |
-|  [ Work organization ](dimensions/work_organization.md) | [ Workplace ](dimensions/work_organization.md#workplace)  | [ Run-down workplace ](dimensions/work_organization.md#run-down-workplace) |
-|  [ Work organization ](dimensions/work_organization.md) | [ Workplace ](dimensions/work_organization.md#workplace)  | [ Substandard workplace ](dimensions/work_organization.md#substandard-workplace) |
-|  [ Work organization ](dimensions/work_organization.md) | [ Workplace ](dimensions/work_organization.md#workplace)  | [ Uncomfortable workplace ](dimensions/work_organization.md#uncomfortable-workplace) |
-|  [ Work organization ](dimensions/work_organization.md) | [ Workplace ](dimensions/work_organization.md#workplace)  | [ Unsafe workplace ](dimensions/work_organization.md#unsafe-workplace) |
