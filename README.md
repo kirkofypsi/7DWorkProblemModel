@@ -54,4 +54,4 @@ __The Institute for a Better Workplace__ decided to open-source work problem tax
 
 [3]  Hamidrezaa Mokarami, Stefano Toderi, Reclassification of the work-related stress questionnaires scales based on the work system model: A scoping review and qualitative study, Work, April 2019
 
-[![Analytics](https://ga-beacon.appspot.com/G-L25NXV7EPY/introduction-page)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-158534809-2/introduction-page)](https://github.com/igrigorik/ga-beacon)
