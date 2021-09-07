@@ -49,7 +49,7 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Incompetent workforce ](dimensions/business_performance.md#incompetent-workforce) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Leadership changes ](dimensions/business_performance.md#leadership-changes) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Low job security ](dimensions/business_performance.md#low-job-security) |
-|  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Outsourcing & offshoring ](dimensions/business_performance.md#outsourcing-&-offshoring) |
+|  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Outsourcing & offshoring ](dimensions/business_performance.md#outsourcing--offshoring) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Poor recruitment ](dimensions/business_performance.md#poor-recruitment) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Understaffing ](dimensions/business_performance.md#understaffing) |
 |  [ Culture ](dimensions/culture.md) | [ Accountability ](dimensions/culture.md#accountability)  | [ Blame game ](dimensions/culture.md#blame-game) |
@@ -66,7 +66,7 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Culture ](dimensions/culture.md) | [ Cooperativeness ](dimensions/culture.md#cooperativeness)  | [ Unhealthy employees competition ](dimensions/culture.md#unhealthy-employees-competition) |
 |  [ Culture ](dimensions/culture.md) | [ Diversity ](dimensions/culture.md#diversity)  | [ Not enough diversity ](dimensions/culture.md#not-enough-diversity) |
 |  [ Culture ](dimensions/culture.md) | [ Equality ](dimensions/culture.md#equality)  | [ Age discrimination ](dimensions/culture.md#age-discrimination) |
-|  [ Culture ](dimensions/culture.md) | [ Equality ](dimensions/culture.md#equality)  | [ Favoritism & cliques ](dimensions/culture.md#favoritism-&-cliques) |
+|  [ Culture ](dimensions/culture.md) | [ Equality ](dimensions/culture.md#equality)  | [ Favoritism & cliques ](dimensions/culture.md#favoritism--cliques) |
 |  [ Culture ](dimensions/culture.md) | [ Equality ](dimensions/culture.md#equality)  | [ Gender discrimination ](dimensions/culture.md#gender-discrimination) |
 |  [ Culture ](dimensions/culture.md) | [ Equality ](dimensions/culture.md#equality)  | [ National origin discrimination ](dimensions/culture.md#national-origin-discrimination) |
 |  [ Culture ](dimensions/culture.md) | [ Equality ](dimensions/culture.md#equality)  | [ Other problems with discrimination ](dimensions/culture.md#other-problems-with-discrimination) |
@@ -126,14 +126,14 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Strategy ](dimensions/strategy.md) | [ Organizational structure ](dimensions/strategy.md#organizational-structure)  | [ Unclear or flat structure ](dimensions/strategy.md#unclear-or-flat-structure) |
 |  [ Strategy ](dimensions/strategy.md) | [ Organizational structure ](dimensions/strategy.md#organizational-structure)  | [ Unclear or overlapping duties ](dimensions/strategy.md#unclear-or-overlapping-duties) |
 |  [ Strategy ](dimensions/strategy.md) | [ Organizational structure ](dimensions/strategy.md#organizational-structure)  | [ Unequal treatment of locations or functions ](dimensions/strategy.md#unequal-treatment-of-locations-or-functions) |
-|  [ Strategy ](dimensions/strategy.md) | [ Planning & execution ](dimensions/strategy.md#planning-&-execution)  | [ Metrics over-reliance ](dimensions/strategy.md#metrics-over-reliance) |
-|  [ Strategy ](dimensions/strategy.md) | [ Planning & execution ](dimensions/strategy.md#planning-&-execution)  | [ Short-term thinking ](dimensions/strategy.md#short-term-thinking) |
-|  [ Strategy ](dimensions/strategy.md) | [ Vision & focus ](dimensions/strategy.md#vision-&-focus)  | [ Frequent vision or rules changes ](dimensions/strategy.md#frequent-vision-or-rules-changes) |
-|  [ Strategy ](dimensions/strategy.md) | [ Vision & focus ](dimensions/strategy.md#vision-&-focus)  | [ No focus on customers ](dimensions/strategy.md#no-focus-on-customers) |
-|  [ Strategy ](dimensions/strategy.md) | [ Vision & focus ](dimensions/strategy.md#vision-&-focus)  | [ No focus on innovation ](dimensions/strategy.md#no-focus-on-innovation) |
-|  [ Strategy ](dimensions/strategy.md) | [ Vision & focus ](dimensions/strategy.md#vision-&-focus)  | [ No focus on quality ](dimensions/strategy.md#no-focus-on-quality) |
-|  [ Strategy ](dimensions/strategy.md) | [ Vision & focus ](dimensions/strategy.md#vision-&-focus)  | [ Purely money-driven organization ](dimensions/strategy.md#purely-money-driven-organization) |
-|  [ Strategy ](dimensions/strategy.md) | [ Vision & focus ](dimensions/strategy.md#vision-&-focus)  | [ Unclear vision or rules ](dimensions/strategy.md#unclear-vision-or-rules) |
+|  [ Strategy ](dimensions/strategy.md) | [ Planning & execution ](dimensions/strategy.md#planning--execution)  | [ Metrics over-reliance ](dimensions/strategy.md#metrics-over-reliance) |
+|  [ Strategy ](dimensions/strategy.md) | [ Planning & execution ](dimensions/strategy.md#planning--execution)  | [ Short-term thinking ](dimensions/strategy.md#short-term-thinking) |
+|  [ Strategy ](dimensions/strategy.md) | [ Vision & focus ](dimensions/strategy.md#vision--focus)  | [ Frequent vision or rules changes ](dimensions/strategy.md#frequent-vision-or-rules-changes) |
+|  [ Strategy ](dimensions/strategy.md) | [ Vision & focus ](dimensions/strategy.md#vision--focus)  | [ No focus on customers ](dimensions/strategy.md#no-focus-on-customers) |
+|  [ Strategy ](dimensions/strategy.md) | [ Vision & focus ](dimensions/strategy.md#vision--focus)  | [ No focus on innovation ](dimensions/strategy.md#no-focus-on-innovation) |
+|  [ Strategy ](dimensions/strategy.md) | [ Vision & focus ](dimensions/strategy.md#vision--focus)  | [ No focus on quality ](dimensions/strategy.md#no-focus-on-quality) |
+|  [ Strategy ](dimensions/strategy.md) | [ Vision & focus ](dimensions/strategy.md#vision--focus)  | [ Purely money-driven organization ](dimensions/strategy.md#purely-money-driven-organization) |
+|  [ Strategy ](dimensions/strategy.md) | [ Vision & focus ](dimensions/strategy.md#vision--focus)  | [ Unclear vision or rules ](dimensions/strategy.md#unclear-vision-or-rules) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Objectives ](dimensions/work_organization.md#objectives)  | [ Demanding or unrealistic objectives ](dimensions/work_organization.md#demanding-or-unrealistic-objectives) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Objectives ](dimensions/work_organization.md#objectives)  | [ Unclear objectives ](dimensions/work_organization.md#unclear-objectives) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Objectives ](dimensions/work_organization.md#objectives)  | [ Unstable or conflicting objectives ](dimensions/work_organization.md#unstable-or-conflicting-objectives) |
