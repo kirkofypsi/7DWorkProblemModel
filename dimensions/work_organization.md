@@ -39,6 +39,120 @@ __Exemplary statements reported by employees:__
 * *frequently changing objectives*
 
 
+## PLACE OF WORK
+Working in a place of work that is safe, well-maintained, comfortable and conveniently located.
+
+### DIFFICULT COMMUTE
+> Commute to the workplace is perceived as taking too long. There may be traffic jams, the public transport links may be missing or difficult to use and there might be a lack of dedicated transport services provided by the company.
+
+__Exemplary statements reported by employees:__
+
+* *didn't like the commuting time*
+* *my commute is rather long*
+* *the commute is a bit too long for me*
+* *traffic jams on the way to office*
+* *long commute*
+
+### DISTRACTING PLACE OF WORK
+> Workplace is perceived as being too loud and distracting. The office might be noisy due to several factors, such as a bad office layout, no soundproofing or the presence of other employees who are talking loudly on their phones. Employees could experience health problems due to noise pollution.
+
+__Exemplary statements reported by employees:__
+
+* *loud and distracting office layout*
+* *noise at work*
+* *distracting place to be*
+* *hard to concentrate due to noise*
+* *noisy environment*
+
+### HIGH COST OF LIVING NEARBY
+> Organization is located in an area where living cost is high. Expensive housing and living costs near workplace create an oppressive feeling among employees who cannot afford to live nearby but also don't want to waste time commuting long distances every day.
+
+__Exemplary statements reported by employees:__
+
+* *high cost of living in the area*
+* *location is expensive*
+* *rent costs are high*
+* *very expensive to live in this area*
+* *costly residence near office*
+
+### INADEQUATE PARKING OPTIONS
+> Organization does not have adequate parking facilities / space or its parking offering is too expensive. It could be also that the navigation on the parking is difficult, there are issues with vandalism or theft or vehicles are not protected from bad weather. There might also be a feeling that some employees get access to free parking spots much more easily than others but there is no official rule regarding who does have a free access.
+
+__Exemplary statements reported by employees:__
+
+* *parking is expensive*
+* *no parking facilities*
+* *difficult to park*
+* *parking should be closer to the office*
+* *company does not reimburse parking*
+
+### INCONVENIENT OR UNSAFE LOCATION
+> Workplace is located in an inconvenient or unsafe place. It might be far from the city center, there could be a feeling that the location is isolated from the rest of the organization or a workplace location could be in a crime ridden area.
+
+__Exemplary statements reported by employees:__
+
+* *located in the middle of nowhere*
+* *location is not great*
+* *bad location*
+* *dangerous neighborhood*
+* *surrounding neighborhood can be unsafe*
+
+### OVERCROWDED PLACE OF WORK
+> Workplace is perceived as overcrowded. There may be too little space per employee or not enough room for everybody to work in an ergonomic way.
+
+__Exemplary statements reported by employees:__
+
+* *congested office*
+* *small workplace*
+* *not enough space in the office*
+* *small space per employee*
+* *tight workspace*
+
+### RUN-DOWN PLACE OF WORK
+> Workplace is perceived as run-down and not modern enough. The organization is unable to renovate it or maintain in good condition.
+
+__Exemplary statements reported by employees:__
+
+* *old furniture*
+* *old office*
+* *dilapidated office space*
+* *need renovation*
+* *office building not maintained*
+
+### SUBSTANDARD PLACE OF WORK
+> Workplace is perceived as posing an imminent danger to either physical or psychological health of the employees. The most common reason for this is that work hazards are not eliminated or controlled properly. It might be also unsafe due to a lack of security, where for example employees could be robbed or attacked by customers / other employees under influence of drugs or alcohol.
+
+__Exemplary statements reported by employees:__
+
+* *filthy office*
+* *it is unbearably bright in the office*
+* *lot of dust*
+* *broken desks*
+* *unpleasant smell at work*
+
+### UNCOMFORTABLE PLACE OF WORK
+> Workplace is perceived as not comfortable enough. This applies to all aspects that make it impossible to call it truly modern or offering all amenities popular in the best modern workplaces. Employees might not have access to well-equipped gym, canteen, meeting rooms or other facilities. The office might also not be furnished with comfortable chairs, tables or desks.
+
+__Exemplary statements reported by employees:__
+
+* *no standing desks*
+* *no areas to work outside or eat lunch*
+* *long distance to lockers*
+* *office ergonomics should be improved*
+* *need a better gym*
+
+### UNSAFE PLACE OF WORK
+> Workplace is perceived as posing an imminent danger to either physical or psychological health of the employees. The most common reason for this is that work hazards are not eliminated or controlled properly. It might be also unsafe due to lack of security, where for example employees could be robbed or attacked by customers / other employees under influence of drugs or alcohol.
+
+__Exemplary statements reported by employees:__
+
+* *high incidence of injuries*
+* *employees under influence of drugs or alcohol*
+* *working with dangerous chemicals*
+* *drunk customers*
+* *daily oil burns and blisters*
+
+
 ## PROCESSES
 Working in an organization that has efficient business processes and is not hampered by bureaucracy and overregulation.
 
@@ -73,7 +187,7 @@ __Exemplary statements reported by employees:__
 Being offered sufficient training during both onboarding and in the course of employment.
 
 ### INADEQUATE OR SLOW ONBOARDING
-> Organization fails to provide new hires with adequate support during their first few weeks of employment. Employees complain about poor training quality,  inadequate on-boarding materials or the slowness of the on-boarding process.
+> Organization fails to provide new hires with adequate support during their first few weeks of employment. Employees complain about poor training quality,  inadequate onboarding materials or the slowness of the on-boarding process.
 
 __Exemplary statements reported by employees:__
 
@@ -99,7 +213,7 @@ __Exemplary statements reported by employees:__
 Working in an organization offering attractive work arrangements including enough paid time, permanent employment, flexible work schedule, opportunity to take days off,  and remote support.
 
 ### DIFFICULT TO GET ENOUGH PAID TIME
-> Organization does not provide employees with as much of paid hours as they are asking for. Employees can complain about the lack of overtime opportunities, not having enough hours in a week or the fact that they are often being sent home early because there is simply nothing more for them to do.
+> Organization does not provide employees with as much of paid hours as they are asking for. Employees can complain about a lack of overtime opportunities, not having enough hours in a week or the fact that they are often being sent home early because there is simply nothing more for them to do.
 
 __Exemplary statements reported by employees:__
 
@@ -132,7 +246,7 @@ __Exemplary statements reported by employees:__
 * *strict working hours 8-6*
 
 ### PERMANENT EMPLOYMENT HARD TO GET
-> Organization is not providing employees with permanent jobs that they are looking for. It might be the case that there is a policy in place that prevents this or it could be the fact that managers are choosing to hire contractors because of their flexibility. Employees might complain about being kept on short term contracts with lack of perspectives for the full time employment.
+> Organization is not providing employees with permanent jobs that they are looking for. It might be the case that there is a policy in place that prevents this or it could be the fact that managers are choosing to hire contractors because of their flexibility. Employees might complain about being kept on short-term contracts with no perspectives for the full-time employment.
 
 __Exemplary statements reported by employees:__
 
@@ -143,7 +257,7 @@ __Exemplary statements reported by employees:__
 * *difficult to become blue badge*
 
 ### POOR REMOTE WORK SUPPORT
-> Organization either does not allow employees to work remotely or does not provide adequate support for the remote work. Employees often complain about the lack of infrastructural support like poor VPN accesses, slow connectivity or lack of reimbursement for the equipment necessary to perform work from home.
+> Organization either does not allow employees to work remotely or does not provide adequate support for the remote work. Employees often complain about a lack of infrastructural support like poor VPN accesses, slow connectivity or lack of reimbursement for the equipment necessary to perform work from home.
 
 __Exemplary statements reported by employees:__
 
@@ -154,7 +268,7 @@ __Exemplary statements reported by employees:__
 * *telework is restricted*
 
 ### SHORT OR RIGID BREAKS
-> Organization does not provide employees with adequate breaks during their work day. Employees might complain about the lack of time for lunch, shortening of coffee breaks, rude managers who rush them back to their desks after every break or the fact that organization sets break times in an inconvenient way i.e.  at the beginning or the end of their shift. They might also complain that breaks are unpaid or that one is forced to take them.
+> Organization does not provide employees with adequate breaks during their work day. Employees might complain about a lack of time for lunch, shortening of coffee breaks, rude managers who rush them back to their desks after every break or the fact that organization sets break times in an inconvenient way i.e.  at the beginning or the end of their shift. They might also complain that breaks are unpaid or that one is forced to take them.
 
 __Exemplary statements reported by employees:__
 
@@ -180,7 +294,7 @@ __Exemplary statements reported by employees:__
 Being able to work at a comfortable pace, without being overloaded and with reasonable deadlines.
 
 ### SLOW WORK PACE
-> Employees consider the work pace in the organization as being too slow. There is lack of initiative, no pressure to perform and no urgency. This might demotivate employees and left them without a sense of achievement.
+> Employees consider the work pace in the organization as being too slow. There is a lack of initiative, no pressure to perform and no urgency. This might demotivate employees and left them without a sense of achievement.
 
 __Exemplary statements reported by employees:__
 
@@ -191,7 +305,7 @@ __Exemplary statements reported by employees:__
 * *lacks dynamism or speed*
 
 ### TIGHT DEADLINES
-> Leadership sets unrealistic timeframes for work completion. Deadlines are widely perceived as unrealistic, impossible to hit and unreasonable. This could be a result of poorly balanced workloads, lack of planning or unrealistic expectations.
+> Leadership sets unrealistic time frames for work completion. Deadlines are widely perceived as unrealistic, impossible to hit and unreasonable. This could be a result of poorly balanced workloads, lack of planning or unrealistic expectations.
 
 __Exemplary statements reported by employees:__
 
@@ -259,117 +373,3 @@ __Exemplary statements reported by employees:__
 * *working during vacation*
 * *work during sick leave*
 * *no weekends off*
-
-
-## WORKPLACE
-Working in a physical workplace that is safe, well-maintained, comfortable and conveniently located.
-
-### DIFFICULT COMMUTE
-> Commute to the workplace is perceived as taking too long. There may be traffic jams, the public transport links may be missing or difficult to use and there might be lack of dedicated transport services provided by the company.
-
-__Exemplary statements reported by employees:__
-
-* *didn't like the commuting time*
-* *my commute is rather long*
-* *the commute is a bit too long for me*
-* *traffic jams on the way to office*
-* *long commute*
-
-### DISTRACTING WORKPLACE
-> Workplace is perceived as being too loud and distracting. The office might be noisy due to several factors, such as a bad office layout, no soundproofing or the presence of other employees who are talking loudly on their phones. Employees could experience health problems due to noise pollution.
-
-__Exemplary statements reported by employees:__
-
-* *loud and distracting office layout*
-* *noise at work*
-* *distracting place to be*
-* *hard to concentrate due to noise*
-* *noisy environment*
-
-### HIGH COST OF LIVING NEARBY
-> Organization is located in an area where living cost is high. Expensive housing and living costs near workplace create an oppressive feeling among employees who cannot afford to live nearby but also don't want to waste time commuting long distances every day.
-
-__Exemplary statements reported by employees:__
-
-* *high cost of living in the area*
-* *location is expensive*
-* *rent costs are high*
-* *very expensive to live in this area*
-* *costly residence near office*
-
-### INADEQUATE PARKING OPTIONS
-> Organization does not have adequate parking facilities / space or its parking offering is too expensive. It could be also that the navigation on the parking is difficult, there are issues with vandalism or theft or vehicles are not protected from bad weather. There might also be a feeling that some employees get access to free parking spots much more easily than others but there is no official rule regarding who does have a free access.
-
-__Exemplary statements reported by employees:__
-
-* *parking is expensive*
-* *no parking facilities*
-* *difficult to park*
-* *parking should be closer to the office*
-* *company does not reimburse parking*
-
-### INCONVENIENT OR UNSAFE LOCATION
-> Workplace is located in an inconvenient or unsafe place. It might be far from the city center, there could be a feeling that the location is isolated from the rest of the organization or a workplace location could be in a crime ridden area.
-
-__Exemplary statements reported by employees:__
-
-* *located in the middle of nowhere*
-* *location is not great*
-* *bad location*
-* *dangerous neighborhood*
-* *surrounding neighborhood can be unsafe*
-
-### OVERCROWDED WORKPLACE
-> Workplace is perceived as overcrowded. There may be too little space per employee or not enough room for everybody to work in an ergonomic way.
-
-__Exemplary statements reported by employees:__
-
-* *congested office*
-* *small workplace*
-* *not enough space in the office*
-* *small space per employee*
-* *tight workspace*
-
-### RUN-DOWN WORKPLACE
-> Workplace is perceived as run-down and not modern enough. The organization is unable to renovate it or maintain in good condition.
-
-__Exemplary statements reported by employees:__
-
-* *old furniture*
-* *old office*
-* *dilapidated office space*
-* *need renovation*
-* *office building not maintained*
-
-### SUBSTANDARD WORKPLACE
-> Workplace is perceived as not keeping up with even basic standards. It might be dirty, moldy, without access to natural light or have other unpleasant conditions for employees. Employees could experience health problems due to lack of cleanliness and hygiene at their workplace.
-
-__Exemplary statements reported by employees:__
-
-* *filthy office*
-* *it is unbearably bright in the office*
-* *lot of dust*
-* *broken desks*
-* *unpleasant smell at work*
-
-### UNCOMFORTABLE WORKPLACE
-> Workplace is perceived as not comfortable enough. This applies to all aspects that make it impossible to call it truly modern or offering all amenities popular in the best modern workplaces. Employees might not have access to well-equipped gym, canteen, meeting rooms or other facilities. The office might also not be furnished with comfortable chairs, tables or desks.
-
-__Exemplary statements reported by employees:__
-
-* *no standing desks*
-* *no areas to work outside or eat lunch*
-* *long distance to lockers*
-* *office ergonomics should be improved*
-* *need a better gym*
-
-### UNSAFE WORKPLACE
-> Workplace is perceived as posing an imminent danger to either physical or psychological health of the employees. The most common reason for this is that work hazards are not eliminated or controlled properly. It might be also unsafe due to lack of security, where for example employees could be robbed or attacked by customers / other employees under influence of drugs or alcohol.
-
-__Exemplary statements reported by employees:__
-
-* *high incidence of injuries*
-* *employees under influence of drugs or alcohol*
-* *working with dangerous chemicals*
-* *drunk customers*
-* *daily oil burns and blisters*
