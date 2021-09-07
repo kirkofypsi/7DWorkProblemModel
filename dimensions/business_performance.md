@@ -28,7 +28,7 @@ __Exemplary statements reported by employees:__
 * *company is not profitable*
 
 ### NEGATIVE OUTLOOK FOR THE FUTURE
-> Organization's future is perceived as bleak by the employees.  Usually, it is due to the organization operating in the industry that is struggling. It might be also that employees believe that the products/services offered by their organization will be made obsolete in the future. Sometimes it is simply that the competition is cutting the organization's margins and reducing profits, meaning that there is little future for this particular business.
+> Organization's future is perceived as bleak by the employees. Usually, it is due to the organization operating in the industry that is struggling. It might be also that employees believe that the products/services offered by their organization will be made obsolete in the future. Sometimes it is simply that the competition is cutting the organization's margins and reducing profits, meaning that there is little future for this particular business.
 
 __Exemplary statements reported by employees:__
 
@@ -128,7 +128,7 @@ __Exemplary statements reported by employees:__
 * *working with teams that are located far away*
 
 ### HIGH EMPLOYEE TURNOVER
-> Organization experiences high employee turnover. It may have a high attrition rate of talented people leaving on their own or there could be bleeding of its best talent by competitors offering better pay and conditions. The organization may be perceived as a place where employees spend just few years, get their experience and then move on to better opportunities elsewhere.
+> Organization experiences a high employee turnover. It may have a high attrition rate of talented people leaving on their own or there could be bleeding of its best talent by competitors offering better pay and conditions. The organization may be perceived as a place where employees spend just few years, gain experience and then move on to better opportunities elsewhere.
 
 __Exemplary statements reported by employees:__
 
