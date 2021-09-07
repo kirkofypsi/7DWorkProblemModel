@@ -17,7 +17,7 @@ __Exemplary statements reported by employees:__
 * *too high organizational complexity*
 
 ### REORGANIZATIONS
-> Employees perceive reorganizations conducted, in the past or undergoing, as a source of their dissatisfaction. They feel there are too many organizational changes which make them uncertain about their positions. Employees might be constantly worried about the next re-org and live in a constant state of flux.
+> Employees perceive reorganizations conducted, in the past or undergoing, as a source of dissatisfaction. They feel there are too many organizational changes and they be worrying about impact the next reorg will have on them. Thus, employees are living in a constant state of flux.
 
 __Exemplary statements reported by employees:__
 
@@ -28,7 +28,7 @@ __Exemplary statements reported by employees:__
 * *constant restructuring*
 
 ### TOP-HEAVY STRUCTURE
-> Organization is perceived as being top heavy. Employees feel that the organizational structure puts relatively too many people into management roles and does not assign enough doers to the value-generating duties.
+> Organization is perceived as being top-heavy. Employees feel that the organizational structure puts relatively too many people into management roles and does not assign enough doers to the value-generating duties.
 
 __Exemplary statements reported by employees:__
 
@@ -39,7 +39,7 @@ __Exemplary statements reported by employees:__
 * *manager-heavy corporation*
 
 ### UNCLEAR OR FLAT STRUCTURE
-> Organization is perceived as either lacking clear organizational structure or having a very flat one. Although a flat structure has the benefit of appearing more agile and responsive to change, it is also not always able to provide a clear indication who is responsible for what and it does not offer a quick career progression. On the other hand, unclear or chaotic structure makes more difficult for employees to know how to act, where to look for guidance and whom to turn to with problems.
+> Organization is perceived as either lacking a clear organizational structure or having a very flat one. An unclear or chaotic structure makes it more difficult for employees to know how to act, where to look for guidance and whom to turn to with problems. Although a flat structure has the benefit of appearing more agile and responsive to change, it is also not always able to provide a clear indication who is responsible for what and it does not offer a quick career progression.
 
 __Exemplary statements reported by employees:__
 
@@ -50,7 +50,7 @@ __Exemplary statements reported by employees:__
 * *undefined structure in some areas*
 
 ### UNCLEAR OR OVERLAPPING DUTIES
-> Organization does not clearly define roles and responsibilities or, when it does, they overlap or conflict. This means that there is either no clear description of obligations fulfilled by each employee or roles are constantly evolving or identical duties are performed by more than one person at the same time. Unclear or overlapping duties are commonly perceived as a symptom of poor management and lack of governance.
+> Organization does not clearly define roles and responsibilities or, when it does, they overlap or conflict. This means that there is either no clear description of obligations fulfilled by each employee, roles are constantly evolving or identical duties are performed by more than one person at the same time. Unclear or overlapping duties are commonly perceived as a symptom of poor management and lack of governance.
 
 __Exemplary statements reported by employees:__
 
@@ -76,7 +76,7 @@ __Exemplary statements reported by employees:__
 Being part of an organization that formulates long-term plans and has an effective system for their execution.
 
 ### METRICS OVER-RELIANCE
-> Organization is perceived as being too heavily metrics-focused. A common problem with such approach is that the data gathered and used in management decisions might be erroneous or not reflect reality. Therefore it might be not be the best decision-making approach. Management might be too obsessed with certain metrics and may sacrifice quality or other important factors to improve them. For example an organization may care more about hitting its numbers than having happy customers, which can lead to long term damage of the business.
+> Organization is perceived as being too heavily metrics-focused. A common problem with such approach is that the data gathered and used in management decisions might be erroneous or not reflect reality. Therefore it might be not be the best decision-making approach. Management might be too obsessed with certain metrics and may sacrifice quality or other important factors to improve them. For example, an organization may care more about hitting its numbers than having happy customers, which can harm business in the long run.
 
 __Exemplary statements reported by employees:__
 
@@ -87,7 +87,7 @@ __Exemplary statements reported by employees:__
 * *a lot of focus on metrics*
 
 ### SHORT-TERM THINKING
-> Organization focuses only on immediate, short-term results. It might be that leadership is not able to plan or stick to a longer term vision. It is also possible that management is constantly putting out fires and keeps reacting just when something bad happens instead of being proactive in identifying risks or opportunities.
+> Organization focuses only on the immediate, short-term results. It might be that leadership is not able to plan or stick to a longer-term vision. It is also possible that management is constantly putting out fires and keeps reacting only when something bad happens instead of being proactive in identifying risks or opportunities.
 
 __Exemplary statements reported by employees:__
 
@@ -102,7 +102,7 @@ __Exemplary statements reported by employees:__
 Being part of an organization which has a clear and steady vision and a focus on quality, innovation and customer satisfaction.
 
 ### FREQUENT VISION OR RULES CHANGES
-> Organization is perceived as changing too often its vision, rules or policies. It can lead to a feeling among employees that the organization is not stable and is not able to stick with one strategy or direction. It can also cause confusion regarding what the focus of the organization is and if it is able to achieve success.
+> Organization is considered to too often change its vision, rules, or policies. This can lead to a feeling among employees that the organization is not stable and is not able to stick with one strategy or direction. It can also cause confusion regarding what the focus of the organization is and if it is supposed to achieve success.
 
 __Exemplary statements reported by employees:__
 
@@ -113,7 +113,7 @@ __Exemplary statements reported by employees:__
 * *strategy shifts with the wind*
 
 ### NO FOCUS ON CUSTOMERS
-> Organization is perceived as lacking a focus on customers needs or not having a customer-centric model. There is criticism in the organization about not caring for the customers in general. Sometimes it is a consequence of delusional thinking that the customers will stay no matter how the organization treats them. Or it could be about failing on delivering value to serve customer needs and / or not listening to customer feedback.
+> Organization is perceived as lacking a focus on customers' needs or not having a customer-centric model. There is criticism in the organization about not caring for the customers in general. Sometimes it is a consequence of delusional thinking that the customers will stay no matter how the organization treats them. It could also be about failing on delivering value to serve customer needs or not listening to customer feedback.
 
 __Exemplary statements reported by employees:__
 
@@ -124,7 +124,7 @@ __Exemplary statements reported by employees:__
 * *customers do not matter*
 
 ### NO FOCUS ON INNOVATION
-> Organization is perceived as lacking focus on innovation or being slow to innovate. The problems might stem from a feeling that the organization is devoid of creativity and discourages experimentation with novel ways of doing things, it could be also that there simply are no funds available for research and development.
+> Organization is perceived as lacking focus on innovation or being slow to innovate. The problems might stem from a feeling that the organization is devoid of creativity and discourages experimentation with novel ways of doing things. It could be also that there simply are no funds available for research and development.
 
 __Exemplary statements reported by employees:__
 
@@ -135,7 +135,7 @@ __Exemplary statements reported by employees:__
 * *you are discouraged to think out of the box*
 
 ### NO FOCUS ON QUALITY
-> Organization is perceived as having poor quality products, services or work. The organization might be producing ill-performing and unfinished products. Management does not seem to care about quality and is not focused on it.
+> Organization is perceived as having poor quality of products, services, or work. The organization might be producing ill-performing and unfinished products. Management does not seem to care about quality.
 
 __Exemplary statements reported by employees:__
 
@@ -146,7 +146,7 @@ __Exemplary statements reported by employees:__
 * *very little thought or concern for quality*
 
 ### PURELY MONEY-DRIVEN ORGANIZATION
-> Employees believe that their organization is solely concerned with making money and thus sacrifed other organizational objectives and goals. The pressure on the organization is to make sales or profit above everything else. It usually happens due to shareholders or investors who put their interest before that of employees and/or customers.
+> Employees believe that their organization is solely concerned with making money and thus sacrificed other organizational objectives and goals. The pressure on the organization is to make sales or profit above everything else. It usually happens due to shareholders or investors interest being put before that of employees or customers.
 
 __Exemplary statements reported by employees:__
 
@@ -157,7 +157,7 @@ __Exemplary statements reported by employees:__
 * *making sales above everything else*
 
 ### UNCLEAR VISION OR RULES
-> Organization is perceived as lacking clear vision or rules. The top leadership might have a strategy but there is no consensus on the ground on what it actually is, its impact and how employees should execute on their part of the grand scheme. Lack of clear rules causes confusion, egos clashing when different people have very different opinions on what is the right way to do things.
+> Organization is perceived as lacking a clear vision or rules. The top leadership might have a strategy but there is no consensus on the ground on what it actually is, its impact and how employees should execute on their part of the grand scheme. A lack of clear rules causes confusion, egos clashing when people have very different opinions on what is the right way to do things.
 
 __Exemplary statements reported by employees:__
 
