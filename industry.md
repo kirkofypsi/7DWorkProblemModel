@@ -1,7 +1,7 @@
 # The most characteristic work problems per industry 
 
 ## Apparel
-# Work problems whose occurrence in the industry is significantly more prevalent than in other industries
+### Work problems whose occurrence in the industry is significantly more prevalent than in other industries
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Difficult to get enough paid time | 7.028% | 1.687% | 4.17 times more common |
@@ -17,7 +17,7 @@
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Work on days off | 2.983% | 1.092% | 2.73 times more common |
-# Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
+### Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | High cost of living nearby | 0.014% | 0.165% | 11.79 times less common |
@@ -27,7 +27,7 @@
 | No equity-based compensation | 0.019% | 0.117% | 6.16 times less common |
 
 ## Consulting
-# Work problems whose occurrence in the industry is significantly more prevalent than in other industries
+### Work problems whose occurrence in the industry is significantly more prevalent than in other industries
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Frequent or long travels | 1.949% | 0.62% | 3.14 times more common |
@@ -43,7 +43,7 @@
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Long hours on workdays | 10.899% | 5.797% | 1.88 times more common |
-# Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
+### Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Difficult customers | 0.127% | 1.525% | 12.01 times less common |
@@ -53,7 +53,7 @@
 | Short or rigid breaks | 0.09% | 0.48% | 5.33 times less common |
 
 ## Education
-# Work problems whose occurrence in the industry is significantly more prevalent than in other industries
+### Work problems whose occurrence in the industry is significantly more prevalent than in other industries
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | High cost of living nearby | 3.398% | 0.165% | 20.59 times more common |
@@ -69,7 +69,7 @@
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Overpriced market offering | 0.656% | 0.149% | 4.4 times more common |
-# Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
+### Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Poor market offering | 0.014% | 0.172% | 12.29 times less common |
@@ -79,7 +79,7 @@
 | Difficult customers | 0.194% | 1.525% | 7.86 times less common |
 
 ## Energy & Mining
-# Work problems whose occurrence in the industry is significantly more prevalent than in other industries
+### Work problems whose occurrence in the industry is significantly more prevalent than in other industries
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Negative outlook for the future | 2.519% | 0.262% | 9.61 times more common |
@@ -95,7 +95,7 @@
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Declining or distressed business | 0.98% | 0.412% | 2.38 times more common |
-# Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
+### Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Inadequate parking options | 0.058% | 0.259% | 4.47 times less common |
@@ -105,7 +105,7 @@
 | Poor commuter benefits | 0.072% | 0.225% | 3.13 times less common |
 
 ## Finance & Insurance
-# Work problems whose occurrence in the industry is significantly more prevalent than in other industries
+### Work problems whose occurrence in the industry is significantly more prevalent than in other industries
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Outdated, inefficient or missing tools | 4.174% | 2.148% | 1.94 times more common |
@@ -121,7 +121,7 @@
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Aversion to risk or changes | 1.301% | 0.829% | 1.57 times more common |
-# Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
+### Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Unsafe place of work | 0.047% | 0.199% | 4.23 times less common |
@@ -131,7 +131,7 @@
 | High cost of living nearby | 0.054% | 0.165% | 3.06 times less common |
 
 ## Food & Beverages
-# Work problems whose occurrence in the industry is significantly more prevalent than in other industries
+### Work problems whose occurrence in the industry is significantly more prevalent than in other industries
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Reorganizations | 2.506% | 1.019% | 2.46 times more common |
@@ -147,7 +147,7 @@
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Unsafe place of work | 0.414% | 0.199% | 2.08 times more common |
-# Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
+### Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Difficult customers | 0.143% | 1.525% | 10.66 times less common |
@@ -157,7 +157,7 @@
 | No equity-based compensation | 0.052% | 0.117% | 2.25 times less common |
 
 ## Health care
-# Work problems whose occurrence in the industry is significantly more prevalent than in other industries
+### Work problems whose occurrence in the industry is significantly more prevalent than in other industries
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Slow decision-making | 2.27% | 0.82% | 2.77 times more common |
@@ -173,7 +173,7 @@
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Inefficient meetings | 0.527% | 0.255% | 2.07 times more common |
-# Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
+### Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Difficult customers | 0.076% | 1.525% | 20.07 times less common |
@@ -183,7 +183,7 @@
 | Poor commuter benefits | 0.076% | 0.225% | 2.96 times less common |
 
 ## Hotels
-# Work problems whose occurrence in the industry is significantly more prevalent than in other industries
+### Work problems whose occurrence in the industry is significantly more prevalent than in other industries
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Run-down place of work | 0.792% | 0.166% | 4.77 times more common |
@@ -199,7 +199,7 @@
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Expensive benefits | 0.422% | 0.183% | 2.31 times more common |
-# Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
+### Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | No equity-based compensation | 0.022% | 0.117% | 5.32 times less common |
@@ -209,7 +209,7 @@
 | Frequent or long travels | 0.191% | 0.62% | 3.25 times less common |
 
 ## Household Products
-# Work problems whose occurrence in the industry is significantly more prevalent than in other industries
+### Work problems whose occurrence in the industry is significantly more prevalent than in other industries
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Slow decision-making | 2.269% | 0.82% | 2.77 times more common |
@@ -225,7 +225,7 @@
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Racial discrimination | 0.428% | 0.252% | 1.7 times more common |
-# Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
+### Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Poor commuter benefits | 0.059% | 0.225% | 3.81 times less common |
@@ -235,7 +235,7 @@
 | Inadequate parking options | 0.102% | 0.259% | 2.54 times less common |
 
 ## Media & Publishing
-# Work problems whose occurrence in the industry is significantly more prevalent than in other industries
+### Work problems whose occurrence in the industry is significantly more prevalent than in other industries
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Negative outlook for the future | 0.659% | 0.262% | 2.52 times more common |
@@ -251,7 +251,7 @@
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Low job security | 5.389% | 3.018% | 1.79 times more common |
-# Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
+### Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | National origin discrimination | 0.099% | 0.269% | 2.72 times less common |
@@ -261,7 +261,7 @@
 | Poor performance feedback | 0.497% | 0.956% | 1.92 times less common |
 
 ## Restaurants
-# Work problems whose occurrence in the industry is significantly more prevalent than in other industries
+### Work problems whose occurrence in the industry is significantly more prevalent than in other industries
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Difficult customers | 9.361% | 1.525% | 6.14 times more common |
@@ -277,7 +277,7 @@
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Unsafe place of work | 0.877% | 0.199% | 4.41 times more common |
-# Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
+### Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Outsourcing & offshoring | 0.014% | 0.543% | 38.79 times less common |
@@ -287,7 +287,7 @@
 | Conflicted or siloed organization | 0.035% | 0.59% | 16.86 times less common |
 
 ## Technology
-# Work problems whose occurrence in the industry is significantly more prevalent than in other industries
+### Work problems whose occurrence in the industry is significantly more prevalent than in other industries
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | No equity-based compensation | 0.254% | 0.117% | 2.17 times more common |
@@ -303,7 +303,7 @@
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Distributed workforce | 0.367% | 0.218% | 1.68 times more common |
-# Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
+### Work problems whose occurrence in the industry is significantly less prevalent than in other industries 
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Substandard place of work | 0.177% | 0.588% | 3.32 times less common |
