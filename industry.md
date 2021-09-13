@@ -1,6 +1,6 @@
 # The most characteristic work problems per industry 
 
-## Apparel
+# Apparel
 ### Work problems whose occurrence in the industry is significantly more prevalent than in other industries 
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
