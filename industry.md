@@ -1,7 +1,7 @@
 # The most characteristic work problems per industry 
 
 # Apparel
-### Work problems whose occurrence in the industry is significantly more prevalent than in other industries 
+#### Work problems whose occurrence in the industry is significantly more prevalent than in other industries 
 | Work Problem | Industry Frequency | Total Frequency | Industry vs Total Frequency |
 |-------------:|-------------------:|----------------:|----------------------------:|
 | Difficult to get enough paid time | 7.028% | 1.687% | 4.17 times more common |
