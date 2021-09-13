@@ -1,188 +1,219 @@
-[Back to the list of dimensions](../taxonomy.md)
-# LEADERSHIP
-Leadership dimension groups work satisfaction factors related to employees satisfaction from being led by good leaders.
-
-## COMMUNICATION
-Being led by leaders who communicate effectively and are able to offer actionable feedback to their team members.
-
-### DYSFUNCTIONAL COMMUNICATION
-> Leaders are perceived as not communicating enough or communicating ineffectively. Employees may feel like they are in the dark about what is going on and how their work fits into the bigger picture. Business units may not be able to collaborate effectively due to lack of knowledge sharing.
-
-__Exemplary statements reported by employees:__
-
-* *no communication between offices*
-* *the communication is not working*
-* *no timely dissemination of information to employees*
-* *strategy is not clearly communicated*
-* *lack of communication between teams*
-
-### INEFFICIENT MEETINGS
-> Leaders run business meetings in a way that is perceived as a waste of time. There are too many meetings, they lack focus, have no specific purpose or their outcome is unclear.
-
-__Exemplary statements reported by employees:__
-
-* *meetings fatigue*
-* *time wasted in meetings*
-* *too many meetings*
-* *meetings about meetings*
-* *lots of meetings*
-
-### POOR PERFORMANCE FEEDBACK
-> Performance feedback is either not provided by leaders or provided only sporadically. There might also be a feeling that performance evaluations are not based on individual performance, but more so on group dynamics or personality issues instead. Feedback culture, in general, is seen as lacking, with employees having little access to real-time assessment of their performance.
-
-__Exemplary statements reported by employees:__
-
-* *poor culture of feedback*
-* *annual appraisals are useless*
-* *no clear or actionable feedback*
-* *reviews are not based on individual performance*
-* *no review system in place*
+# The most characteristic work problems per industry
+> August 2021, based on 1.25M opinions provided by the employees of over 300 global organizations
 
 
-## COMPETENCE
-Being led by leaders who have the necessary knowledge and skills to carry out their job.
+## Apparel
+#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+| [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __3.65__ times more common in the industry than overall |
+| [ Unstable work schedule ]( dimensions/work_organization.md#unstable-work-schedule ) | __2.72__ times more common in the industry than overall |
+| [ Gossips or slanders ]( dimensions/culture.md#gossips-or-slanders ) | __2.33__ times more common in the industry than overall |
+| [ Work on days off ]( dimensions/work_organization.md#work-on-days-off ) | __2.3__ times more common in the industry than overall |
+| [ Difficult to take days off ]( dimensions/work_organization.md#difficult-to-take-days-off ) | __2.26__ times more common in the industry than overall |
+#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+|  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __24.91__ times less common in the industry than overall |
+|  [ Poor pension plan ]( dimensions/rewards.md#poor-pension-plan ) | __5.89__ times less common in the industry than overall |
+|  [ Distributed workforce ]( dimensions/business_performance.md#distributed-workforce ) | __5.42__ times less common in the industry than overall |
+|  [ Outsourcing & offshoring ]( dimensions/business_performance.md#outsourcing--offshoring ) | __5.34__ times less common in the industry than overall |
+|  [ Frequent or long travels ]( dimensions/work_organization.md#frequent-or-long-travels ) | __5.33__ times less common in the industry than overall |
 
-### INCOMPETENT LEADERS
-> Leaders are not equipped with the necessary skills to fulfill their duties. To employees, they come accross either incompetent or unprofessional.
+## Consulting
+#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+| [ Frequent or long travels ]( dimensions/work_organization.md#frequent-or-long-travels ) | __3.94__ times more common in the industry than overall |
+| [ Poor commuter benefits ]( dimensions/rewards.md#poor-commuter-benefits ) | __3.09__ times more common in the industry than overall |
+| [ Poor performance feedback ]( dimensions/leadership.md#poor-performance-feedback ) | __2.68__ times more common in the industry than overall |
+| [ Tight deadlines ]( dimensions/work_organization.md#tight-deadlines ) | __2.59__ times more common in the industry than overall |
+| [ Insufficient salary adjustments ]( dimensions/rewards.md#insufficient-salary-adjustments ) | __2.51__ times more common in the industry than overall |
+#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+|  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __13.03__ times less common in the industry than overall |
+|  [ Substandard place of work ]( dimensions/work_organization.md#substandard-place-of-work ) | __9.52__ times less common in the industry than overall |
+|  [ Unsafe place of work ]( dimensions/work_organization.md#unsafe-place-of-work ) | __9.43__ times less common in the industry than overall |
+|  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __7.75__ times less common in the industry than overall |
+|  [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __6.69__ times less common in the industry than overall |
 
-__Exemplary statements reported by employees:__
+## Education
+#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+| [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __9.74__ times more common in the industry than overall |
+| [ Inadequate parking options ]( dimensions/work_organization.md#inadequate-parking-options ) | __7.35__ times more common in the industry than overall |
+| [ Overpriced market offering ]( dimensions/business_performance.md#overpriced-market-offering ) | __3.76__ times more common in the industry than overall |
+| [ Difficult commute ]( dimensions/work_organization.md#difficult-commute ) | __3.69__ times more common in the industry than overall |
+| [ Inconvenient or unsafe location ]( dimensions/work_organization.md#inconvenient-or-unsafe-location ) | __3.46__ times more common in the industry than overall |
+#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+|  [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __12.67__ times less common in the industry than overall |
+|  [ Poor market offering ]( dimensions/business_performance.md#poor-market-offering ) | __9.05__ times less common in the industry than overall |
+|  [ No focus on customers ]( dimensions/strategy.md#no-focus-on-customers ) | __8.6__ times less common in the industry than overall |
+|  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __8.53__ times less common in the industry than overall |
+|  [ Frequent vision or rules changes ]( dimensions/strategy.md#frequent-vision-or-rules-changes ) | __7.42__ times less common in the industry than overall |
 
-* *managers lack leadership qualities*
-* *company run by amateurs*
-* *managers don't know the job*
-* *managers are poorly trained*
-* *company led by novices*
+## Energy & Mining
+#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+| [ Negative outlook for the future ]( dimensions/business_performance.md#negative-outlook-for-the-future ) | __5.44__ times more common in the industry than overall |
+| [ Frequent or long travels ]( dimensions/work_organization.md#frequent-or-long-travels ) | __2.55__ times more common in the industry than overall |
+| [ Poor pension plan ]( dimensions/rewards.md#poor-pension-plan ) | __2.54__ times more common in the industry than overall |
+| [ Low job security ]( dimensions/business_performance.md#low-job-security ) | __2.53__ times more common in the industry than overall |
+| [ National origin discrimination ]( dimensions/culture.md#national-origin-discrimination ) | __2.3__ times more common in the industry than overall |
+#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+|  [ Inadequate parking options ]( dimensions/work_organization.md#inadequate-parking-options ) | __8.05__ times less common in the industry than overall |
+|  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __4.45__ times less common in the industry than overall |
+|  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __4.01__ times less common in the industry than overall |
+|  [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __3.41__ times less common in the industry than overall |
+|  [ Too fast business growth ]( dimensions/business_performance.md#too-fast-business-growth ) | __2.83__ times less common in the industry than overall |
 
+## Finance & Insurance
+#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+| [ Outdated, inefficient or missing tools ]( dimensions/work_organization.md#outdated-inefficient-or-missing-tools ) | __2.51__ times more common in the industry than overall |
+| [ Weak brand or reputation ]( dimensions/business_performance.md#weak-brand-or-reputation ) | __1.87__ times more common in the industry than overall |
+| [ Uncompetitive bonuses ]( dimensions/rewards.md#uncompetitive-bonuses ) | __1.85__ times more common in the industry than overall |
+| [ Limited work autonomy ]( dimensions/leadership.md#limited-work-autonomy ) | __1.71__ times more common in the industry than overall |
+| [ Poor remote work support ]( dimensions/work_organization.md#poor-remote-work-support ) | __1.7__ times more common in the industry than overall |
+#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+|  [ Unsafe place of work ]( dimensions/work_organization.md#unsafe-place-of-work ) | __6.62__ times less common in the industry than overall |
+|  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __6.46__ times less common in the industry than overall |
+|  [ Substandard place of work ]( dimensions/work_organization.md#substandard-place-of-work ) | __5.75__ times less common in the industry than overall |
+|  [ Physically demanding work ]( dimensions/opportunities.md#physically-demanding-work ) | __3.32__ times less common in the industry than overall |
+|  [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __3.28__ times less common in the industry than overall |
 
-## DECISION-MAKING
-Being led by leaders who make quick decisions taking into account employees' views.
+## Food & Beverages
+#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+| [ Stringent cost management ]( dimensions/business_performance.md#stringent-cost-management ) | __2.22__ times more common in the industry than overall |
+| [ Short-term thinking ]( dimensions/strategy.md#short-term-thinking ) | __2.12__ times more common in the industry than overall |
+| [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __2.1__ times more common in the industry than overall |
+| [ Age discrimination ]( dimensions/culture.md#age-discrimination ) | __1.82__ times more common in the industry than overall |
+| [ Slow decision-making ]( dimensions/leadership.md#slow-decision-making ) | __1.76__ times more common in the industry than overall |
+#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+|  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __11.57__ times less common in the industry than overall |
+|  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __10.9__ times less common in the industry than overall |
+|  [ Inadequate parking options ]( dimensions/work_organization.md#inadequate-parking-options ) | __4.06__ times less common in the industry than overall |
+|  [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __2.56__ times less common in the industry than overall |
+|  [ Overpriced market offering ]( dimensions/business_performance.md#overpriced-market-offering ) | __2.42__ times less common in the industry than overall |
 
-### EMPLOYEES' INPUT IGNORED
-> Employees are not listened to or their suggestions are not implemented. Leadership decides unilaterally without consulting employees or it pretends to listen to employees but fails to take their comments into account. Leadership might also create an atmosphere in which openly discussing difficult topics is not welcomed.
+## Health care
+#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+| [ No equity-based compensation ]( dimensions/rewards.md#no-equity-based-compensation ) | __2.31__ times more common in the industry than overall |
+| [ Slow decision-making ]( dimensions/leadership.md#slow-decision-making ) | __2.09__ times more common in the industry than overall |
+| [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __2.08__ times more common in the industry than overall |
+| [ Too fast business growth ]( dimensions/business_performance.md#too-fast-business-growth ) | __2.08__ times more common in the industry than overall |
+| [ Aversion to risk or changes ]( dimensions/culture.md#aversion-to-risk-or-changes ) | __2.01__ times more common in the industry than overall |
+#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+|  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __21.77__ times less common in the industry than overall |
+|  [ Physically demanding work ]( dimensions/opportunities.md#physically-demanding-work ) | __5.07__ times less common in the industry than overall |
+|  [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __4.32__ times less common in the industry than overall |
+|  [ Substandard place of work ]( dimensions/work_organization.md#substandard-place-of-work ) | __3.92__ times less common in the industry than overall |
+|  [ Unstable work schedule ]( dimensions/work_organization.md#unstable-work-schedule ) | __3.75__ times less common in the industry than overall |
 
-__Exemplary statements reported by employees:__
+## Hotels
+#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+| [ Run-down place of work ]( dimensions/work_organization.md#run-down-place-of-work ) | __3.27__ times more common in the industry than overall |
+| [ Expensive benefits ]( dimensions/rewards.md#expensive-benefits ) | __2.17__ times more common in the industry than overall |
+| [ Unstable work schedule ]( dimensions/work_organization.md#unstable-work-schedule ) | __2.15__ times more common in the industry than overall |
+| [ Work on days off ]( dimensions/work_organization.md#work-on-days-off ) | __1.94__ times more common in the industry than overall |
+| [ Non-standard work hours ]( dimensions/work_organization.md#non-standard-work-hours ) | __1.89__ times more common in the industry than overall |
+#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+|  [ Outsourcing & offshoring ]( dimensions/business_performance.md#outsourcing--offshoring ) | __3.68__ times less common in the industry than overall |
+|  [ Bureaucracy or overregulation ]( dimensions/work_organization.md#bureaucracy-or-overregulation ) | __3.22__ times less common in the industry than overall |
+|  [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __3.22__ times less common in the industry than overall |
+|  [ No equity-based compensation ]( dimensions/rewards.md#no-equity-based-compensation ) | __3.09__ times less common in the industry than overall |
+|  [ Short-term thinking ]( dimensions/strategy.md#short-term-thinking ) | __3.06__ times less common in the industry than overall |
 
-* *top-down management style*
-* *no bottom up communication*
-* *employees not involved in decision process*
-* *employees have low impact on matters important to them*
-* *no open-door policy*
+## Household Products
+#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+| [ Slow decision-making ]( dimensions/leadership.md#slow-decision-making ) | __2.09__ times more common in the industry than overall |
+| [ Short-term thinking ]( dimensions/strategy.md#short-term-thinking ) | __1.91__ times more common in the industry than overall |
+| [ Gossips or slanders ]( dimensions/culture.md#gossips-or-slanders ) | __1.86__ times more common in the industry than overall |
+| [ Strong market competition ]( dimensions/business_performance.md#strong-market-competition ) | __1.67__ times more common in the industry than overall |
+| [ Complex or hierarchical structure ]( dimensions/strategy.md#complex-or-hierarchical-structure ) | __1.62__ times more common in the industry than overall |
+#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+|  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __5.63__ times less common in the industry than overall |
+|  [ Inadequate parking options ]( dimensions/work_organization.md#inadequate-parking-options ) | __4.58__ times less common in the industry than overall |
+|  [ No food subsidy or limited food options ]( dimensions/rewards.md#no-food-subsidy-or-limited-food-options ) | __3.05__ times less common in the industry than overall |
+|  [ Poor pension plan ]( dimensions/rewards.md#poor-pension-plan ) | __2.45__ times less common in the industry than overall |
+|  [ Run-down place of work ]( dimensions/work_organization.md#run-down-place-of-work ) | __2.24__ times less common in the industry than overall |
 
-### SLOW DECISION-MAKING
-> Leaders are perceived as slow in making decisions. It might be that the whole organization or specific departments have long approval processes or many managers are involved in taking a single decision. Sometimes leaders intentionally avoid taking decisions because they are punished for mistakes but not rewarded for successes.
+## Media & Publishing
+#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+| [ Unstable or conflicting objectives ]( dimensions/work_organization.md#unstable-or-conflicting-objectives ) | __2.24__ times more common in the industry than overall |
+| [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __2.06__ times more common in the industry than overall |
+| [ No focus on customers ]( dimensions/strategy.md#no-focus-on-customers ) | __2.05__ times more common in the industry than overall |
+| [ Poor market offering ]( dimensions/business_performance.md#poor-market-offering ) | __1.97__ times more common in the industry than overall |
+| [ Strong market competition ]( dimensions/business_performance.md#strong-market-competition ) | __1.96__ times more common in the industry than overall |
+#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+|  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __3.52__ times less common in the industry than overall |
+|  [ National origin discrimination ]( dimensions/culture.md#national-origin-discrimination ) | __2.77__ times less common in the industry than overall |
+|  [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __2.48__ times less common in the industry than overall |
+|  [ Frequent or long travels ]( dimensions/work_organization.md#frequent-or-long-travels ) | __2.14__ times less common in the industry than overall |
+|  [ Unsafe place of work ]( dimensions/work_organization.md#unsafe-place-of-work ) | __1.96__ times less common in the industry than overall |
 
-__Exemplary statements reported by employees:__
+## Restaurants
+#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+| [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __5.66__ times more common in the industry than overall |
+| [ Substandard place of work ]( dimensions/work_organization.md#substandard-place-of-work ) | __4.32__ times more common in the industry than overall |
+| [ Short or rigid breaks ]( dimensions/work_organization.md#short-or-rigid-breaks ) | __3.99__ times more common in the industry than overall |
+| [ No food subsidy or limited food options ]( dimensions/rewards.md#no-food-subsidy-or-limited-food-options ) | __3.96__ times more common in the industry than overall |
+| [ Physically demanding work ]( dimensions/opportunities.md#physically-demanding-work ) | __3.52__ times more common in the industry than overall |
+#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+|  [ Outsourcing & offshoring ]( dimensions/business_performance.md#outsourcing--offshoring ) | __36.58__ times less common in the industry than overall |
+|  [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __27.06__ times less common in the industry than overall |
+|  [ Distributed workforce ]( dimensions/business_performance.md#distributed-workforce ) | __26.19__ times less common in the industry than overall |
+|  [ Conflicted or siloed organization ]( dimensions/culture.md#conflicted-or-siloed-organization ) | __17.09__ times less common in the industry than overall |
+|  [ Complex or hierarchical structure ]( dimensions/strategy.md#complex-or-hierarchical-structure ) | __15.59__ times less common in the industry than overall |
 
-* *slow decision making*
-* *management is afraid to make decisions*
-* *long decision process*
-* *indecisiveness*
-* *things get stuck at the top*
-
-
-## EMPOWERMENT
-Being led by leaders who encourage employees to take responsibility for the decisions at work and who trust employees to make own decisions.
-
-### LIMITED WORK AUTONOMY
-> Leaders do not delegate authority or empower employees. They micromanage and constantly scrutinize the work of their staff. Employees are not given enough freedom to work how they want or make decisions on their own.
-
-__Exemplary statements reported by employees:__
-
-* *micro-managing*
-* *zero autonomy*
-* *no empowerment of employees*
-* *no delegation of authority*
-* *leadership is very controlling*
-
-
-## FAIRNESS
-Being led by leaders who treat employees fairly by applying the same criteria to every employee.
-
-### OTHER UNFAIR DECISIONS
-> Leaders are perceived as being unfair in aspects other than promotion-related. They might be unmeritocratic, apply unfair practices toward employees, or treat some employees preferentially. The organization may not have a fair system for rewards, appraisals, hiring, work assignment, or other decisions.
-
-__Exemplary statements reported by employees:__
-
-* *unfair management*
-* *unfair workload*
-* *company is not meritocratic*
-* *unfair expectations*
-* *unfair enforcement of policies*
-
-### UNMERITED PROMOTIONS
-> Leaders are perceived as not being fair in awarding promotions. Employees have a perception that promotions are too often given to non-performing employees, unqualified internal candidates, or people who are using personal connections to get promoted. The overall feeling is that promotions are decided arbitrarily, wrongfully, and sometimes dishonestly.
-
-__Exemplary statements reported by employees:__
-
-* *doubtful promotions*
-* *unwarranted promotions*
-* *promotions not based on performance*
-* *unfair career progressions*
-* *promotions are not based on merit*
-
-
-## INTEGRITY
-Being led by leaders who act consistently on the basis of values and principles they believe in.
-
-### LYING OR DECEITFUL LEADERS
-> Leaders are perceived as lying or deceitful. They are either manipulative or they lie straight to employees' faces. They might be making empty promises, not keeping their word, thus giving employees the feeling they are deceived.
-
-__Exemplary statements reported by employees:__
-
-* *double gaming managers*
-* *management devoid of honesty*
-* *lies from the top down*
-* *management deceits from day one*
-* *management is not honest with employees*
-
-
-## RESPECTFULNESS
-Being led by leaders who treat all employees with dignity and show appreciation for their efforts at work.
-
-### EGOCENTRIC OR AGGRESSIVE LEADERS
-> Leaders are perceived as being egocentric or aggressive. They are disrespectful to employees and lack appropriate manners which manifests itself in aggressive communication style or use of rude language. Finally, some of the leaders demonstrate conceiting attitudes or behavior.
-
-__Exemplary statements reported by employees:__
-
-* *ego-driven management*
-* *management creates hostile work environment*
-* *managers are belittling to staff*
-* *management can be passive-aggressive*
-* *management's respect for staff is low*
-
-### NO APPRECIATION OR RECOGNITION
-> Leaders are perceived as showing little or no appreciation for hard work and contributions made by employees. They are accused of undervaluing their employees or failing to see contributions made by them, which could diminish employees' sense of accomplishment and motivation.
-
-__Exemplary statements reported by employees:__
-
-* *leadership does not value employees*
-* *you won't get credit for your work*
-* *under-appreciated*
-* *you can feel undervalued*
-* *company is not really interested in employee's appreciation*
-
-
-## SUPPORTIVENESS
-Being led by leaders who are accessible, supportive and show interest in employees' personal success.
-
-### ABSENT OR DISCONNECTED LEADERS
-> Leaders are perceived as either absent or disconnected. "Delegate and disappear" is the default leadership style. They are either hard to reach, not available, or unapproachable. Some might be living in their own world and their help is useless as they have no understanding of what the real needs of their workforce are.
-
-__Exemplary statements reported by employees:__
-
-* *you rarely see your manager*
-* *small availability of management*
-* *disconnect from management*
-* *difficult to contact management*
-* *some level of separation from management*
-
-### UNCARING LEADERS
-> Leaders are perceived as unsupportive of their employees, not caring about them, and not giving any guidance or support to help staff succeed in their jobs. Sometimes leaders may pretend to care about people, but in practice, they act as they do not. Their lack of care and compassion is felt by employees and harms their well-being.
-
-__Exemplary statements reported by employees:__
-
-* *not people-oriented management*
-* *supervisors never around to help*
-* *leadership that does not stand behind its staff*
-* *managers should be enablers for employees*
-* *employee happiness is not a priority*
+## Technology
+#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+| [ No equity-based compensation ]( dimensions/rewards.md#no-equity-based-compensation ) | __3.73__ times more common in the industry than overall |
+| [ Too fast business growth ]( dimensions/business_performance.md#too-fast-business-growth ) | __2.64__ times more common in the industry than overall |
+| [ Insufficient salary adjustments ]( dimensions/rewards.md#insufficient-salary-adjustments ) | __2.53__ times more common in the industry than overall |
+| [ Poor market offering ]( dimensions/business_performance.md#poor-market-offering ) | __2.44__ times more common in the industry than overall |
+| [ Poor commuter benefits ]( dimensions/rewards.md#poor-commuter-benefits ) | __2.35__ times more common in the industry than overall |
+#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+|  [ Substandard place of work ]( dimensions/work_organization.md#substandard-place-of-work ) | __4.52__ times less common in the industry than overall |
+|  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __4.36__ times less common in the industry than overall |
+|  [ Physically demanding work ]( dimensions/opportunities.md#physically-demanding-work ) | __4.22__ times less common in the industry than overall |
+|  [ Unsafe place of work ]( dimensions/work_organization.md#unsafe-place-of-work ) | __3.21__ times less common in the industry than overall |
+|  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __2.88__ times less common in the industry than overall |
