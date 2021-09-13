@@ -1,5 +1,5 @@
 # The most characteristic work problems per industry
-> August 2021, based on 1.25M opinions provided by the employees of over 300 global organizations
+> __August 2021__, based on __1.25M opinions__ provided by the employees of over __300 global organizations__
 
 
 ## Apparel
