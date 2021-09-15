@@ -50,7 +50,7 @@ The 7D Work Problem Model™ is a useful tool for research in the field of work 
 * measure how satisfied employees from a given organization are comparing to the average for that industry,
 * compare satisfaction of employees between different organizations.
 
-Moreover, the analysis of new opinions is done in a matter of minutes and in a way that guarantees both lack of bias and full anonymity to all respondents which constitutes a significant improvement over traditional, manual solutions.
+Moreover, the analysis of new opinions is done in a matter of minutes and in a way that guarantees to all respondents both lack of bias and full anonymity which constitutes a significant improvement over traditional, manual solutions.
 
 In the coming months the __Institute for a Better Workplace__ will publish numerous reports on work problems in different organizations. As a teaser of what is to come, we included [here](industry.md) the report on the most characteristic industry problems. The study was conducted using __1.25M__ opinions of employees from a total number of __300 global organizations__ in __12 different industries__. 
 <br/>
