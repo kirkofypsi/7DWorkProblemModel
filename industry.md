@@ -148,7 +148,10 @@
 |  [ No equity-based compensation ]( dimensions/rewards.md#no-equity-based-compensation ) | __3.09__ times less common in the industry than overall |
 |  [ Short-term thinking ]( dimensions/strategy.md#short-term-thinking ) | __3.06__ times less common in the industry than overall |
 
-## Household Products
+## Household & Personal Care Products
+
+> The household & personal care products industry is made up of establishments that manufacture or distribute personal care or household products such as cosmetics, soaps, lotions and fast-moving household supplies.
+
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
 | Work Problem | Industry vs Total Frequency Ratio |
 |-------------:|-------------------:|
