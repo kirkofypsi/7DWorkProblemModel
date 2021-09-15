@@ -6,7 +6,7 @@
 > The consulting industry is composed of professional service firms that provide advice and assistance in the areas of management, engineering, finance, information technology and many others.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Average Problem Frequency Ratio |
+| Work Problem | Industry Frequency vs Average Frequency Ratio |
 |-------------:|-------------------:|
 | [ Frequent or long travels ]( dimensions/work_organization.md#frequent-or-long-travels ) | __3.94__ times more common in the industry than overall |
 | [ Poor commuter benefits ]( dimensions/rewards.md#poor-commuter-benefits ) | __3.09__ times more common in the industry than overall |
@@ -14,7 +14,7 @@
 | [ Tight deadlines ]( dimensions/work_organization.md#tight-deadlines ) | __2.59__ times more common in the industry than overall |
 | [ Insufficient salary adjustments ]( dimensions/rewards.md#insufficient-salary-adjustments ) | __2.51__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Average Frequency vs Industry Frequency Ratio |
 |-------------:|-------------------:|
 |  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __13.03__ times less common in the industry than overall |
 |  [ Substandard place of work ]( dimensions/work_organization.md#substandard-place-of-work ) | __9.52__ times less common in the industry than overall |
