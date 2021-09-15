@@ -190,9 +190,9 @@
 |  [ Frequent or long travels ]( dimensions/work_organization.md#frequent-or-long-travels ) | __2.14__ times less common in the industry than overall |
 |  [ Unsafe place of work ]( dimensions/work_organization.md#unsafe-place-of-work ) | __1.96__ times less common in the industry than overall |
 
-## Pharmaceutical & Medical Devices
+## Pharmaceuticals & Medical Devices
 
-> The pharmaceutical & medical devices industry is made up of establishments that design, develop and manufacture pharmaceutical products used to improve health or treat illness including also manufacturers of medical and scientific instruments required in the diagnosis or treatment of human disease.
+> The pharmaceuticals & medical devices industry is made up of establishments that design, develop and manufacture pharmaceutical products used to improve health or treat illness including also manufacturers of medical and scientific instruments required in the diagnosis or treatment of human disease.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
 | Work Problem | Industry vs Total Frequency Ratio |
