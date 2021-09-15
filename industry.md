@@ -44,6 +44,9 @@
 |  [ Too fast business growth ]( dimensions/business_performance.md#too-fast-business-growth ) | __2.83__ times less common in the industry than overall |
 
 ## Fashion & Sportswear
+
+> The fashion & sportswear industry is composed of establishments that manufacture or sell clothing, eyewear, footwear, accessories and other fashion products.
+
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
 | Work Problem | Industry vs Total Frequency Ratio |
 |-------------:|-------------------:|
