@@ -233,6 +233,9 @@
 |  [ Complex or hierarchical structure ]( dimensions/strategy.md#complex-or-hierarchical-structure ) | __15.59__ times less common in the industry than overall |
 
 ## Technology
+
+> The technology industry is made up of establishments that develop and produce hardware, software or provide internet services.
+
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
 | Work Problem | Industry vs Total Frequency Ratio |
 |-------------:|-------------------:|
