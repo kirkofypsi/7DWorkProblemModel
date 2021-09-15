@@ -201,6 +201,9 @@
 |  [ Unstable work schedule ]( dimensions/work_organization.md#unstable-work-schedule ) | __3.75__ times less common in the industry than overall |
 
 ## Restaurants
+
+> The restaurants industry is made up of establishments that prepare and serve food to customers.
+
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
 | Work Problem | Industry vs Total Frequency Ratio |
 |-------------:|-------------------:|
