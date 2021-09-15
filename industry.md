@@ -60,6 +60,9 @@
 |  [ Too fast business growth ]( dimensions/business_performance.md#too-fast-business-growth ) | __2.83__ times less common in the industry than overall |
 
 ## Finance & Insurance
+
+> The finance & insurance industry consists of establishments engaged in a wide range of financial activities such as the provision of credit, money management and risk mitigation; investment banking; insurance underwriting and brokerage.
+
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
 | Work Problem | Industry vs Total Frequency Ratio |
 |-------------:|-------------------:|
