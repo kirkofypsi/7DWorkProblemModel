@@ -6,7 +6,7 @@
 > The consulting industry is composed of professional service firms that provide advice and assistance in the areas of management, engineering, finance, information technology and many others.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry Frequency vs Average Frequency Ratio |
+| Work Problem | Industry Frequency vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Frequent or long travels ]( dimensions/work_organization.md#frequent-or-long-travels ) | __3.94__ times more common in the industry than overall |
 | [ Poor commuter benefits ]( dimensions/rewards.md#poor-commuter-benefits ) | __3.09__ times more common in the industry than overall |
@@ -14,7 +14,7 @@
 | [ Tight deadlines ]( dimensions/work_organization.md#tight-deadlines ) | __2.59__ times more common in the industry than overall |
 | [ Insufficient salary adjustments ]( dimensions/rewards.md#insufficient-salary-adjustments ) | __2.51__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Average Frequency vs Industry Frequency Ratio |
+| Work Problem | Overall Frequency vs Industry Frequency Ratio |
 |-------------:|-------------------:|
 |  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __13.03__ times less common in the industry than overall |
 |  [ Substandard place of work ]( dimensions/work_organization.md#substandard-place-of-work ) | __9.52__ times less common in the industry than overall |
@@ -27,7 +27,7 @@
 > The energy & mining industry is made up of companies involved in the production and sale of energy or in extraction of naturally occurring solid minerals from the earth. It includes also all manufacturers of equipment used by energy and mining companies.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry Frequency vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Negative outlook for the future ]( dimensions/business_performance.md#negative-outlook-for-the-future ) | __5.44__ times more common in the industry than overall |
 | [ Frequent or long travels ]( dimensions/work_organization.md#frequent-or-long-travels ) | __2.55__ times more common in the industry than overall |
@@ -48,7 +48,7 @@
 > The fashion & sportswear industry is composed of establishments that manufacture or sell clothing, eyewear, footwear, accessories and other fashion products.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry Frequency vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __3.65__ times more common in the industry than overall |
 | [ Unstable work schedule ]( dimensions/work_organization.md#unstable-work-schedule ) | __2.72__ times more common in the industry than overall |
@@ -69,7 +69,7 @@
 > The finance & insurance industry consists of establishments engaged in a wide range of financial activities such as the provision of credit, money management and risk mitigation; investment banking; insurance underwriting and brokerage.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry Frequency vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Outdated, inefficient or missing tools ]( dimensions/work_organization.md#outdated-inefficient-or-missing-tools ) | __2.51__ times more common in the industry than overall |
 | [ Weak brand or reputation ]( dimensions/business_performance.md#weak-brand-or-reputation ) | __1.87__ times more common in the industry than overall |
@@ -90,7 +90,7 @@
 > The food, beverages & tobacco industry is made up of establishments that process and manufacture food or beverages including alcoholic drinks and tobacco products.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry Frequency vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Stringent cost management ]( dimensions/business_performance.md#stringent-cost-management ) | __2.22__ times more common in the industry than overall |
 | [ Short-term thinking ]( dimensions/strategy.md#short-term-thinking ) | __2.12__ times more common in the industry than overall |
@@ -111,7 +111,7 @@
 > The higher education industry is an umbrella term used to describe the academic institutions and organizations that provide education at levels above high school.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry Frequency vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __9.74__ times more common in the industry than overall |
 | [ Inadequate parking options ]( dimensions/work_organization.md#inadequate-parking-options ) | __7.35__ times more common in the industry than overall |
@@ -132,7 +132,7 @@
 > The hotels & resorts industry is made up of establishments that provide hotel and resort services to tourists and travelers.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry Frequency vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Run-down place of work ]( dimensions/work_organization.md#run-down-place-of-work ) | __3.27__ times more common in the industry than overall |
 | [ Expensive benefits ]( dimensions/rewards.md#expensive-benefits ) | __2.17__ times more common in the industry than overall |
@@ -153,7 +153,7 @@
 > The household & personal care products industry is made up of establishments that manufacture or distribute personal care or household products such as cosmetics, soaps, lotions and fast-moving household supplies.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry Frequency vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Slow decision-making ]( dimensions/leadership.md#slow-decision-making ) | __2.09__ times more common in the industry than overall |
 | [ Short-term thinking ]( dimensions/strategy.md#short-term-thinking ) | __1.91__ times more common in the industry than overall |
@@ -174,7 +174,7 @@
 > The media & publishing industry is composed of establishments that communicate and distribute information (news, data or entertainment) to the general public. It includes various forms of print media such as newspapers and books; electronic publishing outlets such as websites or blogs; cable television companies including those that broadcast via satellite.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry Frequency vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Unstable or conflicting objectives ]( dimensions/work_organization.md#unstable-or-conflicting-objectives ) | __2.24__ times more common in the industry than overall |
 | [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __2.06__ times more common in the industry than overall |
@@ -195,7 +195,7 @@
 > The pharmaceuticals & medical devices industry is made up of establishments that design, develop and manufacture pharmaceutical products used to improve health or treat illness including also manufacturers of medical and scientific instruments required in the diagnosis or treatment of human disease.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry Frequency vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ No equity-based compensation ]( dimensions/rewards.md#no-equity-based-compensation ) | __2.31__ times more common in the industry than overall |
 | [ Slow decision-making ]( dimensions/leadership.md#slow-decision-making ) | __2.09__ times more common in the industry than overall |
@@ -216,7 +216,7 @@
 > The restaurants industry is made up of establishments that prepare and serve food to customers.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry Frequency vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __5.66__ times more common in the industry than overall |
 | [ Substandard place of work ]( dimensions/work_organization.md#substandard-place-of-work ) | __4.32__ times more common in the industry than overall |
@@ -237,7 +237,7 @@
 > The technology industry is made up of establishments that develop and produce hardware, software or provide internet services.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry Frequency vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ No equity-based compensation ]( dimensions/rewards.md#no-equity-based-compensation ) | __3.73__ times more common in the industry than overall |
 | [ Too fast business growth ]( dimensions/business_performance.md#too-fast-business-growth ) | __2.64__ times more common in the industry than overall |
