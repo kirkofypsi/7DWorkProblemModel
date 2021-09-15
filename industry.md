@@ -38,27 +38,6 @@
 |  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __7.75__ times less common in the industry than overall |
 |  [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __6.69__ times less common in the industry than overall |
 
-## Education
-
-> The higher education industry is an umbrella term used to describe the academic institutions and organizations that provide education at levels above high school.
-
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
-|-------------:|-------------------:|
-| [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __9.74__ times more common in the industry than overall |
-| [ Inadequate parking options ]( dimensions/work_organization.md#inadequate-parking-options ) | __7.35__ times more common in the industry than overall |
-| [ Overpriced market offering ]( dimensions/business_performance.md#overpriced-market-offering ) | __3.76__ times more common in the industry than overall |
-| [ Difficult commute ]( dimensions/work_organization.md#difficult-commute ) | __3.69__ times more common in the industry than overall |
-| [ Inconvenient or unsafe location ]( dimensions/work_organization.md#inconvenient-or-unsafe-location ) | __3.46__ times more common in the industry than overall |
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
-|-------------:|-------------------:|
-|  [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __12.67__ times less common in the industry than overall |
-|  [ Poor market offering ]( dimensions/business_performance.md#poor-market-offering ) | __9.05__ times less common in the industry than overall |
-|  [ No focus on customers ]( dimensions/strategy.md#no-focus-on-customers ) | __8.6__ times less common in the industry than overall |
-|  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __8.53__ times less common in the industry than overall |
-|  [ Frequent vision or rules changes ]( dimensions/strategy.md#frequent-vision-or-rules-changes ) | __7.42__ times less common in the industry than overall |
-
 ## Energy & Mining
 
 > The energy & mining industry is made up of companies involved in the production and sale of energy or in extraction of naturally occurring solid minerals from the earth. It includes also all manufacturers of equipment used by energy and mining companies.
@@ -133,6 +112,27 @@
 |  [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __4.32__ times less common in the industry than overall |
 |  [ Substandard place of work ]( dimensions/work_organization.md#substandard-place-of-work ) | __3.92__ times less common in the industry than overall |
 |  [ Unstable work schedule ]( dimensions/work_organization.md#unstable-work-schedule ) | __3.75__ times less common in the industry than overall |
+
+## Higher Education
+
+> The higher education industry is an umbrella term used to describe the academic institutions and organizations that provide education at levels above high school.
+
+#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+| [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __9.74__ times more common in the industry than overall |
+| [ Inadequate parking options ]( dimensions/work_organization.md#inadequate-parking-options ) | __7.35__ times more common in the industry than overall |
+| [ Overpriced market offering ]( dimensions/business_performance.md#overpriced-market-offering ) | __3.76__ times more common in the industry than overall |
+| [ Difficult commute ]( dimensions/work_organization.md#difficult-commute ) | __3.69__ times more common in the industry than overall |
+| [ Inconvenient or unsafe location ]( dimensions/work_organization.md#inconvenient-or-unsafe-location ) | __3.46__ times more common in the industry than overall |
+#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+|  [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __12.67__ times less common in the industry than overall |
+|  [ Poor market offering ]( dimensions/business_performance.md#poor-market-offering ) | __9.05__ times less common in the industry than overall |
+|  [ No focus on customers ]( dimensions/strategy.md#no-focus-on-customers ) | __8.6__ times less common in the industry than overall |
+|  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __8.53__ times less common in the industry than overall |
+|  [ Frequent vision or rules changes ]( dimensions/strategy.md#frequent-vision-or-rules-changes ) | __7.42__ times less common in the industry than overall |
 
 ## Hotels
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
