@@ -1,25 +1,6 @@
 # The most characteristic work problems per industry
 > __August 2021__, based on __1.25M opinions__ provided by the employees of over __300 global organizations__
 
-
-## Apparel
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
-|-------------:|-------------------:|
-| [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __3.65__ times more common in the industry than overall |
-| [ Unstable work schedule ]( dimensions/work_organization.md#unstable-work-schedule ) | __2.72__ times more common in the industry than overall |
-| [ Gossips or slanders ]( dimensions/culture.md#gossips-or-slanders ) | __2.33__ times more common in the industry than overall |
-| [ Work on days off ]( dimensions/work_organization.md#work-on-days-off ) | __2.3__ times more common in the industry than overall |
-| [ Difficult to take days off ]( dimensions/work_organization.md#difficult-to-take-days-off ) | __2.26__ times more common in the industry than overall |
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
-|-------------:|-------------------:|
-|  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __24.91__ times less common in the industry than overall |
-|  [ Poor pension plan ]( dimensions/rewards.md#poor-pension-plan ) | __5.89__ times less common in the industry than overall |
-|  [ Distributed workforce ]( dimensions/business_performance.md#distributed-workforce ) | __5.42__ times less common in the industry than overall |
-|  [ Outsourcing & offshoring ]( dimensions/business_performance.md#outsourcing--offshoring ) | __5.34__ times less common in the industry than overall |
-|  [ Frequent or long travels ]( dimensions/work_organization.md#frequent-or-long-travels ) | __5.33__ times less common in the industry than overall |
-
 ## Consulting
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
 | Work Problem | Industry vs Total Frequency Ratio |
@@ -58,6 +39,24 @@
 |  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __4.01__ times less common in the industry than overall |
 |  [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __3.41__ times less common in the industry than overall |
 |  [ Too fast business growth ]( dimensions/business_performance.md#too-fast-business-growth ) | __2.83__ times less common in the industry than overall |
+
+## Fashion & Sportswear
+#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+| [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __3.65__ times more common in the industry than overall |
+| [ Unstable work schedule ]( dimensions/work_organization.md#unstable-work-schedule ) | __2.72__ times more common in the industry than overall |
+| [ Gossips or slanders ]( dimensions/culture.md#gossips-or-slanders ) | __2.33__ times more common in the industry than overall |
+| [ Work on days off ]( dimensions/work_organization.md#work-on-days-off ) | __2.3__ times more common in the industry than overall |
+| [ Difficult to take days off ]( dimensions/work_organization.md#difficult-to-take-days-off ) | __2.26__ times more common in the industry than overall |
+#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+|  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __24.91__ times less common in the industry than overall |
+|  [ Poor pension plan ]( dimensions/rewards.md#poor-pension-plan ) | __5.89__ times less common in the industry than overall |
+|  [ Distributed workforce ]( dimensions/business_performance.md#distributed-workforce ) | __5.42__ times less common in the industry than overall |
+|  [ Outsourcing & offshoring ]( dimensions/business_performance.md#outsourcing--offshoring ) | __5.34__ times less common in the industry than overall |
+|  [ Frequent or long travels ]( dimensions/work_organization.md#frequent-or-long-travels ) | __5.33__ times less common in the industry than overall |
 
 ## Finance & Insurance
 
