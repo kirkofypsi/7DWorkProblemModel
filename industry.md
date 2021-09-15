@@ -57,6 +57,9 @@
 |  [ Frequent vision or rules changes ]( dimensions/strategy.md#frequent-vision-or-rules-changes ) | __7.42__ times less common in the industry than overall |
 
 ## Energy & Mining
+
+> The energy & mining industry is made up of companies involved in the production and sale of energy or in extraction of naturally occurring solid minerals from the earth. It includes also all manufacturers of equipment used by energy and mining companies.
+
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
 | Work Problem | Industry vs Total Frequency Ratio |
 |-------------:|-------------------:|
