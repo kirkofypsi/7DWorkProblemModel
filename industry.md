@@ -159,6 +159,9 @@
 |  [ Run-down place of work ]( dimensions/work_organization.md#run-down-place-of-work ) | __2.24__ times less common in the industry than overall |
 
 ## Media & Publishing
+
+> The media & publishing industry is composed of establishments that communicate and distribute information (news, data or entertainment) to the general public. It includes various forms of print media such as newspapers and books; electronic publishing outlets such as websites or blogs; cable television companies including those that broadcast via satellite.
+
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
 | Work Problem | Industry vs Total Frequency Ratio |
 |-------------:|-------------------:|
