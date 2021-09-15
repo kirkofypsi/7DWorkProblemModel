@@ -134,7 +134,10 @@
 |  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __8.53__ times less common in the industry than overall |
 |  [ Frequent vision or rules changes ]( dimensions/strategy.md#frequent-vision-or-rules-changes ) | __7.42__ times less common in the industry than overall |
 
-## Hotels
+## Hotels & Resorts
+
+> The hotels & resorts industry is made up of establishments that provide hotel and resort services to tourists and travelers.
+
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
 | Work Problem | Industry vs Total Frequency Ratio |
 |-------------:|-------------------:|
