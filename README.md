@@ -40,6 +40,19 @@ The resulting taxonomy called the __7D Work Problem Model™__ recognizes at the
 The __7D Work Problem Model™__ does not represent a static taxonomy. It will be thoroughly reviewed every few months and possibly modified to reflect new developments in research or changes in the world of work.
 
 __The Institute for a Better Workplace__ decided to open-source work problem taxonomy in order to make it available to researchers and companies interested in the topic. It is our hope that this taxonomy will be used to improve work environments and the well-being of employees around the world.
+
+# How can the 7D Work Problem Model™ be used?
+
+The 7D Work Problem Model™ is a useful tool for research in the field of work satisfaction as it comes with the automated classifier that can be used to quickly and unbiasedly identify relevant work problems without the need for expert review or manual tagging. Therefore given a large enough dataset of employees opinions expressed in natural language we can use it to:
+
+* Analyze work problems distribution across different functions/locations/departments
+* Track how the number of work problems changes over time in a specific organization
+* Measure how satisfied employees from a given organization are comparing to the average for that industry
+* Compare satisfaction of employees between different organizations
+
+Moreover, the analysis of new opinions is done in a matter of minutes and in a way that guarantees both lack of bias and full anonymity to all respondents which constitutes a significant improvement over the traditional, manual solutions.
+
+In the coming months the Institute for a Better Workplace will publish numerous reports on work problems in different organizations. As a teaser of what is to come, please see the report on the most characteristic industry problems. The study was conducted using  1.25M opinions of employees from a total number of 300 organizations in 12 different industries. 
 <br/>
 <br/>
 # Explore [ 7D Work Problem Model™](taxonomy.md)
