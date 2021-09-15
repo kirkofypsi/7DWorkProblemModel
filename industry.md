@@ -39,6 +39,9 @@
 |  [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __6.69__ times less common in the industry than overall |
 
 ## Education
+
+> The higher education industry is an umbrella term used to describe the academic institutions and organizations that provide education at levels above high school.
+
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
 | Work Problem | Industry vs Total Frequency Ratio |
 |-------------:|-------------------:|
