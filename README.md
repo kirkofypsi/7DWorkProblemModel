@@ -57,8 +57,6 @@ In the coming months the Institute for a Better Workplace will publish numerous 
 <br/>
 # Explore [ 7D Work Problem Model™](taxonomy.md)
 <br/>
-<br/>
-
 ### References
 
 [1] https://www.gallup.com/workplace/352949/employee-engagement-holds-steady-first-half-2021.aspx
