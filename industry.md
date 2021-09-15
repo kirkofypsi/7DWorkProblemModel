@@ -2,6 +2,9 @@
 > __August 2021__, based on __1.25M opinions__ provided by the employees of over __300 global organizations__
 
 ## Consulting
+
+> The consulting industry is composed of professional service firms that provide advice and assistance in the areas of management, engineering, finance, information technology and many others.
+
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
 | Work Problem | Industry vs Total Frequency Ratio |
 |-------------:|-------------------:|
