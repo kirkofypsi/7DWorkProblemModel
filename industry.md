@@ -1,3 +1,5 @@
+[Back to the introduction](README.md)
+
 # The most characteristic work problems per industry
 > __August 2021__, based on __1.25M opinions__ provided by the employees of over __300 global organizations__
 
