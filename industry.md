@@ -85,7 +85,10 @@
 |  [ Physically demanding work ]( dimensions/opportunities.md#physically-demanding-work ) | __3.32__ times less common in the industry than overall |
 |  [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __3.28__ times less common in the industry than overall |
 
-## Food & Beverages
+## Food, Beverages & Tobacco
+
+> The food, beverages & tobacco industry is made up of establishments that process and manufacture food or beverages including alcoholic drinks and tobacco products.
+
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
 | Work Problem | Industry vs Total Frequency Ratio |
 |-------------:|-------------------:|
