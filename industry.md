@@ -98,24 +98,6 @@
 |  [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __2.56__ times less common in the industry than overall |
 |  [ Overpriced market offering ]( dimensions/business_performance.md#overpriced-market-offering ) | __2.42__ times less common in the industry than overall |
 
-## Health care
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
-|-------------:|-------------------:|
-| [ No equity-based compensation ]( dimensions/rewards.md#no-equity-based-compensation ) | __2.31__ times more common in the industry than overall |
-| [ Slow decision-making ]( dimensions/leadership.md#slow-decision-making ) | __2.09__ times more common in the industry than overall |
-| [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __2.08__ times more common in the industry than overall |
-| [ Too fast business growth ]( dimensions/business_performance.md#too-fast-business-growth ) | __2.08__ times more common in the industry than overall |
-| [ Aversion to risk or changes ]( dimensions/culture.md#aversion-to-risk-or-changes ) | __2.01__ times more common in the industry than overall |
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
-|-------------:|-------------------:|
-|  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __21.77__ times less common in the industry than overall |
-|  [ Physically demanding work ]( dimensions/opportunities.md#physically-demanding-work ) | __5.07__ times less common in the industry than overall |
-|  [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __4.32__ times less common in the industry than overall |
-|  [ Substandard place of work ]( dimensions/work_organization.md#substandard-place-of-work ) | __3.92__ times less common in the industry than overall |
-|  [ Unstable work schedule ]( dimensions/work_organization.md#unstable-work-schedule ) | __3.75__ times less common in the industry than overall |
-
 ## Higher Education
 
 > The higher education industry is an umbrella term used to describe the academic institutions and organizations that provide education at levels above high school.
@@ -193,6 +175,27 @@
 |  [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __2.48__ times less common in the industry than overall |
 |  [ Frequent or long travels ]( dimensions/work_organization.md#frequent-or-long-travels ) | __2.14__ times less common in the industry than overall |
 |  [ Unsafe place of work ]( dimensions/work_organization.md#unsafe-place-of-work ) | __1.96__ times less common in the industry than overall |
+
+## Pharmaceutical & Medical Devices
+
+> The pharmaceutical & medical devices industry is made up of establishments that design, develop and manufacture pharmaceutical products used to improve health or treat illness including also manufacturers of medical and scientific instruments required in the diagnosis or treatment of human disease.
+
+#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+| [ No equity-based compensation ]( dimensions/rewards.md#no-equity-based-compensation ) | __2.31__ times more common in the industry than overall |
+| [ Slow decision-making ]( dimensions/leadership.md#slow-decision-making ) | __2.09__ times more common in the industry than overall |
+| [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __2.08__ times more common in the industry than overall |
+| [ Too fast business growth ]( dimensions/business_performance.md#too-fast-business-growth ) | __2.08__ times more common in the industry than overall |
+| [ Aversion to risk or changes ]( dimensions/culture.md#aversion-to-risk-or-changes ) | __2.01__ times more common in the industry than overall |
+#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+| Work Problem | Industry vs Total Frequency Ratio |
+|-------------:|-------------------:|
+|  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __21.77__ times less common in the industry than overall |
+|  [ Physically demanding work ]( dimensions/opportunities.md#physically-demanding-work ) | __5.07__ times less common in the industry than overall |
+|  [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __4.32__ times less common in the industry than overall |
+|  [ Substandard place of work ]( dimensions/work_organization.md#substandard-place-of-work ) | __3.92__ times less common in the industry than overall |
+|  [ Unstable work schedule ]( dimensions/work_organization.md#unstable-work-schedule ) | __3.75__ times less common in the industry than overall |
 
 ## Restaurants
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
