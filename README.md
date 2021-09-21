@@ -35,8 +35,6 @@ The resulting taxonomy called the __7D Work Problem Model™__ recognizes at the
        * Undefined career paths  &nbsp;  &nbsp;  &nbsp; <-- *Work problem*
        * Outsiders favored over insiders  &nbsp;  &nbsp;  &nbsp; <-- *Work problem*
 
-<br/>
-
 The __7D Work Problem Model™__ does not represent a static taxonomy. It will be thoroughly reviewed every few months and possibly modified to reflect new developments in research or changes in the world of work.
 
 __The Institute for a Better Workplace__ decided to open-source work problem taxonomy in order to make it available to researchers and companies interested in the topic. It is our hope that this taxonomy will be used to improve work environments and the well-being of employees around the world.
