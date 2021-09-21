@@ -28,7 +28,7 @@ __Exemplary statements reported by employees:__
 * *all new key roles are for externals*
 
 ### POOR CAREER GROWTH
-> Organization does not offer enough opportunities for career growth. Employees find it difficult to move up in the organization either because positions are rarely vacant, because the promotion process is lengthy and complex. The lack of opportunities may also be related to the organization is not growing, and consequently, new positions not being added.
+> Organization does not offer enough opportunities for career growth. Employees find it difficult to move up in the organization either because positions are rarely vacant or because the promotion process is lengthy and complex. The lack of opportunities may also be related to the organization is not growing, and consequently, new positions not being added.
 
 __Exemplary statements reported by employees:__
 
@@ -54,7 +54,7 @@ __Exemplary statements reported by employees:__
 Having enough opportunities for making an impact on the organization by using one's skills and abilities.
 
 ### UNIMPACTFUL WORK
-> Work is perceived as not being meaningful or having an impact on the organization. Employees might feel that they are doing work that is pointless, does not make any difference in the organization, or has no value to the world.
+> Work is perceived as not being meaningful or having an impact on the organization. Employees might feel that they are performing pointless work, does not make any difference in the organization, or has no value to the world.
 
 __Exemplary statements reported by employees:__
 
@@ -95,7 +95,7 @@ __Exemplary statements reported by employees:__
 Having enough opportunities for socializing with other people.
 
 ### LIMITED SOCIAL INTERACTIONS
-> Work is believed to offer limited opportunities for social interactions, including with co-workers or customers. Organization might either not provide enough opportunities for face-to-face interactions, employees might be working remotely or they might have to work in solitude for long periods of time.
+> Work is believed to offer limited opportunities for social interactions, including with co-workers or customers. Organization might either not provide enough opportunities for face-to-face interactions, employees might be working remotely or they might have to work in solitude for long periods.
 
 __Exemplary statements reported by employees:__
 
@@ -132,7 +132,7 @@ __Exemplary statements reported by employees:__
 * *working across multiple projects is common*
 
 ### OVERLY CHALLENGING WORK
-> Work is perceived as overly challenging. Employees are expected to perform at the level that doesn't correspond with their knowledge or experience. This can be also a consequence of the organization not being able to efficiently reduce the complexity of its systems or processes.
+> Work is perceived as overly challenging. Employees are expected to perform at a level that doesn't correspond with their knowledge or experience. This can be also a consequence of the organization not being able to efficiently reduce the complexity of its systems or processes.
 
 __Exemplary statements reported by employees:__
 
@@ -143,7 +143,7 @@ __Exemplary statements reported by employees:__
 * *complex nature of work to understand*
 
 ### PHYSICALLY DEMANDING WORK
-> Work is physically demanding. Employees might have to stand for extended periods of time or work in a stationary position all day. They might also be exposed to harsh weather conditions or have to carry heavy loads.
+> Work is physically demanding. Employees might have to stand for extended periods or work in a stationary position all day. They might also be exposed to harsh weather conditions or have to carry heavy loads.
 
 __Exemplary statements reported by employees:__
 
