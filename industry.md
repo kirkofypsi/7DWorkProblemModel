@@ -7,6 +7,7 @@
 > The consulting industry is composed of professional service firms that provide advice and assistance in the areas of management, engineering, finance, information technology and many others.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
+
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Frequent or long travels ]( dimensions/work_organization.md#frequent-or-long-travels ) | __3.84__ times more common in the industry than overall |
@@ -14,7 +15,9 @@
 | [ Poor performance feedback ]( dimensions/leadership.md#poor-performance-feedback ) | __3.01__ times more common in the industry than overall |
 | [ Poor commuter benefits ]( dimensions/rewards.md#poor-commuter-benefits ) | __2.97__ times more common in the industry than overall |
 | [ Too little learning ]( dimensions/opportunities.md#too-little-learning ) | __2.45__ times more common in the industry than overall |
+
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
+
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __14.38__ times less common in the industry than overall |
@@ -25,6 +28,7 @@
 
 ## Department Stores & Supermarkets
 > The department stores & supermarkets industry is made up of establishments that sell, at retail or wholesale, a wide range of merchandise and services including food, clothing, home furnishings, appliances and electronics. It includes groceries, supermarkets and both specialty and general merchandise stores.
+
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
