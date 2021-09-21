@@ -10,7 +10,7 @@ Work-related health risks have been since long studied by the science.  Initiall
 
 Unfortunately, there is an absence in the scientific literature of a reference taxonomy cataloguing all factors leading to dissatisfaction in the workplace, even if we limit ourselves only to psychosocial stressors and physical hazards. Numerous attempts were made, most notably the ones described in [[2],[3]](https://github.com/kirkofypsi/7DWorkProblemModel/blob/main/README.md#references) comprising of 53 and 44 categories respectively, however, in our opinion they are not covering all relevant dissatisfaction factors and were not derived from analysis of really large datasets of employees opinions (1M+).
 
-Given that absence,  the __Institute for a Better Workplace__ decided to create own taxonomy, which we believe to be the most exhaustive one (currently comprising of 130 categories) and the only one tested on large enough dataset of employees opinions. The taxonomy was derived from more than __1.25 million opinions__ about workplace experiences reported by the employees of over __300 global organizations__ and its creation was possible thanks to the support of machine learning and NLP techniques that allowed us to discover hidden relationships between the contents of employees reports. 1.25 million opinions is an equivalent of 170 average-sized books so it is not surprising that traditional, manual approaches to building taxonomies were not applicable in this case.
+Given that absence,  the __Institute for a Better Workplace__ decided to create own taxonomy, which we believe to be the most exhaustive one (currently comprising of 130 categories) and the only one tested on large enough dataset of employees opinions. The taxonomy was derived from more than __1.5 million opinions__ about workplace experiences reported by the employees of __389 global organizations__ and its creation was possible thanks to the support of machine learning and NLP techniques that allowed us to discover hidden relationships between the contents of employees reports. 1.25 million opinions is an equivalent of 170 average-sized books so it is not surprising that traditional, manual approaches to building taxonomies were not applicable in this case.
 
 # 7D Work Problem Model™
 
@@ -52,7 +52,7 @@ The 7D Work Problem Model™ is a useful tool for research in the field of work 
 
 Moreover, the analysis of new opinions is done in a matter of minutes and in a way that guarantees to all respondents both lack of bias and full anonymity which constitutes a significant improvement over traditional, manual solutions.
 
-In the coming months the __Institute for a Better Workplace__ will publish numerous reports on work problems in different organizations. As a teaser of what is to come, we included [here](industry.md) the report on the most characteristic industry problems. The study was conducted using __1.25M__ opinions of employees from a total number of __300 global organizations__ in __12 different industries__. 
+In the coming months the __Institute for a Better Workplace__ will publish numerous reports on work problems in different organizations. As a teaser of what is to come, we included [here](industry.md) the report on the most characteristic industry problems. The study was conducted using __1.5M__ opinions of employees from a total number of __389 global organizations__ in __16 different industries__. 
 <br/>
 <br/>
 # Explore [ 7D Work Problem Model™](taxonomy.md)
