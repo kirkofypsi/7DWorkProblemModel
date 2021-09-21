@@ -1,11 +1,11 @@
 [Back to the introduction](README.md)
 # The most characteristic work problems per industry
-> __September 2021__, based on __1.58M opinions__ provided by the employees of __391 global organizations__
+> __September 2021__, based on __1.50M opinions__ provided by the employees of __389 global organizations__ from __16 industries__
 
 
 ## Consulting
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Frequent or long travels ]( dimensions/work_organization.md#frequent-or-long-travels ) | __3.84__ times more common in the industry than overall |
 | [ Insufficient salary adjustments ]( dimensions/rewards.md#insufficient-salary-adjustments ) | __3.08__ times more common in the industry than overall |
@@ -13,7 +13,7 @@
 | [ Poor commuter benefits ]( dimensions/rewards.md#poor-commuter-benefits ) | __2.97__ times more common in the industry than overall |
 | [ Too little learning ]( dimensions/opportunities.md#too-little-learning ) | __2.45__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __14.38__ times less common in the industry than overall |
 |  [ Unsafe place of work ]( dimensions/work_organization.md#unsafe-place-of-work ) | __8.28__ times less common in the industry than overall |
@@ -23,7 +23,7 @@
 
 ## Department Stores & Supermarkets
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Physically demanding work ]( dimensions/opportunities.md#physically-demanding-work ) | __3.13__ times more common in the industry than overall |
 | [ Unstable work schedule ]( dimensions/work_organization.md#unstable-work-schedule ) | __2.95__ times more common in the industry than overall |
@@ -31,7 +31,7 @@
 | [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __2.61__ times more common in the industry than overall |
 | [ Understaffing ]( dimensions/business_performance.md#understaffing ) | __2.48__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __10.8__ times less common in the industry than overall |
 |  [ Distributed workforce ]( dimensions/business_performance.md#distributed-workforce ) | __10.6__ times less common in the industry than overall |
@@ -41,7 +41,7 @@
 
 ## Electronics & Home Appliances
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ No equity-based compensation ]( dimensions/rewards.md#no-equity-based-compensation ) | __3.53__ times more common in the industry than overall |
 | [ National origin discrimination ]( dimensions/culture.md#national-origin-discrimination ) | __3.22__ times more common in the industry than overall |
@@ -49,7 +49,7 @@
 | [ Distributed workforce ]( dimensions/business_performance.md#distributed-workforce ) | __2.34__ times more common in the industry than overall |
 | [ Complex or hierarchical structure ]( dimensions/strategy.md#complex-or-hierarchical-structure ) | __1.94__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __12.88__ times less common in the industry than overall |
 |  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __4.68__ times less common in the industry than overall |
@@ -59,7 +59,7 @@
 
 ## Energy & Mining
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Negative outlook for the future ]( dimensions/business_performance.md#negative-outlook-for-the-future ) | __4.82__ times more common in the industry than overall |
 | [ Frequent or long travels ]( dimensions/work_organization.md#frequent-or-long-travels ) | __2.75__ times more common in the industry than overall |
@@ -67,7 +67,7 @@
 | [ Poor pension plan ]( dimensions/rewards.md#poor-pension-plan ) | __2.08__ times more common in the industry than overall |
 | [ Low job security ]( dimensions/business_performance.md#low-job-security ) | __1.95__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ Inadequate parking options ]( dimensions/work_organization.md#inadequate-parking-options ) | __5.63__ times less common in the industry than overall |
 |  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __3.77__ times less common in the industry than overall |
@@ -77,7 +77,7 @@
 
 ## Fashion & Sportswear
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __3.8__ times more common in the industry than overall |
 | [ Unstable work schedule ]( dimensions/work_organization.md#unstable-work-schedule ) | __2.73__ times more common in the industry than overall |
@@ -85,7 +85,7 @@
 | [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __2.38__ times more common in the industry than overall |
 | [ Egocentric or aggressive leaders ]( dimensions/leadership.md#egocentric-or-aggressive-leaders ) | __2.2__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __15.59__ times less common in the industry than overall |
 |  [ Distributed workforce ]( dimensions/business_performance.md#distributed-workforce ) | __8.68__ times less common in the industry than overall |
@@ -95,7 +95,7 @@
 
 ## Finance & Insurance
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Outdated, inefficient or missing tools ]( dimensions/work_organization.md#outdated-inefficient-or-missing-tools ) | __2.27__ times more common in the industry than overall |
 | [ Weak brand or reputation ]( dimensions/business_performance.md#weak-brand-or-reputation ) | __1.91__ times more common in the industry than overall |
@@ -103,7 +103,7 @@
 | [ Bureaucracy or overregulation ]( dimensions/work_organization.md#bureaucracy-or-overregulation ) | __1.74__ times more common in the industry than overall |
 | [ Difficulties in internal transfers ]( dimensions/opportunities.md#difficulties-in-internal-transfers ) | __1.7__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ Unsafe place of work ]( dimensions/work_organization.md#unsafe-place-of-work ) | __6.08__ times less common in the industry than overall |
 |  [ Substandard place of work ]( dimensions/work_organization.md#substandard-place-of-work ) | __5.31__ times less common in the industry than overall |
@@ -113,7 +113,7 @@
 
 ## Food, Beverages & Tobacco
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Stringent cost management ]( dimensions/business_performance.md#stringent-cost-management ) | __2.07__ times more common in the industry than overall |
 | [ Short-term thinking ]( dimensions/strategy.md#short-term-thinking ) | __1.82__ times more common in the industry than overall |
@@ -121,7 +121,7 @@
 | [ Age discrimination ]( dimensions/culture.md#age-discrimination ) | __1.74__ times more common in the industry than overall |
 | [ Slow decision-making ]( dimensions/leadership.md#slow-decision-making ) | __1.69__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __11.01__ times less common in the industry than overall |
 |  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __5.61__ times less common in the industry than overall |
@@ -131,7 +131,7 @@
 
 ## Higher Education
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __12.1__ times more common in the industry than overall |
 | [ Inadequate parking options ]( dimensions/work_organization.md#inadequate-parking-options ) | __8.58__ times more common in the industry than overall |
@@ -139,7 +139,7 @@
 | [ Inconvenient or unsafe location ]( dimensions/work_organization.md#inconvenient-or-unsafe-location ) | __3.79__ times more common in the industry than overall |
 | [ Overpriced market offering ]( dimensions/business_performance.md#overpriced-market-offering ) | __3.62__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ Poor market offering ]( dimensions/business_performance.md#poor-market-offering ) | __12.89__ times less common in the industry than overall |
 |  [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __12.67__ times less common in the industry than overall |
@@ -149,7 +149,7 @@
 
 ## Hotels & Resorts
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Run-down place of work ]( dimensions/work_organization.md#run-down-place-of-work ) | __3.26__ times more common in the industry than overall |
 | [ Unstable work schedule ]( dimensions/work_organization.md#unstable-work-schedule ) | __1.96__ times more common in the industry than overall |
@@ -157,7 +157,7 @@
 | [ Work on days off ]( dimensions/work_organization.md#work-on-days-off ) | __1.87__ times more common in the industry than overall |
 | [ Non-standard work hours ]( dimensions/work_organization.md#non-standard-work-hours ) | __1.81__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ No equity-based compensation ]( dimensions/rewards.md#no-equity-based-compensation ) | __4.04__ times less common in the industry than overall |
 |  [ Distributed workforce ]( dimensions/business_performance.md#distributed-workforce ) | __3.6__ times less common in the industry than overall |
@@ -167,7 +167,7 @@
 
 ## Household & Personal Care Products
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Slow decision-making ]( dimensions/leadership.md#slow-decision-making ) | __2.28__ times more common in the industry than overall |
 | [ Gossips or slanders ]( dimensions/culture.md#gossips-or-slanders ) | __2.03__ times more common in the industry than overall |
@@ -175,7 +175,7 @@
 | [ Complex or hierarchical structure ]( dimensions/strategy.md#complex-or-hierarchical-structure ) | __1.68__ times more common in the industry than overall |
 | [ Unhealthy employees competition ]( dimensions/culture.md#unhealthy-employees-competition ) | __1.6__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ Inadequate parking options ]( dimensions/work_organization.md#inadequate-parking-options ) | __4.93__ times less common in the industry than overall |
 |  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __4.84__ times less common in the industry than overall |
@@ -185,7 +185,7 @@
 
 ## Internet
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Too fast business growth ]( dimensions/business_performance.md#too-fast-business-growth ) | __6.2__ times more common in the industry than overall |
 | [ Unstable or conflicting objectives ]( dimensions/work_organization.md#unstable-or-conflicting-objectives ) | __2.59__ times more common in the industry than overall |
@@ -193,7 +193,7 @@
 | [ No focus on quality ]( dimensions/strategy.md#no-focus-on-quality ) | __2.22__ times more common in the industry than overall |
 | [ No freedom to speak one's mind ]( dimensions/culture.md#no-freedom-to-speak-ones-mind ) | __2.21__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __3.06__ times less common in the industry than overall |
 |  [ Understaffing ]( dimensions/business_performance.md#understaffing ) | __2.57__ times less common in the industry than overall |
@@ -203,7 +203,7 @@
 
 ## Media & Publishing
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __2.17__ times more common in the industry than overall |
 | [ Negative outlook for the future ]( dimensions/business_performance.md#negative-outlook-for-the-future ) | __2.0__ times more common in the industry than overall |
@@ -211,7 +211,7 @@
 | [ Outsourcing & offshoring ]( dimensions/business_performance.md#outsourcing--offshoring ) | __1.74__ times more common in the industry than overall |
 | [ Low job security ]( dimensions/business_performance.md#low-job-security ) | __1.65__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __2.73__ times less common in the industry than overall |
 |  [ National origin discrimination ]( dimensions/culture.md#national-origin-discrimination ) | __2.71__ times less common in the industry than overall |
@@ -221,7 +221,7 @@
 
 ## Pharmaceuticals & Medical Devices
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Slow decision-making ]( dimensions/leadership.md#slow-decision-making ) | __2.23__ times more common in the industry than overall |
 | [ Aversion to risk or changes ]( dimensions/culture.md#aversion-to-risk-or-changes ) | __2.13__ times more common in the industry than overall |
@@ -229,7 +229,7 @@
 | [ Outsourcing & offshoring ]( dimensions/business_performance.md#outsourcing--offshoring ) | __1.9__ times more common in the industry than overall |
 | [ Inefficient meetings ]( dimensions/leadership.md#inefficient-meetings ) | __1.9__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __20.74__ times less common in the industry than overall |
 |  [ Physically demanding work ]( dimensions/opportunities.md#physically-demanding-work ) | __5.29__ times less common in the industry than overall |
@@ -239,7 +239,7 @@
 
 ## Restaurants
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Difficult customers ]( dimensions/opportunities.md#difficult-customers ) | __5.62__ times more common in the industry than overall |
 | [ Substandard place of work ]( dimensions/work_organization.md#substandard-place-of-work ) | __4.73__ times more common in the industry than overall |
@@ -247,7 +247,7 @@
 | [ No food subsidy or limited food options ]( dimensions/rewards.md#no-food-subsidy-or-limited-food-options ) | __3.8__ times more common in the industry than overall |
 | [ Physically demanding work ]( dimensions/opportunities.md#physically-demanding-work ) | __3.46__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ Reorganizations ]( dimensions/strategy.md#reorganizations ) | __29.47__ times less common in the industry than overall |
 |  [ Outsourcing & offshoring ]( dimensions/business_performance.md#outsourcing--offshoring ) | __27.96__ times less common in the industry than overall |
@@ -257,7 +257,7 @@
 
 ## Software & Computer Hardware
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ No equity-based compensation ]( dimensions/rewards.md#no-equity-based-compensation ) | __3.29__ times more common in the industry than overall |
 | [ Poor market offering ]( dimensions/business_performance.md#poor-market-offering ) | __2.45__ times more common in the industry than overall |
@@ -265,7 +265,7 @@
 | [ Distributed workforce ]( dimensions/business_performance.md#distributed-workforce ) | __2.11__ times more common in the industry than overall |
 | [ Too fast business growth ]( dimensions/business_performance.md#too-fast-business-growth ) | __1.97__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ Unsafe place of work ]( dimensions/work_organization.md#unsafe-place-of-work ) | __5.62__ times less common in the industry than overall |
 |  [ Substandard place of work ]( dimensions/work_organization.md#substandard-place-of-work ) | __5.05__ times less common in the industry than overall |
@@ -275,7 +275,7 @@
 
 ## Telecommunication
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ No focus on customers ]( dimensions/strategy.md#no-focus-on-customers ) | __2.46__ times more common in the industry than overall |
 | [ Strong market competition ]( dimensions/business_performance.md#strong-market-competition ) | __2.38__ times more common in the industry than overall |
@@ -283,7 +283,7 @@
 | [ Poor market offering ]( dimensions/business_performance.md#poor-market-offering ) | __2.08__ times more common in the industry than overall |
 | [ Low job security ]( dimensions/business_performance.md#low-job-security ) | __2.04__ times more common in the industry than overall |
 #### Work problems whose occurrence in the industry is significantly less prevalent than overall
-| Work Problem | Industry vs Total Frequency Ratio |
+| Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 |  [ High cost of living nearby ]( dimensions/work_organization.md#high-cost-of-living-nearby ) | __6.38__ times less common in the industry than overall |
 |  [ Difficult to get enough paid time ]( dimensions/work_organization.md#difficult-to-get-enough-paid-time ) | __3.37__ times less common in the industry than overall |
