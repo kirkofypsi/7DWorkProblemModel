@@ -6,7 +6,7 @@ Leadership dimension groups work satisfaction factors related to employees satis
 Being led by leaders who communicate effectively and are able to offer actionable feedback to their team members.
 
 ### DYSFUNCTIONAL COMMUNICATION
-> Leaders are perceived as not communicating enough or communicating ineffectively. Employees may feel like they are in the dark about what is going on and how their work fits into the bigger picture. Business units may not be able to collaborate effectively due to lack of knowledge sharing.
+> Leaders are perceived as not communicating enough or communicating ineffectively. Employees may feel like they are in the dark about what is going on and how their work fits into the bigger picture. Business units may not be able to collaborate effectively due to a lack of knowledge sharing.
 
 __Exemplary statements reported by employees:__
 
@@ -43,7 +43,7 @@ __Exemplary statements reported by employees:__
 Being led by leaders who have the necessary knowledge and skills to carry out their job.
 
 ### INCOMPETENT LEADERS
-> Leaders are not equipped with the necessary skills to fulfill their duties. To employees, they come accross either incompetent or unprofessional.
+> Leaders do not have the skills necessary to fulfill their duties. To employees, they come across as either incompetent, inexperienced, or unprofessional. They also might lack the expertise their staff expect them to have, e.g. technical or product.
 
 __Exemplary statements reported by employees:__
 
