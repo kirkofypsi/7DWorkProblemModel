@@ -17,7 +17,7 @@ __Exemplary statements reported by employees:__
 * *too high organizational complexity*
 
 ### REORGANIZATIONS
-> Employees perceive reorganizations conducted, in the past or undergoing, as a source of dissatisfaction. They feel there are too many organizational changes and they be worrying about impact the next reorg will have on them. Thus, employees are living in a constant state of flux.
+> Employees perceive reorganizations conducted, in the past or undergoing, as a source of dissatisfaction. They feel there are too many organizational changes and they be worrying about the impact the next reorg will have on them. Thus, employees are living in a constant state of flux.
 
 __Exemplary statements reported by employees:__
 
@@ -39,7 +39,7 @@ __Exemplary statements reported by employees:__
 * *manager-heavy corporation*
 
 ### UNCLEAR OR FLAT STRUCTURE
-> Organization is perceived as either lacking a clear organizational structure or having a very flat one. An unclear or chaotic structure makes it more difficult for employees to know how to act, where to look for guidance and whom to turn to with problems. Although a flat structure has the benefit of appearing more agile and responsive to change, it is also not always able to provide a clear indication who is responsible for what and it does not offer a quick career progression.
+> Organization is perceived as either lacking a clear organizational structure or having a very flat one. An unclear or chaotic structure makes it more difficult for employees to know how to act, where to look for guidance, and whom to turn to with problems. Although a flat structure has the benefit of appearing more agile and responsive to change, it is also not always able to provide a clear indication of who is responsible for what and it does not offer a quick career progression.
 
 __Exemplary statements reported by employees:__
 
@@ -61,7 +61,7 @@ __Exemplary statements reported by employees:__
 * *no ability to clearly demarcate roles*
 
 ### UNEQUAL TREATMENT OF LOCATIONS OR FUNCTIONS
-> Some locations, functions or teams are not given the same attention and importance as others. Employees who work in those places feel neglected and have limited opportunities comparing to other employees.
+> Some locations, functions, or teams are not given the same attention and importance as others. Employees who work in those places feel neglected and have limited opportunities comparing to other employees.
 
 __Exemplary statements reported by employees:__
 
@@ -76,7 +76,7 @@ __Exemplary statements reported by employees:__
 Being part of an organization that formulates long-term plans and has an effective system for their execution.
 
 ### METRICS OVER-RELIANCE
-> Organization is perceived as being too heavily metrics-focused. A common problem with such approach is that the data gathered and used in management decisions might be erroneous or not reflect reality. Therefore it might be not be the best decision-making approach. Management might be too obsessed with certain metrics and may sacrifice quality or other important factors to improve them. For example, an organization may care more about hitting its numbers than having happy customers, which can harm business in the long run.
+> Organization is perceived as being too heavily metrics-focused. A common problem with an such approach is that the data gathered and used in management decisions might be erroneous or not reflect reality. Therefore it might not be the best decision-making approach. Management might be too obsessed with certain metrics and may sacrifice quality or other important factors to improve them. For example, an organization may care more about hitting its numbers than having happy customers, which can harm business in the long run.
 
 __Exemplary statements reported by employees:__
 
@@ -102,7 +102,7 @@ __Exemplary statements reported by employees:__
 Being part of an organization which has a clear and steady vision and a focus on quality, innovation and customer satisfaction.
 
 ### FREQUENT VISION OR RULES CHANGES
-> Organization is considered to too often change its vision, rules, or policies. This can lead to a feeling among employees that the organization is not stable and is not able to stick with one strategy or direction. It can also cause confusion regarding what the focus of the organization is and if it is supposed to achieve success.
+> Organization is considered to too often change its vision, rules, or policies. This can lead to a feeling among employees that the organization is not stable and is not able to stick with one strategy or direction. It can also cause confusion around the focus of the organization and the definition of success.
 
 __Exemplary statements reported by employees:__
 
@@ -146,7 +146,7 @@ __Exemplary statements reported by employees:__
 * *very little thought or concern for quality*
 
 ### PURELY MONEY-DRIVEN ORGANIZATION
-> Employees believe that their organization is solely concerned with making money and thus sacrificed other organizational objectives and goals. The pressure on the organization is to make sales or profit above everything else. It usually happens due to shareholders or investors interest being put before that of employees or customers.
+> Employees believe that their organization is solely concerned with making money and thus sacrificed other organizational objectives and goals. The pressure on the organization is to make sales or profit above everything else. It usually happens due to shareholders' or investors' interests being put before that of employees or customers.
 
 __Exemplary statements reported by employees:__
 
@@ -157,7 +157,7 @@ __Exemplary statements reported by employees:__
 * *making sales above everything else*
 
 ### UNCLEAR VISION OR RULES
-> Organization is perceived as lacking a clear vision or rules. The top leadership might have a strategy but there is no consensus on the ground on what it actually is, its impact and how employees should execute on their part of the grand scheme. A lack of clear rules causes confusion, egos clashing when people have very different opinions on what is the right way to do things.
+> Organization is perceived as lacking a clear vision or rules. The top leadership might have a strategy but there is no consensus on the ground on what it is, its impact, and how employees should execute on their part of the grand scheme. A lack of clear rules leads to confusion and egos clashing when people have very different opinions on what is the right way to do things.
 
 __Exemplary statements reported by employees:__
 
