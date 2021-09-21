@@ -2,13 +2,13 @@
 # The most characteristic work problems per industry
 > __September 2021__, based on __1.5M opinions__ provided by the employees of __389 global organizations__ from __16 industries__
 
-
 ## Consulting
 > The consulting industry is composed of professional service firms that provide advice and assistance in the areas of management, engineering, finance, information technology and many others.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
+
 |-------------:|-------------------:|
 | [ Frequent or long travels ]( dimensions/work_organization.md#frequent-or-long-travels ) | __3.84__ times more common in the industry than overall |
 | [ Insufficient salary adjustments ]( dimensions/rewards.md#insufficient-salary-adjustments ) | __3.08__ times more common in the industry than overall |
