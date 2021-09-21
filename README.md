@@ -18,8 +18,6 @@ Given that absence,  the __Institute for a Better Workplace__ decided to create 
 
 The resulting taxonomy called the __7D Work Problem Model™__ recognizes at the most granular level 130 different work problems which is enough to classify more than 75% of our dataset of employees' opinions. One option that we rejected was to build a taxonomy by grouping work problems into categories representing super-problems. We decided instead to cluster work problems around __work satisfaction factors__ that are most negatively affected by them. For example, the occurrence of a work problem "No freedom to speak one's mind"  negatively impacts employees satisfaction of being able to work for a company that supports open-minded exchange of ideas. We call this satisfaction factor "Openness" and thus the aforementioned problem was assigned to it along with the two other problems "Lack of transparency" and "Aversion to risk or changes". Finally, work satisfaction factors were subsequently grouped into __work satisfaction dimensions__ representing crucial concepts from the areas of management and systems organization.
 
-<br/>
-
 *Summary of 7D Work Problem Model™ taxonomy levels*
 
 | Level (from the top)  |      Level name      |  Description  | Cardinality |
