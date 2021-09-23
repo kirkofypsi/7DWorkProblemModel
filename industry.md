@@ -371,7 +371,6 @@
 |  [ Substandard place of work ](dimensions/work_organization.md#substandard-place-of-work) | __2.72__ times less common in the industry than overall |
 |  [ Understaffing ](dimensions/business_performance.md#understaffing) | __2.38__ times less common in the industry than overall |
 
-<div>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YVBM7MM6EQ"></script>
 <script>
@@ -381,4 +380,3 @@
 
   gtag('config', 'G-YVBM7MM6EQ');
 </script>
-</div>
