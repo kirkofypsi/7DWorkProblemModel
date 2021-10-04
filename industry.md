@@ -1,3 +1,5 @@
+<meta property="og:image" content="https://ia.media-imdb.com/images/rock.jpg" />
+
 [Back to the introduction](README.md)
 # The most characteristic work problems per industry
 > __September 2021__, based on __1.5M opinions__ provided by the employees of __389 global organizations__ from __16 industries__
