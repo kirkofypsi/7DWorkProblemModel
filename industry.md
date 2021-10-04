@@ -1,9 +1,11 @@
 [Back to the introduction](README.md)
+
 # The most characteristic work problems per industry
+
 > __September 2021__, based on __1.5M opinions__ provided by the employees of __389 global organizations__ from __16 industries__
 
-
 ## Consulting
+
 > The consulting industry is composed of professional service firms that provide advice and assistance in the areas of management, engineering, finance, information technology and many others.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
@@ -27,6 +29,7 @@
 |  [ Short or rigid breaks ](dimensions/work_organization.md#short-or-rigid-breaks) | __6.47__ times less common in the industry than overall |
 
 ## Department Stores & Supermarkets
+
 > The department stores & supermarkets industry is made up of establishments that sell, at retail or wholesale, a wide range of merchandise and services including food, clothing, home furnishings, appliances and electronics. It includes groceries, supermarkets and both specialty and general merchandise stores.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
@@ -50,6 +53,7 @@
 |  [ Complex or hierarchical structure ](dimensions/strategy.md#complex-or-hierarchical-structure) | __5.89__ times less common in the industry than overall |
 
 ## Electronics & Home Appliances
+
 > The electronics & home appliances industry is made up of establishments primarily engaged in manufacturing electronics or home appliances.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
@@ -73,6 +77,7 @@
 |  [ Unsafe place of work ](dimensions/work_organization.md#unsafe-place-of-work) | __3.24__ times less common in the industry than overall |
 
 ## Energy & Mining
+
 > The energy & mining industry is made up of companies involved in the production and sale of energy or in extraction of naturally occurring solid minerals from the earth. It includes also manufacturers of equipment used by energy and mining companies.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
@@ -96,6 +101,7 @@
 |  [ Physically demanding work ](dimensions/opportunities.md#physically-demanding-work) | __2.67__ times less common in the industry than overall |
 
 ## Fashion & Sportswear
+
 > The fashion & sportswear industry is composed of establishments that manufacture or sell clothing, eyewear, footwear, accessories and other fashion products.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
@@ -119,6 +125,7 @@
 |  [ Strong market competition ](dimensions/business_performance.md#strong-market-competition) | __5.7__ times less common in the industry than overall |
 
 ## Finance & Insurance
+
 > The finance & insurance industry consists of establishments engaged in a wide range of financial activities such as the provision of credit, money management and risk mitigation; investment banking; insurance underwriting and brokerage.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
@@ -142,6 +149,7 @@
 |  [ Difficult to get enough paid time ](dimensions/work_organization.md#difficult-to-get-enough-paid-time) | __3.35__ times less common in the industry than overall |
 
 ## Food, Beverages & Tobacco
+
 > The food, beverages & tobacco industry is made up of establishments that process and manufacture food or beverages including alcoholic drinks and tobacco products.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
@@ -165,6 +173,7 @@
 |  [ Difficult to get enough paid time ](dimensions/work_organization.md#difficult-to-get-enough-paid-time) | __2.46__ times less common in the industry than overall |
 
 ## Higher Education
+
 > The higher education industry is an umbrella term used to describe the academic institutions and organizations that provide education at levels above high school.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
@@ -188,6 +197,7 @@
 |  [ Metrics over-reliance ](dimensions/strategy.md#metrics-over-reliance) | __8.5__ times less common in the industry than overall |
 
 ## Hotels & Resorts
+
 > The hotels & resorts industry is made up of establishments that provide hotel and resort services to tourists and travelers.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
@@ -211,6 +221,7 @@
 |  [ Complex or hierarchical structure ](dimensions/strategy.md#complex-or-hierarchical-structure) | __2.93__ times less common in the industry than overall |
 
 ## Household & Personal Care Products
+
 > The household & personal care products industry is made up of establishments that manufacture or distribute personal care or household products such as cosmetics, soaps, lotions and fast-moving household supplies.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
@@ -234,6 +245,7 @@
 |  [ Too fast business growth ](dimensions/business_performance.md#too-fast-business-growth) | __2.31__ times less common in the industry than overall |
 
 ## Internet
+
 > The internet industry comprises of establishments that provide a wide variety of products and services primarily online through their web sites. Operations include, but are not limited to, search engines, retailers, travel services, as well as news, financial information and content providers.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
@@ -257,6 +269,7 @@
 |  [ Substandard place of work ](dimensions/work_organization.md#substandard-place-of-work) | __2.51__ times less common in the industry than overall |
 
 ## Media & Publishing
+
 > The media & publishing industry is composed of establishments that communicate and distribute information (news, data or entertainment) to the general public. It includes various forms of print media such as newspapers and books; electronic publishing outlets such as websites or blogs; cable television companies including those that broadcast via satellite.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
@@ -280,6 +293,7 @@
 |  [ Poor work-life balance ](dimensions/culture.md#poor-work-life-balance) | __1.66__ times less common in the industry than overall |
 
 ## Pharmaceuticals & Medical Devices
+
 > The pharmaceutical & medical devices industry is made up of establishments that design, develop and manufacture pharmaceutical products used to improve health or treat illness including also manufacturers of medical and scientific instruments required in the diagnosis or treatment of human disease.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
@@ -303,6 +317,7 @@
 |  [ Substandard place of work ](dimensions/work_organization.md#substandard-place-of-work) | __3.45__ times less common in the industry than overall |
 
 ## Restaurants
+
 > The restaurants industry is made up of establishments that prepare and serve food to customers.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
@@ -326,6 +341,7 @@
 |  [ Poor remote work support ](dimensions/work_organization.md#poor-remote-work-support) | __16.32__ times less common in the industry than overall |
 
 ## Software & Computer Hardware
+
 > The software & computer hardware industry is made up of establishments primarily engaged in producing software or computer hardware used to run computers and other electronic devices.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
@@ -349,6 +365,7 @@
 |  [ Inadequate parking options ](dimensions/work_organization.md#inadequate-parking-options) | __3.12__ times less common in the industry than overall |
 
 ## Telecommunication
+
 > The telecommunications industry is made up of internet service providers, satellite companies, telephone companies and manufacturers of telecommunications and networking equipment.
 
 #### Work problems whose occurrence in the industry is significantly more prevalent than overall
