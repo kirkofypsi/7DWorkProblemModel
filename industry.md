@@ -1,14 +1,16 @@
 <meta property="og:image" content="https://images.unsplash.com/photo-1601581987809-a874a81309c9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2670&q=80" />
 
 [Back to the introduction](README.md)
+
 # The most characteristic work problems per industry
+
 > __September 2021__, based on __1.5M opinions__ provided by the employees of __389 global organizations__ from __16 industries__
 
-
 ## Consulting
+
 > The consulting industry is composed of professional service firms that provide advice and assistance in the areas of management, engineering, finance, information technology and many others.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -18,7 +20,7 @@
 | [ Poor commuter benefits ](dimensions/rewards.md#poor-commuter-benefits) | __2.97__ times more common in the industry than overall |
 | [ Too little learning ](dimensions/opportunities.md#too-little-learning) | __2.45__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -29,9 +31,10 @@
 |  [ Short or rigid breaks ](dimensions/work_organization.md#short-or-rigid-breaks) | __6.47__ times less common in the industry than overall |
 
 ## Department Stores & Supermarkets
+
 > The department stores & supermarkets industry is made up of establishments that sell, at retail or wholesale, a wide range of merchandise and services including food, clothing, home furnishings, appliances and electronics. It includes groceries, supermarkets and both specialty and general merchandise stores.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -41,7 +44,7 @@
 | [ Difficult customers ](dimensions/opportunities.md#difficult-customers) | __2.61__ times more common in the industry than overall |
 | [ Understaffing ](dimensions/business_performance.md#understaffing) | __2.48__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -52,9 +55,10 @@
 |  [ Complex or hierarchical structure ](dimensions/strategy.md#complex-or-hierarchical-structure) | __5.89__ times less common in the industry than overall |
 
 ## Electronics & Home Appliances
+
 > The electronics & home appliances industry is made up of establishments primarily engaged in manufacturing electronics or home appliances.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -64,7 +68,7 @@
 | [ Distributed workforce ](dimensions/business_performance.md#distributed-workforce) | __2.34__ times more common in the industry than overall |
 | [ Complex or hierarchical structure ](dimensions/strategy.md#complex-or-hierarchical-structure) | __1.94__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -75,9 +79,10 @@
 |  [ Unsafe place of work ](dimensions/work_organization.md#unsafe-place-of-work) | __3.24__ times less common in the industry than overall |
 
 ## Energy & Mining
+
 > The energy & mining industry is made up of companies involved in the production and sale of energy or in extraction of naturally occurring solid minerals from the earth. It includes also manufacturers of equipment used by energy and mining companies.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -87,7 +92,7 @@
 | [ Poor pension plan ](dimensions/rewards.md#poor-pension-plan) | __2.08__ times more common in the industry than overall |
 | [ Low job security ](dimensions/business_performance.md#low-job-security) | __1.95__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -98,9 +103,10 @@
 |  [ Physically demanding work ](dimensions/opportunities.md#physically-demanding-work) | __2.67__ times less common in the industry than overall |
 
 ## Fashion & Sportswear
+
 > The fashion & sportswear industry is composed of establishments that manufacture or sell clothing, eyewear, footwear, accessories and other fashion products.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -110,7 +116,7 @@
 | [ Difficult customers ](dimensions/opportunities.md#difficult-customers) | __2.38__ times more common in the industry than overall |
 | [ Egocentric or aggressive leaders ](dimensions/leadership.md#egocentric-or-aggressive-leaders) | __2.2__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -121,9 +127,10 @@
 |  [ Strong market competition ](dimensions/business_performance.md#strong-market-competition) | __5.7__ times less common in the industry than overall |
 
 ## Finance & Insurance
+
 > The finance & insurance industry consists of establishments engaged in a wide range of financial activities such as the provision of credit, money management and risk mitigation; investment banking; insurance underwriting and brokerage.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -133,7 +140,7 @@
 | [ Bureaucracy or overregulation ](dimensions/work_organization.md#bureaucracy-or-overregulation) | __1.74__ times more common in the industry than overall |
 | [ Difficulties in internal transfers ](dimensions/opportunities.md#difficulties-in-internal-transfers) | __1.7__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -144,9 +151,10 @@
 |  [ Difficult to get enough paid time ](dimensions/work_organization.md#difficult-to-get-enough-paid-time) | __3.35__ times less common in the industry than overall |
 
 ## Food, Beverages & Tobacco
+
 > The food, beverages & tobacco industry is made up of establishments that process and manufacture food or beverages including alcoholic drinks and tobacco products.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -156,7 +164,7 @@
 | [ Age discrimination ](dimensions/culture.md#age-discrimination) | __1.74__ times more common in the industry than overall |
 | [ Slow decision-making ](dimensions/leadership.md#slow-decision-making) | __1.69__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -167,9 +175,10 @@
 |  [ Difficult to get enough paid time ](dimensions/work_organization.md#difficult-to-get-enough-paid-time) | __2.46__ times less common in the industry than overall |
 
 ## Higher Education
+
 > The higher education industry is an umbrella term used to describe the academic institutions and organizations that provide education at levels above high school.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -179,7 +188,7 @@
 | [ Inconvenient or unsafe location ](dimensions/work_organization.md#inconvenient-or-unsafe-location) | __3.79__ times more common in the industry than overall |
 | [ Overpriced market offering ](dimensions/business_performance.md#overpriced-market-offering) | __3.62__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -190,9 +199,10 @@
 |  [ Metrics over-reliance ](dimensions/strategy.md#metrics-over-reliance) | __8.5__ times less common in the industry than overall |
 
 ## Hotels & Resorts
+
 > The hotels & resorts industry is made up of establishments that provide hotel and resort services to tourists and travelers.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -202,7 +212,7 @@
 | [ Work on days off ](dimensions/work_organization.md#work-on-days-off) | __1.87__ times more common in the industry than overall |
 | [ Non-standard work hours ](dimensions/work_organization.md#non-standard-work-hours) | __1.81__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -213,9 +223,10 @@
 |  [ Complex or hierarchical structure ](dimensions/strategy.md#complex-or-hierarchical-structure) | __2.93__ times less common in the industry than overall |
 
 ## Household & Personal Care Products
+
 > The household & personal care products industry is made up of establishments that manufacture or distribute personal care or household products such as cosmetics, soaps, lotions and fast-moving household supplies.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -225,7 +236,7 @@
 | [ Complex or hierarchical structure ](dimensions/strategy.md#complex-or-hierarchical-structure) | __1.68__ times more common in the industry than overall |
 | [ Unhealthy employees competition ](dimensions/culture.md#unhealthy-employees-competition) | __1.6__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -236,9 +247,10 @@
 |  [ Too fast business growth ](dimensions/business_performance.md#too-fast-business-growth) | __2.31__ times less common in the industry than overall |
 
 ## Internet
+
 > The internet industry comprises of establishments that provide a wide variety of products and services primarily online through their web sites. Operations include, but are not limited to, search engines, retailers, travel services, as well as news, financial information and content providers.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -248,7 +260,7 @@
 | [ No focus on quality ](dimensions/strategy.md#no-focus-on-quality) | __2.22__ times more common in the industry than overall |
 | [ No freedom to speak one's mind ](dimensions/culture.md#no-freedom-to-speak-ones-mind) | __2.21__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -259,9 +271,10 @@
 |  [ Substandard place of work ](dimensions/work_organization.md#substandard-place-of-work) | __2.51__ times less common in the industry than overall |
 
 ## Media & Publishing
+
 > The media & publishing industry is composed of establishments that communicate and distribute information (news, data or entertainment) to the general public. It includes various forms of print media such as newspapers and books; electronic publishing outlets such as websites or blogs; cable television companies including those that broadcast via satellite.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -271,7 +284,7 @@
 | [ Outsourcing & offshoring ](dimensions/business_performance.md#outsourcing--offshoring) | __1.74__ times more common in the industry than overall |
 | [ Low job security ](dimensions/business_performance.md#low-job-security) | __1.65__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -282,9 +295,10 @@
 |  [ Poor work-life balance ](dimensions/culture.md#poor-work-life-balance) | __1.66__ times less common in the industry than overall |
 
 ## Pharmaceuticals & Medical Devices
+
 > The pharmaceutical & medical devices industry is made up of establishments that design, develop and manufacture pharmaceutical products used to improve health or treat illness including also manufacturers of medical and scientific instruments required in the diagnosis or treatment of human disease.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -294,7 +308,7 @@
 | [ Outsourcing & offshoring ](dimensions/business_performance.md#outsourcing--offshoring) | __1.9__ times more common in the industry than overall |
 | [ Inefficient meetings ](dimensions/leadership.md#inefficient-meetings) | __1.9__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -305,9 +319,10 @@
 |  [ Substandard place of work ](dimensions/work_organization.md#substandard-place-of-work) | __3.45__ times less common in the industry than overall |
 
 ## Restaurants
+
 > The restaurants industry is made up of establishments that prepare and serve food to customers.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -317,7 +332,7 @@
 | [ No food subsidy or limited food options ](dimensions/rewards.md#no-food-subsidy-or-limited-food-options) | __3.8__ times more common in the industry than overall |
 | [ Physically demanding work ](dimensions/opportunities.md#physically-demanding-work) | __3.46__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -328,9 +343,10 @@
 |  [ Poor remote work support ](dimensions/work_organization.md#poor-remote-work-support) | __16.32__ times less common in the industry than overall |
 
 ## Software & Computer Hardware
+
 > The software & computer hardware industry is made up of establishments primarily engaged in producing software or computer hardware used to run computers and other electronic devices.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -340,7 +356,7 @@
 | [ Distributed workforce ](dimensions/business_performance.md#distributed-workforce) | __2.11__ times more common in the industry than overall |
 | [ Too fast business growth ](dimensions/business_performance.md#too-fast-business-growth) | __1.97__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -351,9 +367,10 @@
 |  [ Inadequate parking options ](dimensions/work_organization.md#inadequate-parking-options) | __3.12__ times less common in the industry than overall |
 
 ## Telecommunication
+
 > The telecommunications industry is made up of internet service providers, satellite companies, telephone companies and manufacturers of telecommunications and networking equipment.
 
-#### Work problems whose occurrence in the industry is significantly more prevalent than overall
+#### Work problems that are significantly __more__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
@@ -363,7 +380,7 @@
 | [ Poor market offering ](dimensions/business_performance.md#poor-market-offering) | __2.08__ times more common in the industry than overall |
 | [ Low job security ](dimensions/business_performance.md#low-job-security) | __2.04__ times more common in the industry than overall |
 
-#### Work problems whose occurrence in the industry is significantly less prevalent than overall
+#### Work problems that are significantly __less__ prevalent in the industry than overall
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
