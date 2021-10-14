@@ -7,12 +7,12 @@ only around one-fifth of today's global workforce is
 engaged [[1]](https://github.com/kirkofypsi/7DWorkProblemModel/blob/main/README.md#references) and that employee
 engagement has not significantly improved over the last decade. As job satisfaction strongly correlates with mental
 health, dissatisfaction with work may partially explain the recent rise of psychological issues among working
-adults. __The Institute for a Better Workplace__ believes the engagement issue must be addressed as it might have severe
-economical and societal implications and such a dysfunctional work system cannot be maintained in a long term.
+adults [[2]]. __The Institute for a Better Workplace__ believes the engagement issue must be addressed as it has severe
+economical and societal implications [[3]] and such a dysfunctional work system cannot be maintained in a long term.
 
 We believe that the decrease in work satisfaction largely stems from the fact that modern companies can deploy their
 marketing departments to create favorable but largely untrue images of themselves. This in turn prevents the public
-from realizing the weaknesses of organizations and creates the opportunity for companies to ignore bad practices negatively
+from realizing the weaknesses of organizations and creates the opportunity for companies to ignore bad practices
 impacting their employees' well-being. Our aim is to tear down the walls erected by companies and to provide a neutral point of 
 view of the work world. To lay the groundwork for that we created an exhaustive catalog of the most common work
 problems. We are introducing it to objectively compare different companies' work climates and to offer
@@ -21,10 +21,10 @@ at different work places.
 
 ## Catalogue of work problems
 
-Work-related health risks have long been studied by scientists. Initially, those studies were almost completely
+Work-related health risks have been studied by scientists for decades. Initially, those studies were almost completely
 limited to physical work hazards but in recent decades, the focus has shifted towards mental and social factors and
 how they affect workers' well-being. In scientific literature, they are usually referred to as *psychosocial stressors* or
-*hazards*. We decided to use a simpler term – __work problem__ as we want to also shed light on work organizational
+*hazards*. We decided to use a simpler term – __work problem__ as we want to also shed light on organizational characteristics
 that prevent employees from achieving self-actualization and satisfaction from work, even if they are not
 negatively affecting employees' mental health. Therefore, for us, the term __work problem__ represents any source of employees'
 frustration, stress, or dissatisfaction in the workplace.
@@ -32,7 +32,7 @@ frustration, stress, or dissatisfaction in the workplace.
 Unfortunately, there is an absence in the scientific literature of a reference taxonomy cataloging all factors leading
 to dissatisfaction in the workplace, even if we limit ourselves only to psychosocial stressors and physical hazards.
 Numerous attempts were made, most notably the ones described
-in [[2],[3]](https://github.com/kirkofypsi/7DWorkProblemModel/blob/main/README.md#references) comprising 53 and 44
+in [[4],[5]](https://github.com/kirkofypsi/7DWorkProblemModel/blob/main/README.md#references) comprising 53 and 44
 categories, respectively. Notwithstanding, in our opinion, they fail to cover all relevant dissatisfaction factors and were not
 derived from analysis of really large datasets of employees opinions (1M+).
 
@@ -47,7 +47,7 @@ approaches to building taxonomies could not be applied in this case.
 ## 7D Work Problem Model™
 
 The resulting taxonomy, called the __7D Work Problem Model™__, recognizes at the most granular level 130 different work
-problems which suffice to classify more than 75% of our dataset of employees' opinions. One option that we rejected
+problems which suffice to classify more than 88% of our dataset of employees' opinions. One option that we rejected
 was to build a taxonomy by grouping work problems into categories representing super-problems. We decided instead to
 cluster work problems around __work satisfaction factors__ that are most negatively affected by them. For example, an
 occurrence of a work problem "No freedom to speak one's mind" negatively impacts the aspect of
@@ -95,10 +95,16 @@ we can use it to:
 Moreover, the analysis of new opinions is done in a matter of minutes and in a way that guarantees to all respondents
 both a lack of bias and full anonymity which constitutes a significant improvement over traditional, manual solutions.
 
+## Our reports
+
 In the coming months, the __Institute for a Better Workplace__ will publish numerous reports on work problems in
-different organizations. As a teaser of what is to come, we are publishing [here](industry.md) a report on the most
-characteristic industry problems. The study was conducted using __1.5M__ opinions of employees from a total number of
+different organizations. Our findings are based on the analysis of no fewer than __1.5M__ opinions of employees from
 __389 global organizations__ across __16 industries__.
+
+Here is list of reports that have been published thus far:
+* [The most characteristic work problems per industry](industry.md)
+
+
 <br/>
 <br/>
 
@@ -108,11 +114,19 @@ __389 global organizations__ across __16 industries__.
 
 ## References
 
-[1] https://www.gallup.com/workplace/352949/employee-engagement-holds-steady-first-half-2021.aspx
+[1] Jim Harter, [U.S. Employee Engagement Holds Steady in First Half of 2021](https://www.gallup.com/workplace/352949/employee-engagement-holds-steady-first-half-2021.aspx),
+Gallup, July 2021
 
-[2] Jean-Luc Kop, Virginie Althaus, Nadja Formet, Vincent Grosjean, Systematic comparative content analysis of 17
-psychosocial work environment questionnaires using a new taxonomy, International Journal of Occupational and
-Environmental Health, April 2016
+[2] [2021 State of Mental Health in America Report](https://mhanational.org/issues/state-mental-health-america),
+Mental Health America, September 2020
 
-[3]  Hamidrezaa Mokarami, Stefano Toderi, Reclassification of the work-related stress questionnaires scales based on the
-work system model: A scoping review and qualitative study, Work, April 2019
+[3] Allan Schweyer, [The Economics of Engagement](https://www.enterpriseengagement.org/articles/content/8288917/the-economics-of-engagement/),
+Human Capital Institute, June 2009
+
+[4] Jean-Luc Kop, Virginie Althaus, Nadja Formet, Vincent Grosjean, [Systematic comparative content analysis of 17
+psychosocial work environment questionnaires using a new taxonomy](https://www.researchgate.net/publication/304707060_Systematic_comparative_content_analysis_of_17_psychosocial_work_environment_questionnaires_using_a_new_taxonomy),
+International Journal of Occupational and Environmental Health, April 2016
+
+[5]  Hamidrezaa Mokarami, Stefano Toderi, [Reclassification of the work-related stress questionnaires scales based on the
+work system model: A scoping review and qualitative study](https://www.researchgate.net/publication/337758774_Work_xx_20xx_x-xx_Reclassification_of_the_work-related_stress_questionnaires_scales_based_on_the_work_system_model_A_scoping_review_and_qualitative_study),
+Work, April 2019
