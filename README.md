@@ -102,7 +102,7 @@ different organizations. Our findings are based on the analysis of no fewer than
 __389 global organizations__ across __16 industries__.
 
 Here is list of reports that have been published thus far:
-* [The most characteristic work problems per industry](industry.md)
+* [The most characteristic work problems per industry](industry.md) - __September 2021__
 
 
 <br/>
