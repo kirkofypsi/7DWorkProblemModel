@@ -7,8 +7,10 @@ only around one-fifth of today's global workforce is
 engaged [[1]](https://github.com/kirkofypsi/7DWorkProblemModel/blob/main/README.md#references) and that employee
 engagement has not significantly improved over the last decade. As job satisfaction strongly correlates with mental
 health, dissatisfaction with work may partially explain the recent rise of psychological issues among working
-adults [[2]]. __The Institute for a Better Workplace__ believes the engagement issue must be addressed as it has severe
-economical and societal implications [[3]] and such a dysfunctional work system cannot be maintained in a long term.
+adults [[2]](https://github.com/kirkofypsi/7DWorkProblemModel/blob/main/README.md#references).
+__The Institute for a Better Workplace__ believes the engagement issue must be addressed as it has severe
+economical and societal implications [[3]](https://github.com/kirkofypsi/7DWorkProblemModel/blob/main/README.md#references)
+and such a dysfunctional work system cannot be maintained in a long term.
 
 We believe that the decrease in work satisfaction largely stems from the fact that modern companies can deploy their
 marketing departments to create favorable but largely untrue images of themselves. This in turn prevents the public
