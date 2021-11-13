@@ -41,7 +41,7 @@ derived from analysis of really large datasets of employees opinions.
 Given that absence, the __Institute for a Better Workplace__ decided to create its own taxonomy, which we believe to be the
 most exhaustive one (currently comprising 130 categories) and the only one that has been tested on a large dataset of
 employees' opinions. The taxonomy was derived from __millions of opinions__ about workplace experiences
-reported by the employees of __hundreds global organizations__ and its creation was possible thanks to the support of machine
+reported by the employees of __hundreds of global organizations__ and its creation was possible thanks to the support of machine
 learning and NLP techniques that allowed us to discover hidden relationships between the contents of employees' reports.
 One million opinions is the equivalent of 200 average-sized books, so it is not surprising that traditional, manual
 approaches to building taxonomies based on millions of accounts could not be applied in this case.
