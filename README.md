@@ -100,8 +100,8 @@ both a lack of bias and full anonymity which constitutes a significant improveme
 ## Our reports
 
 In the coming months, the __Institute for a Better Workplace__ will publish numerous reports on work problems in
-different organizations. Our findings are based on the analysis of no fewer than __2M__ opinions of employees from
-__550 global organizations__ across __16 industries__.
+different organizations. Our findings are based on the analysis of millions of employee opinions from
+hundreds of global organizations across various industries.
 
 Here is list of reports that have been published thus far:
 * [The most characteristic work problems per industry](industry.md) - __September 2021__
