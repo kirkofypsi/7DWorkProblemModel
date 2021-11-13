@@ -36,7 +36,7 @@ to dissatisfaction in the workplace, even if we limit ourselves only to psychoso
 Numerous attempts were made, most notably the ones described
 in [[4],[5]](https://github.com/kirkofypsi/7DWorkProblemModel/blob/main/README.md#references) comprising 53 and 44
 categories, respectively. Notwithstanding, in our opinion, they fail to cover all relevant dissatisfaction factors and were not
-derived from analysis of really large datasets of employees opinions (1M+).
+derived from analysis of really large datasets of employees opinions.
 
 Given that absence, the __Institute for a Better Workplace__ decided to create its own taxonomy, which we believe to be the
 most exhaustive one (currently comprising 130 categories) and the only one that has been tested on a large dataset of
