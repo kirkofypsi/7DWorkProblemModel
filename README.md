@@ -132,3 +132,13 @@ International Journal of Occupational and Environmental Health, April 2016
 [5]  Hamidrezaa Mokarami, Stefano Toderi, [Reclassification of the work-related stress questionnaires scales based on the
 work system model: A scoping review and qualitative study](https://www.researchgate.net/publication/337758774_Work_xx_20xx_x-xx_Reclassification_of_the_work-related_stress_questionnaires_scales_based_on_the_work_system_model_A_scoping_review_and_qualitative_study),
 Work, April 2019
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YVBM7MM6EQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YVBM7MM6EQ');
+</script>
