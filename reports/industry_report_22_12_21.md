@@ -394,3 +394,13 @@
 |  [ Substandard place of work ](dimensions/work_organization.md#substandard-place-of-work) | __2.79__ times less common in the industry than overall |
 |  [ Inadequate parking options ](dimensions/work_organization.md#inadequate-parking-options) | __2.5__ times less common in the industry than overall |
 
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YVBM7MM6EQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YVBM7MM6EQ');
+</script>
