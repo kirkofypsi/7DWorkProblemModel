@@ -1,12 +1,12 @@
 [Back to the list of dimensions](../taxonomy.md)
 # STRATEGY
-Strategy dimension groups work satisfaction factors related to employees satisfaction from working in an organization whose vision, structure and planning are effective and coherent.
+Strategy dimension groups work satisfaction factors related to employees satisfaction working in an organization whose vision, structure and planning are effective and coherent.
 
 ## ORGANIZATIONAL STRUCTURE
-Being part of an organization that has efficient and stable structure with clear lines of duties and the one that gives equal treatment to each location or function.
+Being part of an organization that has an efficient and stable structure, clearly delineates duties and treats each location or function equally.
 
 ### COMPLEX OR HIERARCHICAL STRUCTURE
-> Organization is perceived as having a complex or hierarchical structure. The organization might have too many layers of management, it could be highly matrixed with employees reporting to multiple managers on different levels, or its structure is simply too daunting to navigate.
+> Employees consider organization’s structure as complex or hierarchical. It may have too many layers of management, be highly-matrixed with employees reporting to multiple managers on different levels, or is simply too daunting to navigate.
 
 __Exemplary statements reported by employees:__
 
@@ -17,7 +17,7 @@ __Exemplary statements reported by employees:__
 * *too high organizational complexity*
 
 ### REORGANIZATIONS
-> Employees perceive reorganizations conducted, in the past or undergoing, as a source of dissatisfaction. They feel there are too many organizational changes and they be worrying about the impact the next reorg will have on them. Thus, employees are living in a constant state of flux.
+> Employees perceive past or ongoing reorganizations a source of dissatisfaction. Organizational changes are excessive and produce feelings of anxiety, insecurity and instability among staff.
 
 __Exemplary statements reported by employees:__
 
@@ -28,7 +28,7 @@ __Exemplary statements reported by employees:__
 * *constant restructuring*
 
 ### TOP-HEAVY STRUCTURE
-> Organization is perceived as being top-heavy. Employees feel that the organizational structure puts relatively too many people into management roles and does not assign enough doers to the value-generating duties.
+> Organization is perceived as being top-heavy. Employees feel that the organizational structure has too many people in management roles and not enough “doers” with value-generating duties.
 
 __Exemplary statements reported by employees:__
 
@@ -39,7 +39,7 @@ __Exemplary statements reported by employees:__
 * *manager-heavy corporation*
 
 ### UNCLEAR OR FLAT STRUCTURE
-> Organization is perceived as either lacking a clear organizational structure or having a very flat one. An unclear or chaotic structure makes it more difficult for employees to know how to act, where to look for guidance, and whom to turn to with problems. Although a flat structure has the benefit of appearing more agile and responsive to change, it is also not always able to provide a clear indication of who is responsible for what and it does not offer a quick career progression.
+> Unclear organizational structures make it more difficult for employees to know how to act, where to look for guidance, and to whom to turn with problems. Although flat structures appear more agile and responsive to change, they may not provide a clear indication of who is responsible for what and do not enable quick career progression.
 
 __Exemplary statements reported by employees:__
 
@@ -50,7 +50,7 @@ __Exemplary statements reported by employees:__
 * *undefined structure in some areas*
 
 ### UNCLEAR OR OVERLAPPING DUTIES
-> Organization does not clearly define roles and responsibilities or, when it does, they overlap or conflict. This means that there is either no clear description of obligations fulfilled by each employee, roles are constantly evolving or identical duties are performed by more than one person at the same time. Unclear or overlapping duties are commonly perceived as a symptom of poor management and lack of governance.
+> Organization does not clearly define roles and responsibilities, or they overlap or conflict. Employees lack clearly defined duties, roles are constantly evolving, or identical duties are simultaneously performed by multiple people which is seen as symptomatic of poor management and lack of governance.
 
 __Exemplary statements reported by employees:__
 
@@ -61,7 +61,7 @@ __Exemplary statements reported by employees:__
 * *no ability to clearly demarcate roles*
 
 ### UNEQUAL TREATMENT OF LOCATIONS OR FUNCTIONS
-> Some locations, functions, or teams are not given the same attention and importance as others. Employees who work in those places feel neglected and have limited opportunities comparing to other employees.
+> Different locations, functions, or teams are not paid the same amount of attention or seen as important as others. Some employees feel neglected and lacking same opportunities as others.
 
 __Exemplary statements reported by employees:__
 
@@ -76,7 +76,7 @@ __Exemplary statements reported by employees:__
 Being part of an organization that formulates long-term plans and has an effective system for their execution.
 
 ### METRICS OVER-RELIANCE
-> Organization is perceived as being too heavily metrics-focused. A common problem with an such approach is that the data gathered and used in management decisions might be erroneous or not reflect reality. Therefore it might not be the best decision-making approach. Management might be too obsessed with certain metrics and may sacrifice quality or other important factors to improve them. For example, an organization may care more about hitting its numbers than having happy customers, which can harm business in the long run.
+> Employees perceive organization as being too heavily metrics-focused. Erroneous or unrealistic data may be influencing management decisions. Management might be too obsessed with certain metrics and may sacrifice quality or other important factors in the quest to improve them. Organization may care more about hitting numbers than having happy customers, which can harm business in the long run.
 
 __Exemplary statements reported by employees:__
 
@@ -87,7 +87,7 @@ __Exemplary statements reported by employees:__
 * *a lot of focus on metrics*
 
 ### SHORT-TERM THINKING
-> Organization focuses only on the immediate, short-term results. It might be that leadership is not able to plan or stick to a longer-term vision. It is also possible that management is constantly putting out fires and keeps reacting only when something bad happens instead of being proactive in identifying risks or opportunities.
+> Employees believe organization focuses on immediate, short-term results. Leadership is unable to make or stick to long term plans. Rather than being proactive in identifying risks or opportunities, management may be constantly putting out fires.
 
 __Exemplary statements reported by employees:__
 
@@ -99,10 +99,10 @@ __Exemplary statements reported by employees:__
 
 
 ## VISION & FOCUS
-Being part of an organization which has a clear and steady vision and a focus on quality, innovation and customer satisfaction.
+Being part of an organization which has clear and steady vision with a focus on quality, innovation and customer satisfaction.
 
 ### FREQUENT VISION OR RULES CHANGES
-> Organization is considered to too often change its vision, rules, or policies. This can lead to a feeling among employees that the organization is not stable and is not able to stick with one strategy or direction. It can also cause confusion around the focus of the organization and the definition of success.
+> Employees feel organization changes its vision, rules, or policies too often, leading to perception that organization is unstable and unable to stick with one strategy or direction. This can also create confusion regarding organization’s focus and definition of success.
 
 __Exemplary statements reported by employees:__
 
@@ -113,7 +113,7 @@ __Exemplary statements reported by employees:__
 * *strategy shifts with the wind*
 
 ### NO FOCUS ON CUSTOMERS
-> Organization is perceived as lacking a focus on customers' needs or not having a customer-centric model. There is criticism in the organization about not caring for the customers in general. Sometimes it is a consequence of delusional thinking that the customers will stay no matter how the organization treats them. It could also be about failing on delivering value to serve customer needs or not listening to customer feedback.
+> Employees perceive organization as not focusing on customers’ needs or not having a customer-centric model. There is general criticism in organization about lack of customer care, which may result from the delusion of undying customer loyalty. It could stem from failure to deliver value to customers or ignoring their feedback.
 
 __Exemplary statements reported by employees:__
 
@@ -124,7 +124,7 @@ __Exemplary statements reported by employees:__
 * *customers do not matter*
 
 ### NO FOCUS ON INNOVATION
-> Organization is perceived as lacking focus on innovation or being slow to innovate. The problems might stem from a feeling that the organization is devoid of creativity and discourages experimentation with novel ways of doing things. It could be also that there simply are no funds available for research and development.
+> Employees perceive organization as not focusing on innovation or slow to innovate. This might stem from feelings that organization is devoid of creativity and discourages trying novel approaches. It is possible research and development is underfunded.
 
 __Exemplary statements reported by employees:__
 
@@ -135,7 +135,7 @@ __Exemplary statements reported by employees:__
 * *you are discouraged to think out of the box*
 
 ### NO FOCUS ON QUALITY
-> Organization is perceived as having poor quality of products, services, or work. The organization might be producing ill-performing and unfinished products. Management does not seem to care about quality.
+> Employees believe quality of organization’s products, services, or work is poor, or that organisation produces ill-performing or unfinished products. Management seems not to care about quality.
 
 __Exemplary statements reported by employees:__
 
@@ -146,7 +146,7 @@ __Exemplary statements reported by employees:__
 * *very little thought or concern for quality*
 
 ### PURELY MONEY-DRIVEN ORGANIZATION
-> Employees believe that their organization is solely concerned with making money and thus sacrificed other organizational objectives and goals. The pressure on the organization is to make sales or profit above everything else. It usually happens due to shareholders' or investors' interests being put before that of employees or customers.
+> Employees believe organization is solely concerned with making money at the expense of other objectives and goals. There is pressure to turn a profit regardless, usually because shareholders’ or investors’ interests are put before those of employees or customers.
 
 __Exemplary statements reported by employees:__
 
@@ -157,7 +157,7 @@ __Exemplary statements reported by employees:__
 * *making sales above everything else*
 
 ### UNCLEAR VISION OR RULES
-> Organization is perceived as lacking a clear vision or rules. The top leadership might have a strategy but there is no consensus on the ground on what it is, its impact, and how employees should execute on their part of the grand scheme. A lack of clear rules leads to confusion and egos clashing when people have very different opinions on what is the right way to do things.
+> Employees perceive organization as lacking clear vision or rules. Top leadership might have a strategy but there is no consensus on the ground on what it or its impact is, or what employees’ roles are in its’ execution. Such lack of clear rules leads to confusion and discord when there is no consensus on how things should be done.
 
 __Exemplary statements reported by employees:__
 
@@ -166,3 +166,4 @@ __Exemplary statements reported by employees:__
 * *no vision*
 * *no strategy*
 * *company direction unsure*
+
