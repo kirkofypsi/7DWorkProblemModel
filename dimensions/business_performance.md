@@ -1,12 +1,12 @@
 [Back to the list of dimensions](../taxonomy.md)
 # BUSINESS PERFORMANCE
-Business performance dimension groups work satisfaction factors related to employees satisfaction from working in an organization that is able to manage its customers, products, markets, financials and workforce with good results.
+Business performance dimension groups work satisfaction factors related to employees’ satisfaction working in an organization that successfully manages its customers, products, markets, financials and workforce.
 
 ## FINANCIALS
-Working for a financially stable organization that is ready to invest money when needed, has a sound perspective for the future and keeps growing in a way that is comfortable for employees.
+Working for a financially stable organization that readily invests money when necessary, has a sound perspective for the future and keeps growing in a way with which employees are comfortable.
 
 ### BUSINESS GROWTH STAGNATION
-> Organization is perceived as not growing fast enough and suffering from stagnant growth. It might have a hard time getting new business opportunities, gaining market share, or expanding its operations. Organization could also be suffering from slow business growth due to their inability to develop new products or services that would attract more customers.
+> Employees perceive organization as not growing quickly enough and is not finding new business opportunities, increasing market share, or expanding operations. Slow growth may result from inability to develop new products or services.
 
 __Exemplary statements reported by employees:__
 
@@ -17,18 +17,18 @@ __Exemplary statements reported by employees:__
 * *struggle to gain market share*
 
 ### DECLINING OR DISTRESSED BUSINESS
-> Organization's business is perceived as suffering. It could be that the market share for the organization's products and services is shrinking. Organization might be getting less revenue or could experience serious financial losses. In the worst case, organization might be on its way to bankruptcy and liquidation.
+> Employees perceive organization’s business as suffering. Market share for its products and services may be shrinking. Revenue might be falling or serious financial losses are being incurred. Organization could be headed toward bankruptcy and liquidation.
 
 __Exemplary statements reported by employees:__
 
-* *company is in debts*
+* *company is in debt*
 * *company ran out of cash*
 * *increasingly poor financial performance*
 * *significant financial problems*
 * *company is not profitable*
 
 ### NEGATIVE OUTLOOK FOR THE FUTURE
-> Organization's future is perceived by employees as bleak. Usually, it is due to the organization operating in the industry that is struggling. It might be also that employees believe that the products/services offered by their organization are bound to become obsolete. Sometimes it is simply that the competition is cutting the organization's margins and reducing profits, meaning that there is little future for this particular business.
+> Employees see organization’s future as bleak, usually due to its operating in a struggling industry. Employees may also believe products/services offered by organization will become obsolete. Competition may be cutting margins and reducing profits, endangering future prospects for business.
 
 __Exemplary statements reported by employees:__
 
@@ -39,7 +39,7 @@ __Exemplary statements reported by employees:__
 * *company's future is uncertain*
 
 ### STRINGENT COST MANAGEMENT
-> Organization is perceived as being very stringent in cost management. It might be constantly looking to cut costs or be in cheap mode. Cost control seems to take precedence over employees or growth needs. Stringent cost management is highly undesirable as it leads to the perception that the company operates in a survival mode instead of generating new opportunities and revenue streams for organization.
+> Employees perceive organisation as too cost-efficient. Cost-cutting is a constant and things are done on the cheap. Cost control seems to take precedence over employees’ or growth needs. Excessive cost management leads to perception that company operates in survival mode rather than generating new opportunities and revenue streams.
 
 __Exemplary statements reported by employees:__
 
@@ -49,8 +49,8 @@ __Exemplary statements reported by employees:__
 * *cheap mentality*
 * *constant cost reductions*
 
-### TOO FAST BUSINESS GROWTH
-> Organization is perceived as growing too fast. Its business could be suffering from many problems, such as not being able to keep up with the pace of growth. There could be teething pains associated with a hyper-growth organization like not being able to hire enough skilled people, building processes, or not having the necessary infrastructure in place.
+### TOO RAPID BUSINESS GROWTH
+> Employees perceive organization as growing too fast to keep up with the pace of growth. Potential problems from hyper-growth could be inability to hire enough skilled labor or develop business processes, or not having necessary infrastructure in place.
 
 __Exemplary statements reported by employees:__
 
@@ -65,7 +65,7 @@ __Exemplary statements reported by employees:__
 Working for an organization that builds strong brands, has a positive image, and is competitive in the market.
 
 ### STRONG MARKET COMPETITION
-> Organization faces heavy competition in the market. It might not have the resources needed to compete in the market or could be struggling with finding its place in a crowded marketplace. Also, competitors may grow faster and win market share while the organization is not able to keep up or even falls behind.
+> Employees feel that organization faces heavy competition in the market. It might lack necessary resources to compete or could be struggling in a crowded marketplace. Competitors may be growing faster and winning market share while organization is unable to keep up or even falls behind.
 
 __Exemplary statements reported by employees:__
 
@@ -76,7 +76,7 @@ __Exemplary statements reported by employees:__
 * *lagging behind competitors*
 
 ### WEAK BRAND OR REPUTATION
-> Organization does not have recognizable brands or its reputation in the market is not as strong as it should be. A weak brand or a poor reputation may make marketing and sales more difficult, cause employees turnover, and slow down business development.
+> Employees feel organization lacks recognizable brands or its reputation in the market is not so strong. A weak brand or poor reputation may make marketing and sales more difficult, cause employee turnover, and slow business development.
 
 __Exemplary statements reported by employees:__
 
@@ -87,11 +87,11 @@ __Exemplary statements reported by employees:__
 * *company is not known in the market*
 
 
-## OFFERING
-Working for an organization that successfully manages its products to be competitive and well priced.
+## OFFERINGS
+Working for an organization that successfully keeps its products and services competitive and well-priced.
 
-### OVERPRICED MARKET OFFERING
-> Products or services offered by organization are perceived as overpriced. Organization might be charging higher prices than its competitors or is not fully aware of what its clients perceive as an acceptable price point for given products or services.
+### OVERPRICED OFFERINGS
+> Employees believe products or services offered by organization are overpriced. Organization might be outcharging competitors or is unaware of what clients consider an acceptable price point for given products or services.
 
 __Exemplary statements reported by employees:__
 
@@ -101,8 +101,8 @@ __Exemplary statements reported by employees:__
 * *higher priced compared to competitors*
 * *product pricing is high*
 
-### POOR MARKET OFFERING
-> Products or services offered by organization are outdated or inferior to the competition. This may be the result of a lack of investment in product development or pressure from the competitors.
+### POOR OFFERINGS
+> Employees believe products or services offered by organization are outdated or inferior to the competition’s possibly due to lack of investment in product development or pressure from competitors.
 
 __Exemplary statements reported by employees:__
 
@@ -114,10 +114,10 @@ __Exemplary statements reported by employees:__
 
 
 ## WORKFORCE
-Working for an organization that successfully manages its workforce including hiring and retaining right people, creating secure employment, and avoiding moving core competences out of the organization.
+Working for an organization that successfully manages its workforce including hiring and retaining right people, creating secure employment, and avoiding moving core competences out of organization.
 
 ### DISTRIBUTED WORKFORCE
-> Employees experience difficulties related to working across different time zones. They might complain that meeting scheduling in distributed teams is too complicated or that communication with people from different countries and cultures is uneasy.
+> Employees experience difficulties related to working across different time zones. Complaints might include difficulties in scheduling meetings and issues arising from cross-cultural communication.
 
 __Exemplary statements reported by employees:__
 
@@ -128,7 +128,7 @@ __Exemplary statements reported by employees:__
 * *working with teams that are located far away*
 
 ### HIGH EMPLOYEE TURNOVER
-> Organization experiences a high employee turnover. It may have a high attrition rate of talented people leaving on their own or there could be bleeding of its best talent by competitors offering better pay and conditions. Organization may be perceived as a place where employees spend just a few years, gain experience and then move on to better opportunities elsewhere.
+> Employees believe organization has difficulty retaining personnel. Large numbers of talented people may simply be leaving or going over to competitors offering better pay and conditions. Organization may be seen as a first step, a place to develop, before moving on to better opportunities.
 
 __Exemplary statements reported by employees:__
 
@@ -139,7 +139,7 @@ __Exemplary statements reported by employees:__
 * *attrition rate unprecedented*
 
 ### INCOMPETENT WORKFORCE
-> Employees perceive their co-workers as either incompetent or unprofessional. This might be a result of low entry requirements, insufficient training, or organization's inability to compete effectively in the labor market.
+> Employees perceive co-workers as incompetent or unprofessional because of low entry requirements, insufficient training, or organization’s inability to compete effectively in labor market.
 
 __Exemplary statements reported by employees:__
 
@@ -150,7 +150,7 @@ __Exemplary statements reported by employees:__
 * *staff is not well educated*
 
 ### LEADERSHIP CHANGES
-> Organization is perceived as having too many leadership changes. The leadership might be changing either at the top level of the organization, or at middle or lower management positions. High management turnover affects the way employees work because they need to get accustomed to new leaders constantly.
+> Employees perceive organization as having excessive changes in leadership, either at the top, or at middle or lower management positions. High management turnover affects employees because of constant need to get accustomed to new leaders.
 
 __Exemplary statements reported by employees:__
 
@@ -161,7 +161,7 @@ __Exemplary statements reported by employees:__
 * *too many changes in top positions*
 
 ### LOW JOB SECURITY
-> Employees feel that organization offers them little job security. Organization is perceived as constantly laying off its employees and it is unclear who among the staff will be made redundant next. Employees are left in constant fear of losing their jobs.
+> Employees feel that organization offers little job security.  Layoffs seem never-ending and unpredictable. Employees are in constant fear of losing their jobs.
 
 __Exemplary statements reported by employees:__
 
@@ -172,7 +172,7 @@ __Exemplary statements reported by employees:__
 * *you live in fear for your job*
 
 ### OUTSOURCING & OFFSHORING
-> Organization has offshored or outsourced certain business processes or functions. These actions have had a negative effect on the workforce.
+> Employees believe offshoring or outsourcing certain business processes by organisation has negatively affected its workforce.
 
 __Exemplary statements reported by employees:__
 
@@ -183,7 +183,7 @@ __Exemplary statements reported by employees:__
 * *extensive outsourcing*
 
 ### POOR RECRUITMENT
-> Recruitment yields a poor quality workforce or is efficient. This might be due to a lack of competence or cultural fit of the new hires or the fact that the recruitment process is slow.
+> Employees feel that recruitment yields poor or inefficient workforce. New hires may lack competence or be poor cultural fits, or recruitment process may be slow.
 
 __Exemplary statements reported by employees:__
 
@@ -194,7 +194,7 @@ __Exemplary statements reported by employees:__
 * *need to improve recruitment*
 
 ### UNDERSTAFFING
-> Organization is perceived as understaffed. There is simply too few staff for the workload. This might be a consequence of high employee turnover or cost-cutting measures taken by the leadership.
+> Employees perceive organization as insufficiently staffed to handle workload which may result from high employee turnover or cost-cutting measures.
 
 __Exemplary statements reported by employees:__
 
@@ -203,3 +203,4 @@ __Exemplary statements reported by employees:__
 * *lack of staff*
 * *unrealistic workload to headcount ratio*
 * *inappropriate manpower level*
+
