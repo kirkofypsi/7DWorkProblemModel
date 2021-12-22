@@ -44,7 +44,7 @@ employees' opinions. The taxonomy was derived from __millions of opinions__ abou
 reported by the employees of __hundreds of global organizations__ and its creation was possible thanks to the support of machine
 learning and NLP techniques that allowed us to discover hidden relationships between the contents of employees' reports.
 One million opinions is the equivalent of 200 average-sized books, so it is not surprising that traditional, manual
-approaches to building taxonomies based on millions of accounts could not be applied in this case.
+approaches to building taxonomies could not be applied in this case.
 
 ## 7D Work Problem Model™
 
