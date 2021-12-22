@@ -1,12 +1,12 @@
 [Back to the list of dimensions](../taxonomy.md)
 # OPPORTUNITIES
-Opportunities dimension groups work satisfaction factors related to employees satisfaction from having good opportunities for professional, intellectual and social development.
+Opportunities dimension groups work satisfaction factors related to employee satisfaction with opportunities for professional, intellectual and social development.
 
 ## CAREER GROWTH
-Having enough opportunities for switching roles, higher level of responsibility and career growth.
+Having enough opportunities to switch roles, be given more responsibility and develop professionally.
 
 ### DIFFICULTIES IN INTERNAL TRANSFERS
-> Employees believe it is hard to make lateral moves in the organization. This means that there are limited opportunities for changing roles, teams, or departments. Employees might also find it hard to relocate abroad or to another location.
+> Employees believe it difficult to make lateral moves in organization and to change roles, teams, or departments. Employees might also find it hard to relocate abroad or to another location.
 
 __Exemplary statements reported by employees:__
 
@@ -17,7 +17,7 @@ __Exemplary statements reported by employees:__
 * *no lateral movement*
 
 ### OUTSIDERS FAVORED OVER INSIDERS
-> Employees have taken the view that outsiders are favored over insiders when filling positions. This means that the organization prefers to hire people from the outside, and it does not promote internally. In an obvious way, this limits the growth potential for the current employees.
+> Employees believe external hiring is preferred to internal. Obviously, this limits growth potential for current employees.
 
 __Exemplary statements reported by employees:__
 
@@ -28,7 +28,7 @@ __Exemplary statements reported by employees:__
 * *all new key roles are for externals*
 
 ### POOR CAREER GROWTH
-> Organization does not offer enough opportunities for career growth. Employees find it difficult to move up in the organization either because positions are rarely vacant or because the promotion process is lengthy and complex. The lack of opportunities may also be related to the organization is not growing, and consequently, new positions not being added.
+> Organization does not offer enough opportunities for career growth. Employees find it difficult to advance either because positions rarely become vacant or because promotion process is lengthy and complex. Lack of opportunities may also be related to organization’s not growing, and consequently, new positions not being created.
 
 __Exemplary statements reported by employees:__
 
@@ -39,7 +39,7 @@ __Exemplary statements reported by employees:__
 * *hard to break into highier ranks*
 
 ### UNDEFINED CAREER PATHS
-> Organization does not have a career development plan in place. Employees are unclear about the promotion requirements and they do not know how to progress to the next level. Promotion criteria are not transparent or they vary across departments.
+> Organization does not have a career development plan in place. Employees are unclear about promotion requirements and unaware how to progress to next level. Promotion criteria are not transparent or vary across departments.
 
 __Exemplary statements reported by employees:__
 
@@ -51,10 +51,10 @@ __Exemplary statements reported by employees:__
 
 
 ## IMPACT
-Having enough opportunities for making an impact on the organization by using one's skills and abilities.
+Having enough opportunities to make an impact on organization with one’s skills and abilities.
 
 ### UNIMPACTFUL WORK
-> Work is perceived as not being meaningful or having an impact on the organization. Employees might feel that they are performing pointless work, does not make any difference in the organization, or has no value to the world.
+> Work is perceived as unmeaningful or ineffectual. Employees might feel their work is pointless, does not make any difference in the organization, or has no value to the world.
 
 __Exemplary statements reported by employees:__
 
@@ -69,7 +69,7 @@ __Exemplary statements reported by employees:__
 Having enough opportunities to learn new things in an achievable and non-overwhelming manner.
 
 ### LEARNING-INTENSIVE
-> Work is perceived as requiring a lot of learning. Employees might have to learn new things at a fast pace or keep up with continuous training and certification requirements. This might harm employees' work-life balance.
+> Work is perceived as requiring a lot of learning and the pace and frequency of training and certification may be overwhelming. This might harm employees’ work-life balance.
 
 __Exemplary statements reported by employees:__
 
@@ -80,7 +80,7 @@ __Exemplary statements reported by employees:__
 * *have to learn new things at fast pace*
 
 ### TOO LITTLE LEARNING
-> Work is perceived as offering only limited opportunities for learning. Employees might not be encouraged to develop themselves, they might not have anything new to learn or the organization might not offer opportunities for skill enhancement or professional growth.
+> Work is perceived as offering limited opportunities for learning. Employees might not be encouraged to develop or have nothing new to learn, or organization may not offer opportunities to enhance skills or grow professionally.
 
 __Exemplary statements reported by employees:__
 
@@ -92,10 +92,10 @@ __Exemplary statements reported by employees:__
 
 
 ## SOCIAL RELATIONS
-Having enough opportunities for socializing with other people.
+Having enough opportunities to socialize
 
 ### LIMITED SOCIAL INTERACTIONS
-> Work is believed to offer limited opportunities for social interactions, including with co-workers or customers. Organization might either not provide enough opportunities for face-to-face interactions, employees might be working remotely or they might have to work in solitude for long periods.
+> Work is believed to offer limited opportunities for social interactions with co-workers or customers. Organization might not provide enough opportunities for face-to-face interactions, employees might be working remotely or might have to work alone for long periods.
 
 __Exemplary statements reported by employees:__
 
@@ -107,10 +107,10 @@ __Exemplary statements reported by employees:__
 
 
 ## WORK NATURE
-Having enough opportunities for being involved in creative, challenging tasks in a way that does not endanger mental or physical health.
+Having enough opportunities to be involved in creative, challenging tasks so that mental or physical health does not suffer.
 
 ### DIFFICULT CUSTOMERS
-> Employees have to deal with difficult customers. The organization might not have the necessary tools or procedures in place to deal with customers that are aggressive or abusive. It may also lack a proper customer service training program that would enable employees to handle toxic customers more effectively.
+> Employees have to deal with difficult customers. The organization might not have necessary tools or procedures in place to deal with aggressive or abusive customers, or may lack proper customer service training enabling employees to handle toxic customers more effectively.
 
 __Exemplary statements reported by employees:__
 
@@ -121,18 +121,18 @@ __Exemplary statements reported by employees:__
 * *hostile client base*
 
 ### HEAVY MULTITASKING
-> Employees have to multitask or wear multiple hats, acting in several roles at the same time. The organization may be using inefficient project management methodologies that require frequent context switching or it might be saving money by forcing employees to perform multiple roles.
+> Employees have to multitask or assume several roles simultaneously. Organization may be using inefficient project management requiring frequent context switching or saving money by forcing employees to perform multiple roles.
 
 __Exemplary statements reported by employees:__
 
 * *severe multitasking with high distraction levels*
-* *mutitasking*
+* *multitasking*
 * *constant context switching*
 * *multiple assignments*
 * *working across multiple projects is common*
 
 ### OVERLY CHALLENGING WORK
-> Work is perceived as overly challenging. Employees are expected to perform at a level that doesn't correspond with their knowledge or experience. This can be also a consequence of the organization not being able to efficiently reduce the complexity of its systems or processes.
+> Work is considered too challenging. Employees are expected to perform at a level beyond their knowledge or experience. This can also be a consequence of organization’s inability to efficiently reduce complexity of systems or processes.
 
 __Exemplary statements reported by employees:__
 
@@ -143,18 +143,18 @@ __Exemplary statements reported by employees:__
 * *complex nature of work to understand*
 
 ### PHYSICALLY DEMANDING WORK
-> Work is physically demanding. Employees might have to stand for extended periods or work in a stationary position all day. They might also be exposed to harsh weather conditions or have to carry heavy loads.
+> Work is physically demanding. Employees might have to stand or work in stationary positions for extended periods. They might also be exposed to harsh weather conditions or have to carry heavy loads.
 
 __Exemplary statements reported by employees:__
 
 * *straining on the eyes*
 * *long hours standing*
 * *long hours on your feet*
-* *hard labour*
+* *hard labor*
 * *too many hours in front of a computer*
 
 ### TEDIOUS OR UNINTERESTING WORK
-> Work is perceived as tedious, uninteresting, or too repetitive. Employees get bored and they may not apply their full potential to the job. This can be a consequence of the organization relying too much on established routines and processes or taking the staff with work that should be automated.
+> Work is perceived as tedious, uninteresting, or too repetitive leading to boredom which in turn affects job performance. Organization may rely too heavily on established routines and processes or not automate when possible.
 
 __Exemplary statements reported by employees:__
 
@@ -163,3 +163,4 @@ __Exemplary statements reported by employees:__
 * *not enough variation in tasks*
 * *do the same work day by day*
 * *routine job*
+
