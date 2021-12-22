@@ -1,33 +1,32 @@
 # 7D Work Problem Model™
 <div align="left">
-   <img id="last-update-badge" src="https://img.shields.io/badge/%F0%9F%93%85%20Last%20update%20-%20September%2022%2C%202021-blue.svg" alt="Last update: September 22, 2021" /> <img src="https://img.shields.io/badge/ %E2%9C%94%20Taxonomy%20version%20-%201.0.0-yellow.svg" alt="1.0.0"/>
+   <img id="last-update-badge" src="https://img.shields.io/badge/%F0%9F%93%85%20Last%20update%20-%20December%2022%2C%202021-blue.svg" alt="Last update: December 22, 2021" /> <img src="https://img.shields.io/badge/ %E2%9C%94%20Taxonomy%20version%20-%201.0.0-yellow.svg" alt="1.0.0"/>
 </div>
-<br/>
  
 [Back to the introduction](README.md)
 
 ## The seven dimensions of work satisfaction
 
 ### [ BUSINESS PERFORMANCE ](dimensions/business_performance.md)
-Business performance dimension groups work satisfaction factors related to employees satisfaction from working in an organization that is able to manage its customers, products, markets, financials and workforce with good results.
+Business performance dimension groups work satisfaction factors related to employees’ satisfaction working in an organization that successfully manages its customers, products, markets, financials and workforce.
 
 ### [ CULTURE ](dimensions/culture.md)
-Culture dimension groups work satisfaction factors related to employees satisfaction from being embedded in a positive organizational culture that is characterized by trust, respect, and collaboration.
+Culture dimension groups work satisfaction factors related to employee satisfaction being embedded in a positive organizational culture characterized by trust, respect, and collaboration.
 
 ### [ LEADERSHIP ](dimensions/leadership.md)
-Leadership dimension groups work satisfaction factors related to employees satisfaction from being led by good leaders.
+Leadership dimension groups work satisfaction factors related to employees' satisfaction from good leadership.
 
 ### [ OPPORTUNITIES ](dimensions/opportunities.md)
-Opportunities dimension groups work satisfaction factors related to employees satisfaction from having good opportunities for professional, intellectual and social development.
+Opportunities dimension groups work satisfaction factors related to employee satisfaction with opportunities for professional, intellectual and social development.
 
 ### [ REWARDS ](dimensions/rewards.md)
-Rewards dimension groups work satisfaction factors related to employee satisfaction of being well rewarded for their work.
+Rewards dimension groups work satisfaction factors related to employee satisfaction with being appropriately rewarded for work.
 
 ### [ STRATEGY ](dimensions/strategy.md)
-Strategy dimension groups work satisfaction factors related to employees satisfaction from working in an organization whose vision, structure and planning are effective and coherent.
+Strategy dimension groups work satisfaction factors related to employees satisfaction working in an organization whose vision, structure and planning are effective and coherent.
 
 ### [ WORK ORGANIZATION ](dimensions/work_organization.md)
-Work organization dimension groups work satisfaction factors related to employees satisfaction of working in an organization where all work processes are managed smoothly and efficiently.
+Work organization dimension groups work satisfaction factors related to employee satisfaction of working in an organization where all work processes are managed smoothly and efficiently.
 
 
 ## Taxonomy index
@@ -39,11 +38,11 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Business performance ](dimensions/business_performance.md) | [ Financials ](dimensions/business_performance.md#financials)  | [ Declining or distressed business ](dimensions/business_performance.md#declining-or-distressed-business) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Financials ](dimensions/business_performance.md#financials)  | [ Negative outlook for the future ](dimensions/business_performance.md#negative-outlook-for-the-future) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Financials ](dimensions/business_performance.md#financials)  | [ Stringent cost management ](dimensions/business_performance.md#stringent-cost-management) |
-|  [ Business performance ](dimensions/business_performance.md) | [ Financials ](dimensions/business_performance.md#financials)  | [ Too fast business growth ](dimensions/business_performance.md#too-fast-business-growth) |
+|  [ Business performance ](dimensions/business_performance.md) | [ Financials ](dimensions/business_performance.md#financials)  | [ Too rapid business growth ](dimensions/business_performance.md#too-rapid-business-growth) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Market ](dimensions/business_performance.md#market)  | [ Strong market competition ](dimensions/business_performance.md#strong-market-competition) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Market ](dimensions/business_performance.md#market)  | [ Weak brand or reputation ](dimensions/business_performance.md#weak-brand-or-reputation) |
-|  [ Business performance ](dimensions/business_performance.md) | [ Offering ](dimensions/business_performance.md#offering)  | [ Overpriced market offering ](dimensions/business_performance.md#overpriced-market-offering) |
-|  [ Business performance ](dimensions/business_performance.md) | [ Offering ](dimensions/business_performance.md#offering)  | [ Poor market offering ](dimensions/business_performance.md#poor-market-offering) |
+|  [ Business performance ](dimensions/business_performance.md) | [ Offerings ](dimensions/business_performance.md#offerings)  | [ Overpriced offerings ](dimensions/business_performance.md#overpriced-offerings) |
+|  [ Business performance ](dimensions/business_performance.md) | [ Offerings ](dimensions/business_performance.md#offerings)  | [ Poor offerings ](dimensions/business_performance.md#poor-offerings) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Distributed workforce ](dimensions/business_performance.md#distributed-workforce) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ High employee turnover ](dimensions/business_performance.md#high-employee-turnover) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Incompetent workforce ](dimensions/business_performance.md#incompetent-workforce) |
@@ -54,16 +53,16 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Understaffing ](dimensions/business_performance.md#understaffing) |
 |  [ Culture ](dimensions/culture.md) | [ Accountability ](dimensions/culture.md#accountability)  | [ Blame game ](dimensions/culture.md#blame-game) |
 |  [ Culture ](dimensions/culture.md) | [ Accountability ](dimensions/culture.md#accountability)  | [ Lack of accountability ](dimensions/culture.md#lack-of-accountability) |
-|  [ Culture ](dimensions/culture.md) | [ Civility ](dimensions/culture.md#civility)  | [ Gossips or slanders ](dimensions/culture.md#gossips-or-slanders) |
-|  [ Culture ](dimensions/culture.md) | [ Civility ](dimensions/culture.md#civility)  | [ Hostile or rude attitudes ](dimensions/culture.md#hostile-or-rude-attitudes) |
-|  [ Culture ](dimensions/culture.md) | [ Civility ](dimensions/culture.md#civility)  | [ Mobbing ](dimensions/culture.md#mobbing) |
-|  [ Culture ](dimensions/culture.md) | [ Civility ](dimensions/culture.md#civility)  | [ Politicking or manipulations ](dimensions/culture.md#politicking-or-manipulations) |
+|  [ Culture ](dimensions/culture.md) | [ Civility ](dimensions/culture.md#civility)  | [ Bullying ](dimensions/culture.md#bullying) |
+|  [ Culture ](dimensions/culture.md) | [ Civility ](dimensions/culture.md#civility)  | [ Gossip or slander ](dimensions/culture.md#gossip-or-slander) |
+|  [ Culture ](dimensions/culture.md) | [ Civility ](dimensions/culture.md#civility)  | [ Hostile or rude attitude ](dimensions/culture.md#hostile-or-rude-attitude) |
+|  [ Culture ](dimensions/culture.md) | [ Civility ](dimensions/culture.md#civility)  | [ Office politics or manipulation ](dimensions/culture.md#office-politics-or-manipulation) |
 |  [ Culture ](dimensions/culture.md) | [ Civility ](dimensions/culture.md#civility)  | [ Sexual harassment ](dimensions/culture.md#sexual-harassment) |
 |  [ Culture ](dimensions/culture.md) | [ Civility ](dimensions/culture.md#civility)  | [ Unethical or illegal practices ](dimensions/culture.md#unethical-or-illegal-practices) |
 |  [ Culture ](dimensions/culture.md) | [ Consistency ](dimensions/culture.md#consistency)  | [ Inconsistent or fake culture ](dimensions/culture.md#inconsistent-or-fake-culture) |
 |  [ Culture ](dimensions/culture.md) | [ Cooperativeness ](dimensions/culture.md#cooperativeness)  | [ Conflicted or siloed organization ](dimensions/culture.md#conflicted-or-siloed-organization) |
-|  [ Culture ](dimensions/culture.md) | [ Cooperativeness ](dimensions/culture.md#cooperativeness)  | [ No team spirit ](dimensions/culture.md#no-team-spirit) |
-|  [ Culture ](dimensions/culture.md) | [ Cooperativeness ](dimensions/culture.md#cooperativeness)  | [ Unhealthy employees competition ](dimensions/culture.md#unhealthy-employees-competition) |
+|  [ Culture ](dimensions/culture.md) | [ Cooperativeness ](dimensions/culture.md#cooperativeness)  | [ Lack of team spirit ](dimensions/culture.md#lack-of-team-spirit) |
+|  [ Culture ](dimensions/culture.md) | [ Cooperativeness ](dimensions/culture.md#cooperativeness)  | [ Unhealthy employee competition ](dimensions/culture.md#unhealthy-employee-competition) |
 |  [ Culture ](dimensions/culture.md) | [ Diversity ](dimensions/culture.md#diversity)  | [ Not enough diversity ](dimensions/culture.md#not-enough-diversity) |
 |  [ Culture ](dimensions/culture.md) | [ Equality ](dimensions/culture.md#equality)  | [ Age discrimination ](dimensions/culture.md#age-discrimination) |
 |  [ Culture ](dimensions/culture.md) | [ Equality ](dimensions/culture.md#equality)  | [ Favoritism & cliques ](dimensions/culture.md#favoritism--cliques) |
@@ -80,7 +79,7 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Culture ](dimensions/culture.md) | [ Well-being ](dimensions/culture.md#well-being)  | [ Poor work-life balance ](dimensions/culture.md#poor-work-life-balance) |
 |  [ Culture ](dimensions/culture.md) | [ Well-being ](dimensions/culture.md#well-being)  | [ Stress or constant pressure ](dimensions/culture.md#stress-or-constant-pressure) |
 |  [ Leadership ](dimensions/leadership.md) | [ Communication ](dimensions/leadership.md#communication)  | [ Dysfunctional communication ](dimensions/leadership.md#dysfunctional-communication) |
-|  [ Leadership ](dimensions/leadership.md) | [ Communication ](dimensions/leadership.md#communication)  | [ Inefficient meetings ](dimensions/leadership.md#inefficient-meetings) |
+|  [ Leadership ](dimensions/leadership.md) | [ Communication ](dimensions/leadership.md#communication)  | [ Inefficient staff meetings ](dimensions/leadership.md#inefficient-staff-meetings) |
 |  [ Leadership ](dimensions/leadership.md) | [ Communication ](dimensions/leadership.md#communication)  | [ Poor performance feedback ](dimensions/leadership.md#poor-performance-feedback) |
 |  [ Leadership ](dimensions/leadership.md) | [ Competence ](dimensions/leadership.md#competence)  | [ Incompetent leaders ](dimensions/leadership.md#incompetent-leaders) |
 |  [ Leadership ](dimensions/leadership.md) | [ Decision-making ](dimensions/leadership.md#decision-making)  | [ Employees' input ignored ](dimensions/leadership.md#employees-input-ignored) |
@@ -115,7 +114,7 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Rewards ](dimensions/rewards.md) | [ Benefits ](dimensions/rewards.md#benefits)  | [ Poor health or life insurance ](dimensions/rewards.md#poor-health-or-life-insurance) |
 |  [ Rewards ](dimensions/rewards.md) | [ Benefits ](dimensions/rewards.md#benefits)  | [ Poor pension plan ](dimensions/rewards.md#poor-pension-plan) |
 |  [ Rewards ](dimensions/rewards.md) | [ Compensation ](dimensions/rewards.md#compensation)  | [ Insufficient salary adjustments ](dimensions/rewards.md#insufficient-salary-adjustments) |
-|  [ Rewards ](dimensions/rewards.md) | [ Compensation ](dimensions/rewards.md#compensation)  | [ Late or incorrect payments ](dimensions/rewards.md#late-or-incorrect-payments) |
+|  [ Rewards ](dimensions/rewards.md) | [ Compensation ](dimensions/rewards.md#compensation)  | [ Late or incorrect compensation ](dimensions/rewards.md#late-or-incorrect-compensation) |
 |  [ Rewards ](dimensions/rewards.md) | [ Compensation ](dimensions/rewards.md#compensation)  | [ No equity-based compensation ](dimensions/rewards.md#no-equity-based-compensation) |
 |  [ Rewards ](dimensions/rewards.md) | [ Compensation ](dimensions/rewards.md#compensation)  | [ Uncompetitive bonuses ](dimensions/rewards.md#uncompetitive-bonuses) |
 |  [ Rewards ](dimensions/rewards.md) | [ Compensation ](dimensions/rewards.md#compensation)  | [ Uncompetitive salary ](dimensions/rewards.md#uncompetitive-salary) |
@@ -148,7 +147,7 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Work organization ](dimensions/work_organization.md) | [ Place of work ](dimensions/work_organization.md#place-of-work)  | [ Uncomfortable place of work ](dimensions/work_organization.md#uncomfortable-place-of-work) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Place of work ](dimensions/work_organization.md#place-of-work)  | [ Unsafe place of work ](dimensions/work_organization.md#unsafe-place-of-work) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Processes ](dimensions/work_organization.md#processes)  | [ Bureaucracy or overregulation ](dimensions/work_organization.md#bureaucracy-or-overregulation) |
-|  [ Work organization ](dimensions/work_organization.md) | [ Tools ](dimensions/work_organization.md#tools)  | [ Outdated, inefficient or missing tools ](dimensions/work_organization.md#outdated-inefficient-or-missing-tools) |
+|  [ Work organization ](dimensions/work_organization.md) | [ Tools ](dimensions/work_organization.md#tools)  | [ Outdated, inefficient, or missing tools ](dimensions/work_organization.md#outdated-inefficient-or-missing-tools) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Training ](dimensions/work_organization.md#training)  | [ Inadequate or slow onboarding ](dimensions/work_organization.md#inadequate-or-slow-onboarding) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Training ](dimensions/work_organization.md#training)  | [ Inadequate training ](dimensions/work_organization.md#inadequate-training) |
 |  [ Work organization ](dimensions/work_organization.md) | [ Work arrangements ](dimensions/work_organization.md#work-arrangements)  | [ Difficult to get enough paid time ](dimensions/work_organization.md#difficult-to-get-enough-paid-time) |
