@@ -1,4 +1,4 @@
-[Back to the introduction](README.md)
+[Back to the introduction](../README.md)
 # The most characteristic work problems per industry
 > __December 2021__, based on __1.45M opinions__ provided by the employees of __553 global organizations__ from __17 industries__
 
