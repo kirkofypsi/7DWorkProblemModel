@@ -1,12 +1,12 @@
 [Back to the list of dimensions](../taxonomy.md)
 # LEADERSHIP
-Leadership dimension groups work satisfaction factors related to employees satisfaction from being led by good leaders.
+Leadership dimension groups work satisfaction factors related to employees' satisfaction from good leadership.
 
 ## COMMUNICATION
-Being led by leaders who communicate effectively and are able to offer actionable feedback to their team members.
+Having leaders who communicate effectively and offer actionable feedback.
 
 ### DYSFUNCTIONAL COMMUNICATION
-> Leaders are perceived as not communicating enough or communicating ineffectively. Employees may feel like they are in the dark about what is going on and how their work fits into the bigger picture. Business units may not be able to collaborate effectively due to a lack of knowledge sharing.
+> Employees perceive leaders as communicating insufficiently or ineffectively. Employees may feel left out of what is going on and unsure how their work fits into bigger picture. Lack of knowledge sharing may result in ineffective collaboration.
 
 __Exemplary statements reported by employees:__
 
@@ -16,19 +16,19 @@ __Exemplary statements reported by employees:__
 * *strategy is not clearly communicated*
 * *lack of communication between teams*
 
-### INEFFICIENT MEETINGS
-> Leaders run business meetings in a way that is perceived as a waste of time. There are too many meetings, they lack focus, have no specific purpose or their outcome is unclear.
+### INEFFICIENT STAFF MEETINGS
+> Management-led staff meetings are seen as being excessive or a waste of time, or lacking focus, specific purpose or expected outcome.
 
 __Exemplary statements reported by employees:__
 
-* *meetings fatigue*
+* *meeting fatigue*
 * *time wasted in meetings*
 * *too many meetings*
 * *meetings about meetings*
 * *lots of meetings*
 
 ### POOR PERFORMANCE FEEDBACK
-> Performance feedback is either not provided by leaders or provided only sporadically. There might also be a feeling that performance evaluations are not based on individual performance, but more so on group dynamics or personality issues instead. Feedback culture, in general, is seen as lacking, with employees having little access to real-time assessment of their performance.
+> Performance feedback is provided not enough or not at all. Performance evaluations may seem based less on individual performance and more on group dynamics or personality issues. Feedback culture, in general, is seen as lacking, with employees having little access to real-time performance assessment.
 
 __Exemplary statements reported by employees:__
 
@@ -40,10 +40,10 @@ __Exemplary statements reported by employees:__
 
 
 ## COMPETENCE
-Being led by leaders who have the necessary knowledge and skills to carry out their job.
+Having leaders with necessary knowledge and skills to do their job.
 
 ### INCOMPETENT LEADERS
-> Leaders do not have the skills necessary to fulfill their duties. To employees, they come across as either incompetent, inexperienced, or unprofessional. They also might lack the expertise their staff expect them to have, e.g. technical or product.
+> Employees perceive leaders as lacking necessary skills to fulfill their duties, and come across as incompetent, inexperienced, or unprofessional. They may also lack expected expertise (e.g. technical or product).
 
 __Exemplary statements reported by employees:__
 
@@ -55,10 +55,10 @@ __Exemplary statements reported by employees:__
 
 
 ## DECISION-MAKING
-Being led by leaders who make quick decisions taking into account employees' views.
+Having leaders who make quick decisions not taking into account employees’ views.
 
 ### EMPLOYEES' INPUT IGNORED
-> Employees are not listened to or their suggestions are not implemented. Leadership decides unilaterally without consulting employees or it pretends to listen to employees but fails to take their comments into account. Leadership might also create an atmosphere in which openly discussing difficult topics is not welcomed.
+> Employees’ suggestions go unheard or are ignored. Leadership makes decisions unilaterally without consulting employees or feigns listening but fails to take suggestions into account. Leadership might also actively discourage employee input.
 
 __Exemplary statements reported by employees:__
 
@@ -69,7 +69,7 @@ __Exemplary statements reported by employees:__
 * *no open-door policy*
 
 ### SLOW DECISION-MAKING
-> Leaders are perceived as slow in making decisions. It might be that the whole organization or specific departments have long approval processes or many managers are involved in taking a single decision. Sometimes leaders intentionally avoid taking decisions because they are punished for mistakes but not rewarded for successes.
+> Employees perceive leaders slow to make decisions. Decision-making process may be cumbersome or subject to bureaucracy. Leaders may intentionally avoid making decisions because of being punished for mistakes but not rewarded for successes.
 
 __Exemplary statements reported by employees:__
 
@@ -81,10 +81,10 @@ __Exemplary statements reported by employees:__
 
 
 ## EMPOWERMENT
-Being led by leaders who encourage employees to take responsibility for the decisions at work and who trust employees to make own decisions.
+Having leaders who trust and encourage employees to take responsibility for making decisions at work.
 
 ### LIMITED WORK AUTONOMY
-> Leaders do not delegate authority or empower employees. They micromanage and constantly scrutinize the work of their staff. Employees are not given enough freedom to work how they want or make decisions on their own.
+> Leaders do not delegate authority or empower employees, but rather micromanage and constantly scrutinize. Employees are not given enough freedom to work in the way they want or make decisions on their own.
 
 __Exemplary statements reported by employees:__
 
@@ -96,10 +96,10 @@ __Exemplary statements reported by employees:__
 
 
 ## FAIRNESS
-Being led by leaders who treat employees fairly by applying the same criteria to every employee.
+Having leaders who treat employees fairly and equally.
 
 ### OTHER UNFAIR DECISIONS
-> Leaders are perceived as being unfair in aspects other than promotion-related. They might be unmeritocratic, apply unfair practices toward employees, or treat some employees preferentially. The organization may not have a fair system for rewards, appraisals, hiring, work assignment, or other decisions.
+> Leaders are perceived as unfair in aspects other than promotion-related. They might be unmeritocratic, biased or preferential. The organization may not have a fair system regarding rewards, appraisals, hiring, work assignments, or making other decisions.
 
 __Exemplary statements reported by employees:__
 
@@ -110,7 +110,7 @@ __Exemplary statements reported by employees:__
 * *unfair enforcement of policies*
 
 ### UNMERITED PROMOTIONS
-> Leaders are perceived as not being fair in awarding promotions. Employees have a perception that promotions are too often given to non-performing employees, unqualified internal candidates, or people who are using personal connections to get promoted. The overall feeling is that promotions are decided arbitrarily, wrongfully, and sometimes dishonestly.
+> Leaders are perceived as not being fair in giving promotions. Employees feel often non-performing employees, unqualified internal candidates, or people with personal connections get promoted. Decisions related to promotions are felt to be arbitrarily, wrongfully, and sometimes dishonestly made.
 
 __Exemplary statements reported by employees:__
 
@@ -122,10 +122,10 @@ __Exemplary statements reported by employees:__
 
 
 ## INTEGRITY
-Being led by leaders who act consistently on the basis of values and principles they believe in.
+Having leaders who act consistently on the basis of values and principles in which they believe.
 
 ### LYING OR DECEITFUL LEADERS
-> Leaders are perceived as lying or deceitful. They are either manipulative or they lie straight to employees' faces. They might be making empty promises, not keeping their word, thus giving employees the feeling they are deceived.
+> Employees perceive leaders as covertly or overtly dishonest and may make empty promises, or break promises made.
 
 __Exemplary statements reported by employees:__
 
@@ -137,10 +137,10 @@ __Exemplary statements reported by employees:__
 
 
 ## RESPECTFULNESS
-Being led by leaders who treat all employees with dignity and show appreciation for their efforts at work.
+Having leaders who treat all employees with dignity and show appreciation for effort made.
 
 ### EGOCENTRIC OR AGGRESSIVE LEADERS
-> Leaders are perceived as being egocentric or aggressive. They are disrespectful to employees and lack appropriate manners which manifests itself in aggressive communication style or use of rude language. Finally, some of the leaders demonstrate conceiting attitudes or behavior.
+> Employees perceive leaders as egocentric or aggressive. They are disrespectful to staff and their communication is aggressive and rude. Some leaders come off as conceited.
 
 __Exemplary statements reported by employees:__
 
@@ -151,7 +151,7 @@ __Exemplary statements reported by employees:__
 * *management's respect for staff is low*
 
 ### NO APPRECIATION OR RECOGNITION
-> Leaders are perceived as showing little or no appreciation for hard work and contributions made by employees. They are accused of undervaluing their employees or failing to see contributions made by them, which could diminish employees' sense of accomplishment and motivation.
+> Leaders are perceived as showing little or no appreciation for hard work and contributions made by employees. They are accused of undervaluing employees or failing to acknowledge their contributions, diminishing their sense of accomplishment and motivation.
 
 __Exemplary statements reported by employees:__
 
@@ -163,10 +163,10 @@ __Exemplary statements reported by employees:__
 
 
 ## SUPPORTIVENESS
-Being led by leaders who are accessible, supportive and show interest in employees' personal success.
+Having leaders who are accessible, supportive and show interest in employees’ personal success.
 
 ### ABSENT OR DISCONNECTED LEADERS
-> Leaders are perceived as either absent or disconnected. "Delegate and disappear" is the default leadership style. They are either hard to reach, not available, or unapproachable. Some might be living in their own world and their help is useless as they have no understanding of what the real needs of their workforce are.
+> Employees see leaders as absent or disconnected. “Delegate and disappear” is the default leadership style. They are either hard to reach, unavailable, or unapproachable. Some might be self-absorbed and their help is not useful as they lack understanding of real needs of workforce.
 
 __Exemplary statements reported by employees:__
 
@@ -177,7 +177,7 @@ __Exemplary statements reported by employees:__
 * *some level of separation from management*
 
 ### UNCARING LEADERS
-> Leaders are perceived as unsupportive of their employees, not caring about them, and not giving any guidance or support to help staff succeed in their jobs. Sometimes leaders may pretend to care about people, but in practice, they act as they do not. Their lack of care and compassion is felt by employees and harms their well-being.
+> Leaders are perceived unsupportive and uncaring and do not give guidance or support to help staff succeed. Leaders may pretend to care but their actions seem otherwise. This lack of care and compassion affects employees and their well-being.
 
 __Exemplary statements reported by employees:__
 
@@ -186,3 +186,4 @@ __Exemplary statements reported by employees:__
 * *leadership that does not stand behind its staff*
 * *managers should be enablers for employees*
 * *employee happiness is not a priority*
+
