@@ -12,8 +12,8 @@ __The Institute for a Better Workplace__ believes the engagement issue must be a
 economical and societal implications [[3]](https://github.com/kirkofypsi/7DWorkProblemModel/blob/main/README.md#references)
 and such a dysfunctional work system cannot be maintained in a long term.
 
-We believe that the decrease in work satisfaction largely stems from the fact that modern companies can deploy their
-marketing departments to create favorable but largely untrue images of themselves. This in turn prevents the public
+We believe that the decrease in work satisfaction largely stems from the fact that modern companies misdirect their efforts
+by focusing on creating favorable but largely untrue images of themselves instead of addressing the actual issues. This in turn prevents the public
 from realizing the weaknesses of organizations and creates the opportunity for companies to ignore bad practices
 impacting their employees' well-being. Our aim is to tear down the walls erected by companies and to provide a neutral point of 
 view of the work world. To lay the groundwork for that we created an exhaustive catalog of the most common work
