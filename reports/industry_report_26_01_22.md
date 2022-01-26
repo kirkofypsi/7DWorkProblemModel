@@ -1,3 +1,5 @@
+<meta property="og:image" content="https://images.unsplash.com/photo-1601581987809-a874a81309c9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2670&q=80" />
+
 [Back to the introduction](../README.md)
 # The most characteristic work problems per industry
 > __January 2022__, based on __1.91M opinions__ provided by the employees of __607 global organizations__ from __18 industries__
