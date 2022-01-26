@@ -418,3 +418,5 @@
 |  [ Substandard place of work ](dimensions/work_organization.md#substandard-place-of-work) | __2.7__ times less common in the industry than overall |
 |  [ Gossip or slander ](dimensions/culture.md#gossip-or-slander) | __2.6__ times less common in the industry than overall |
 |  [ Inadequate parking options ](dimensions/work_organization.md#inadequate-parking-options) | __2.48__ times less common in the industry than overall |
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YVBM7MM6EQ"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-YVBM7MM6EQ'); </script>
