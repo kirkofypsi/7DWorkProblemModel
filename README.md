@@ -107,6 +107,7 @@ Here is list of reports that have been published thus far:
 * [The most characteristic work problems per industry](reports/industry_report_22_09_21.md) - __September 2021__
 * [The most characteristic work problems per industry](reports/industry_report_22_12_21.md) - __December 2021__
 * [The most characteristic work problems per industry](reports/industry_report_26_01_22.md) - __January 2022__
+* [The most characteristic work problems per industry](reports/industry_report_28_06_22.md) - __June 2022__
 
 <br/>
 <br/>
