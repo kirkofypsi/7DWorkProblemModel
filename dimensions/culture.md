@@ -179,7 +179,7 @@ __Exemplary statements reported by employees:__
 * *favors younger staff*
 * *bias against older staff members*
 
-### FAVORITISM & CLIQUES
+### FAVORITISM OR CLIQUES
 > Employees allege organization has culture of favoritism and cliques. Claims are that managers play favorites and promotions are based on personal relationships with management. Some teams might have an exclusionary culture and there might be cases of nepotism or cronyism.
 
 __Exemplary statements reported by employees:__

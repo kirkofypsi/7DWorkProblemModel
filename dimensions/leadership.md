@@ -139,8 +139,8 @@ __Exemplary statements reported by employees:__
 ## RESPECTFULNESS
 Having leaders who treat all employees with dignity and show appreciation for effort made.
 
-### EGOCENTRIC OR AGGRESSIVE LEADERS
-> Employees perceive leaders as egocentric or aggressive. They are disrespectful to staff and their communication is aggressive and rude. Some leaders come off as conceited.
+### AGGRESSIVE OR EGOCENTRIC LEADERS
+> Employees perceive leaders as aggressive or egocentric. They are disrespectful to staff and their communication is aggressive and rude. Some leaders come off as conceited.
 
 __Exemplary statements reported by employees:__
 

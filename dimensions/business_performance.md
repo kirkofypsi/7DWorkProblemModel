@@ -171,7 +171,7 @@ __Exemplary statements reported by employees:__
 * *high risk of job loss*
 * *you live in fear for your job*
 
-### OUTSOURCING & OFFSHORING
+### OUTSOURCING OR OFFSHORING
 > Employees believe offshoring or outsourcing certain business processes by organisation has negatively affected its workforce.
 
 __Exemplary statements reported by employees:__
