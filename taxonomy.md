@@ -1,6 +1,6 @@
 # 7D Work Problem Model™
 <div align="left">
-   <img id="last-update-badge" src="https://img.shields.io/badge/%F0%9F%93%85%20Last%20update%20-%20June%2030%2C%202022-blue.svg" alt="Last update: June 30, 2022" /> <img src="https://img.shields.io/badge/ %E2%9C%94%20Taxonomy%20version%20-%201.0.0-yellow.svg" alt="1.0.0"/>
+   <img id="last-update-badge" src="https://img.shields.io/badge/%F0%9F%93%85%20Last%20update%20-%20June%2030%2C%202022-blue.svg" alt="Last update: June 30, 2022" /> <img src="https://img.shields.io/badge/ %E2%9C%94%20Taxonomy%20version%20-%201.0.0-yellow.svg" alt="1.1.0"/>
 </div>
  
 [Back to the introduction](README.md)
