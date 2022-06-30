@@ -1,6 +1,6 @@
 # 7D Work Problem Model™
 <div align="left">
-   <img id="last-update-badge" src="https://img.shields.io/badge/%F0%9F%93%85%20Last%20update%20-%20December%2022%2C%202021-blue.svg" alt="Last update: December 22, 2021" /> <img src="https://img.shields.io/badge/ %E2%9C%94%20Taxonomy%20version%20-%201.0.0-yellow.svg" alt="1.0.0"/>
+   <img id="last-update-badge" src="https://img.shields.io/badge/%F0%9F%93%85%20Last%20update%20-%20June%2030%2C%202022-blue.svg" alt="Last update: June 30, 2022" /> <img src="https://img.shields.io/badge/ %E2%9C%94%20Taxonomy%20version%20-%201.0.0-yellow.svg" alt="1.0.0"/>
 </div>
  
 [Back to the introduction](README.md)
@@ -48,7 +48,7 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Incompetent workforce ](dimensions/business_performance.md#incompetent-workforce) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Leadership changes ](dimensions/business_performance.md#leadership-changes) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Low job security ](dimensions/business_performance.md#low-job-security) |
-|  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Outsourcing & offshoring ](dimensions/business_performance.md#outsourcing--offshoring) |
+|  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Outsourcing or offshoring ](dimensions/business_performance.md#outsourcing-or-offshoring) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Poor recruitment ](dimensions/business_performance.md#poor-recruitment) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Workforce ](dimensions/business_performance.md#workforce)  | [ Understaffing ](dimensions/business_performance.md#understaffing) |
 |  [ Culture ](dimensions/culture.md) | [ Accountability ](dimensions/culture.md#accountability)  | [ Blame game ](dimensions/culture.md#blame-game) |
@@ -65,7 +65,7 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Culture ](dimensions/culture.md) | [ Cooperativeness ](dimensions/culture.md#cooperativeness)  | [ Unhealthy employee competition ](dimensions/culture.md#unhealthy-employee-competition) |
 |  [ Culture ](dimensions/culture.md) | [ Diversity ](dimensions/culture.md#diversity)  | [ Not enough diversity ](dimensions/culture.md#not-enough-diversity) |
 |  [ Culture ](dimensions/culture.md) | [ Equality ](dimensions/culture.md#equality)  | [ Age discrimination ](dimensions/culture.md#age-discrimination) |
-|  [ Culture ](dimensions/culture.md) | [ Equality ](dimensions/culture.md#equality)  | [ Favoritism & cliques ](dimensions/culture.md#favoritism--cliques) |
+|  [ Culture ](dimensions/culture.md) | [ Equality ](dimensions/culture.md#equality)  | [ Favoritism or cliques ](dimensions/culture.md#favoritism-or-cliques) |
 |  [ Culture ](dimensions/culture.md) | [ Equality ](dimensions/culture.md#equality)  | [ Gender discrimination ](dimensions/culture.md#gender-discrimination) |
 |  [ Culture ](dimensions/culture.md) | [ Equality ](dimensions/culture.md#equality)  | [ National origin discrimination ](dimensions/culture.md#national-origin-discrimination) |
 |  [ Culture ](dimensions/culture.md) | [ Equality ](dimensions/culture.md#equality)  | [ Other problems with discrimination ](dimensions/culture.md#other-problems-with-discrimination) |
@@ -88,7 +88,7 @@ Work organization dimension groups work satisfaction factors related to employee
 |  [ Leadership ](dimensions/leadership.md) | [ Fairness ](dimensions/leadership.md#fairness)  | [ Other unfair decisions ](dimensions/leadership.md#other-unfair-decisions) |
 |  [ Leadership ](dimensions/leadership.md) | [ Fairness ](dimensions/leadership.md#fairness)  | [ Unmerited promotions ](dimensions/leadership.md#unmerited-promotions) |
 |  [ Leadership ](dimensions/leadership.md) | [ Integrity ](dimensions/leadership.md#integrity)  | [ Lying or deceitful leaders ](dimensions/leadership.md#lying-or-deceitful-leaders) |
-|  [ Leadership ](dimensions/leadership.md) | [ Respectfulness ](dimensions/leadership.md#respectfulness)  | [ Egocentric or aggressive leaders ](dimensions/leadership.md#egocentric-or-aggressive-leaders) |
+|  [ Leadership ](dimensions/leadership.md) | [ Respectfulness ](dimensions/leadership.md#respectfulness)  | [ Aggressive or egocentric leaders ](dimensions/leadership.md#aggressive-or-egocentric-leaders) |
 |  [ Leadership ](dimensions/leadership.md) | [ Respectfulness ](dimensions/leadership.md#respectfulness)  | [ No appreciation or recognition ](dimensions/leadership.md#no-appreciation-or-recognition) |
 |  [ Leadership ](dimensions/leadership.md) | [ Supportiveness ](dimensions/leadership.md#supportiveness)  | [ Absent or disconnected leaders ](dimensions/leadership.md#absent-or-disconnected-leaders) |
 |  [ Leadership ](dimensions/leadership.md) | [ Supportiveness ](dimensions/leadership.md#supportiveness)  | [ Uncaring leaders ](dimensions/leadership.md#uncaring-leaders) |
