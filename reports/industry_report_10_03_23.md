@@ -14,7 +14,6 @@
 |-------------:|-------------------:|
 | [ Undefined career paths ](../dimensions/opportunities.md#undefined-career-paths) | __2.0__ times more common in the industry than overall |
 | [ Poor retirement benefits ](../dimensions/rewards.md#poor-retirement-benefits) | __1.9__ times more common in the industry than overall |
-| [ No team-building activities ](../dimensions/rewards.md#no-team-building-activities) | __1.8__ times more common in the industry than overall |
 | [ Insufficient salary adjustments ](../dimensions/rewards.md#insufficient-salary-adjustments) | __1.8__ times more common in the industry than overall |
 | [ Lack of transparency ](../dimensions/culture.md#lack-of-transparency) | __1.7__ times more common in the industry than overall |
 
