@@ -21,14 +21,14 @@ problems. We are introducing it to objectively compare different companies' work
 a uniform, digestible, and easy-to-understand view of what is happening
 at different work places.
 
-## Catalogue of work problems
+## Catalogue of workplace problems
 
 Work-related health risks have been studied by scientists for decades. Initially, those studies were almost completely
 limited to physical work hazards but in recent decades, the focus has shifted towards mental and social factors and
 how they affect workers' well-being. In scientific literature, they are usually referred to as *psychosocial stressors* or
-*hazards*. We decided to use a simpler term – __work problem__ as we want to also shed light on organizational characteristics
+*hazards*. We decided to use a simpler term – __workplace problem__ as we want to also shed light on organizational characteristics
 that prevent employees from achieving self-actualization and satisfaction from work, even if they are not
-negatively affecting employees' mental health. Therefore, for us, the term __work problem__ represents any source of employees'
+negatively affecting employees' mental health. Therefore, for us, the term __workplace problem__ represents any source of employees'
 frustration, stress, or dissatisfaction in the workplace.
 
 Unfortunately, there is an absence in the scientific literature of a reference taxonomy cataloging all factors leading
@@ -46,51 +46,51 @@ learning and NLP techniques that allowed us to discover hidden relationships bet
 One million opinions is the equivalent of 200 average-sized books, so it is not surprising that traditional, manual
 approaches to building taxonomies could not be applied in this case.
 
-## 7D Work Problem Model™
+## 7D Workplace Problem Model™
 
-The resulting taxonomy, called the __7D Work Problem Model™__, recognizes at the most granular level 130 different work
+The resulting taxonomy, called the __7D Workplace Problem Model™__, recognizes at the most granular level 130 different work
 problems which suffice to classify more than 88% of our dataset of employees' opinions. One option that we rejected
-was to build a taxonomy by grouping work problems into categories representing super-problems. We decided instead to
-cluster work problems around __work satisfaction factors__ that are most negatively affected by them. For example, an
-occurrence of a work problem "No freedom to speak one's mind" negatively impacts the aspect of
+was to build a taxonomy by grouping workplace problems into categories representing super-problems. We decided instead to
+cluster workplace problems around __work satisfaction factors__ that are most negatively affected by them. For example, an
+occurrence of a workplace problem "No freedom to speak one's mind" negatively impacts the aspect of
 working at a company that supports the open-minded exchange of ideas. We call this satisfaction factor "Openness" and thus
 the aforementioned problem is assigned to it along with the two other problems "Lack of transparency" and "Aversion
 to risk or changes". Finally, work satisfaction factors were subsequently grouped into __work satisfaction dimensions__
 representing crucial concepts from the areas of management and systems organization.
 
-*Summary of 7D Work Problem Model™ taxonomy levels*
+*Summary of 7D Workplace Problem Model™ taxonomy levels*
 
 | Level (from the top)  |      Level name      |  Description  | Size |
 |-----------------------|---------------------:|--------------:|-----:| 
 |  1|  __Work satisfaction dimension__ |  high-level components of work satisfaction in the organization representing crucial concepts from the areas of management and systems organization | 7 |
 |  2|  __Work satisfaction factor__   | low-level components of work satisfaction in the organization; work problems negatively affect work satisfaction factors | 39 |
-|  3| __Work problem__ | any source of frustration, stress, or dissatisfaction for the employees in their workplace | 130 |
+|  3| __Workplace problem__ | any source of frustration, stress, or dissatisfaction for the employees in their workplace | 130 |
 
-*An exempt from the 7D Work Problem Model™ structure:*
+*An exempt from the 7D Workplace Problem Model™ structure:*
 
 * __Opportunities__  &nbsp; &nbsp; &nbsp;  <-- *Work satisfaction dimension*
     * __Career growth__  &nbsp; &nbsp; &nbsp; <-- *Work satisfaction factor*
-        * Poor career growth &nbsp; &nbsp; &nbsp; <-- *Work problem*
-        * Difficulties in internal transfers &nbsp; &nbsp; &nbsp; <-- *Work problem*
-        * Undefined career paths &nbsp; &nbsp; &nbsp; <-- *Work problem*
-        * Outsiders favored over insiders &nbsp; &nbsp; &nbsp; <-- *Work problem*
+        * Poor career growth &nbsp; &nbsp; &nbsp; <-- *Workplace problem*
+        * Difficulties in internal transfers &nbsp; &nbsp; &nbsp; <-- *Workplace problem*
+        * Undefined career paths &nbsp; &nbsp; &nbsp; <-- *Workplace problem*
+        * Outsiders favored over insiders &nbsp; &nbsp; &nbsp; <-- *Workplace problem*
 
-The __7D Work Problem Model™__ does not represent a static taxonomy. It will be thoroughly reviewed every few  months and 
+The __7D Workplace Problem Model™__ does not represent a static taxonomy. It will be thoroughly reviewed every few  months and 
 possibly modified to reflect new developments in research or changes in the world of work.
 
-__The Institute for a Better Workplace__ decided to open-source work problem taxonomy in order to make it available to
+__The Institute for a Better Workplace__ decided to open-source workplace problem taxonomy in order to make it available to
 researchers and companies interested in the topic. We hope that this taxonomy will be used to improve work
 environments and the well-being of employees around the world.
 
-## How can the 7D Work Problem Model™ be used?
+## How can the 7D Workplace Problem Model™ be used?
 
-The 7D Work Problem Model™ is a tool for conducting research in the field of work satisfaction as it comes with an
-automated classifier that can be used to quickly and unbiasedly identify relevant work problems without the need for
+The 7D Workplace Problem Model™ is a tool for conducting research in the field of work satisfaction as it comes with an
+automated classifier that can be used to quickly and unbiasedly identify relevant workplace problems without the need for
 expert review or manual tagging. Therefore, given a large enough dataset of employees' opinions
 we can use it to:
 
-* analyze work problems' distribution across different functions/locations/departments
-* track how the number of work problems changes over time in a specific organization
+* analyze workplace problems' distribution across different functions/locations/departments
+* track how the number of workplace problems changes over time in a specific organization
 * measure how satisfied employees from a given organization are comparing to the average for that industry
 * compare the satisfaction of employees between different organizations.
 
@@ -99,9 +99,8 @@ both a lack of bias and full anonymity which constitutes a significant improveme
 
 ## Our reports
 
-In the coming months, the __Culturama__ will publish numerous reports on work problems in
-different organizations. Our findings are based on the analysis of millions of employee opinions from
-hundreds of global organizations across various industries.
+__Culturama__ publishes reports on workplace problems in
+different organizations both here and on our [website](https://culturama.is). Our findings are based on the analysis of millions of employee opinions from hundreds of global organizations across various industries.
 
 Here is list of reports that have been published thus far:
 * [The most characteristic work problems per industry](reports/industry_report_22_09_21.md) - __September 2021__
