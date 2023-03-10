@@ -78,7 +78,7 @@ representing crucial concepts from the areas of management and systems organizat
 The __7D Workplace Problem Model™__ does not represent a static taxonomy. It will be thoroughly reviewed every few  months and 
 possibly modified to reflect new developments in research or changes in the world of work.
 
-__The Institute for a Better Workplace__ decided to open-source workplace problem taxonomy in order to make it available to
+__Culturama__ decided to open-source workplace problem taxonomy in order to make it available to
 researchers and companies interested in the topic. We hope that this taxonomy will be used to improve work
 environments and the well-being of employees around the world.
 
