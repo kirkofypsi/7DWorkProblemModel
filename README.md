@@ -1,4 +1,4 @@
-# 7D Work Problem Model™
+# 7D Workplace Problem Model™
 
 ## Introduction
 
