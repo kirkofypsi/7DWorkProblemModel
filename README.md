@@ -49,7 +49,7 @@ approaches to building taxonomies could not be applied in this case.
 ## 7D Workplace Problem Model™
 
 The resulting taxonomy, called the __7D Workplace Problem Model™__, recognizes at the most granular level 130 different work
-problems which suffice to classify more than 88% of our dataset of employees' opinions. One option that we rejected
+problems which suffice to classify more than 94% of our dataset of employees' opinions. One option that we rejected
 was to build a taxonomy by grouping workplace problems into categories representing super-problems. We decided instead to
 cluster workplace problems around __work satisfaction factors__ that are most negatively affected by them. For example, an
 occurrence of a workplace problem "No freedom to speak one's mind" negatively impacts the aspect of
