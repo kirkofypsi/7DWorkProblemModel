@@ -63,7 +63,7 @@ representing crucial concepts from the areas of management and systems organizat
 | Level (from the top)  |      Level name      |  Description  | Size |
 |-----------------------|---------------------:|--------------:|-----:| 
 |  1|  __Work satisfaction dimension__ |  high-level components of work satisfaction in the organization representing crucial concepts from the areas of management and systems organization | 7 |
-|  2|  __Work satisfaction factor__   | low-level components of work satisfaction in the organization; work problems negatively affect work satisfaction factors | 39 |
+|  2|  __Work satisfaction factor__   | low-level components of work satisfaction in the organization; workplace problems negatively affect work satisfaction factors | 39 |
 |  3| __Workplace problem__ | any source of frustration, stress, or dissatisfaction for the employees in their workplace | 130 |
 
 *An exempt from the 7D Workplace Problem Model™ structure:*
@@ -103,16 +103,16 @@ __Culturama__ publishes reports on workplace problems in
 different organizations both here and on our [website](https://culturama.is). Our findings are based on the analysis of millions of employee opinions from hundreds of global organizations across various industries.
 
 Here is list of reports that have been published thus far:
-* [The most characteristic work problems per industry](reports/industry_report_22_09_21.md) - __September 2021__
-* [The most characteristic work problems per industry](reports/industry_report_22_12_21.md) - __December 2021__
-* [The most characteristic work problems per industry](reports/industry_report_26_01_22.md) - __January 2022__
-* [The most characteristic work problems per industry](reports/industry_report_28_06_22.md) - __June 2022__
-* [The most characteristic work problems per industry](reports/industry_report_10_03_23.md) - __March 2023__
+* [The most characteristic workplace problems per industry](reports/industry_report_22_09_21.md) - __September 2021__
+* [The most characteristic workplace problems per industry](reports/industry_report_22_12_21.md) - __December 2021__
+* [The most characteristic workplace problems per industry](reports/industry_report_26_01_22.md) - __January 2022__
+* [The most characteristic workplace problems per industry](reports/industry_report_28_06_22.md) - __June 2022__
+* [The most characteristic workplace problems per industry](reports/industry_report_10_03_23.md) - __March 2023__
 
 <br/>
 <br/>
 
-## Explore [ 7D Work Problem Model™](taxonomy.md)
+## Explore [ 7D Workplace Problem Model™](taxonomy.md)
 
 <br/>
 
