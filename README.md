@@ -8,7 +8,7 @@ engaged [[1]](https://github.com/kirkofypsi/7DWorkProblemModel/blob/main/README.
 engagement has not significantly improved over the last decade. As job satisfaction strongly correlates with mental
 health, dissatisfaction with work may partially explain the recent rise of psychological issues among working
 adults [[2]](https://github.com/kirkofypsi/7DWorkProblemModel/blob/main/README.md#references).
-__The Institute for a Better Workplace__ believes the engagement issue must be addressed as it has severe
+__Culturama__ believes the engagement issue must be addressed as it has severe
 economical and societal implications [[3]](https://github.com/kirkofypsi/7DWorkProblemModel/blob/main/README.md#references)
 and such a dysfunctional work system cannot be maintained in a long term.
 
@@ -38,7 +38,7 @@ in [[4],[5]](https://github.com/kirkofypsi/7DWorkProblemModel/blob/main/README.m
 categories, respectively. Notwithstanding, in our opinion, they fail to cover all relevant dissatisfaction factors and were not
 derived from analysis of really large datasets of employees opinions.
 
-Given that absence, the __Institute for a Better Workplace__ decided to create its own taxonomy, which we believe to be the
+Given that absence, the __Culturama__ decided to create its own taxonomy, which we believe to be the
 most exhaustive one (currently comprising 130 categories) and the only one that has been tested on a large dataset of
 employees' opinions. The taxonomy was derived from __millions of opinions__ about workplace experiences
 reported by the employees of __hundreds of global organizations__ and its creation was possible thanks to the support of machine
@@ -99,7 +99,7 @@ both a lack of bias and full anonymity which constitutes a significant improveme
 
 ## Our reports
 
-In the coming months, the __Institute for a Better Workplace__ will publish numerous reports on work problems in
+In the coming months, the __Culturama__ will publish numerous reports on work problems in
 different organizations. Our findings are based on the analysis of millions of employee opinions from
 hundreds of global organizations across various industries.
 
