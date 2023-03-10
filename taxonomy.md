@@ -1,4 +1,4 @@
-# 7D Work Problem Model™
+# 7D Workplace Problem Model™
 <div align="left">
    <img id="last-update-badge" src="https://img.shields.io/badge/%F0%9F%93%85%20Last%20update%20-%20June%2030%2C%202022-blue.svg" alt="Last update: June 30, 2022" /> <img src="https://img.shields.io/badge/ %E2%9C%94%20Taxonomy%20version%20-%201.1.0-yellow.svg" alt="1.1.0"/>
 </div>
@@ -32,7 +32,7 @@ Work organization dimension groups work satisfaction factors related to employee
 ## Taxonomy index
 
 
-| Work Satisfaction Dimension | Work Satisfaction Factor | Work Problem |
+| Work Satisfaction Dimension | Work Satisfaction Factor | Workplace Problem |
 |----------------------------:|-------------------------:|-------------:|
 |  [ Business performance ](dimensions/business_performance.md) | [ Financials ](dimensions/business_performance.md#financials)  | [ Business growth stagnation ](dimensions/business_performance.md#business-growth-stagnation) |
 |  [ Business performance ](dimensions/business_performance.md) | [ Financials ](dimensions/business_performance.md#financials)  | [ Declining or distressed business ](dimensions/business_performance.md#declining-or-distressed-business) |
