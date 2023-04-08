@@ -114,9 +114,6 @@ Here is list of reports that have been published thus far:
 
 ## Explore [ 7D Workplace Problem Model™](taxonomy.md)
 
-<br/>
-<br/>
-
 ##  [Frequently asked questions](faq.md)
 
 <br/>
