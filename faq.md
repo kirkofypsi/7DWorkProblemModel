@@ -35,9 +35,9 @@ Since we don't want to publish outdated data on work cultures, we exclude opinio
 In summary, Culturama data consists of opinions that:
 
  - represent employee perspectives on workplace cultures,
- - mention at least one drawback of a work culture, i.e., are not 100% positive,
+ - mention **at least one issue of a work culture**, i.e., are not 100% positive,
  - relate to the workplace cultures of the selected 1500 global organizations,
- - were published no earlier than 4 years ago.
+ - were published **no earlier than 4 years ago**.
 
 ## Is the Culturama employee opinion dataset static?
 
@@ -75,4 +75,7 @@ In summary:
 It's no secret that companies often try to enhance their reputation as employers by posting fake positive reviews online. This practice has been widely reported by reputable media outlets such as [The Wall Street Journal](https://www.wsj.com/articles/companies-manipulate-glassdoor-by-inflating-rankings-and-pressuring-employees-11548171977) and can be easily identified through statistical analysis. One common indicator of manipulation is when a negative review is always followed by a series of excessively positive reviews, seemingly intended to offset the negative impact.
 
 It's important to acknowledge that companies typically do not hire external PR agencies to create false positive reviews. Instead, they employ more subtle tactics, which can be perceived as legitimate by the individuals involved. One such approach is when a manager sends an email to a group of employees, requesting them to post a positive review, with a message along the lines of, "After all, we're not as bad as they say we are online." Often, the recipients of these requests are members of the recruitment department, who have a vested interest in posting fabricated reviews, as it increases their chances of attracting potential candidates.
+
+In summary, Culturama excludes positive employee feedback due to the difficulty in verifying its authenticity. Although many positive comments are genuine, a significant number are either influenced by employers or entirely fabricated. In our opinion, the only reliable measure of work culture quality is the absence of workplace problem reports, rather than the presence of praise.
+
 
