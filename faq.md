@@ -10,6 +10,7 @@
 - [How is the intensity of a workplace problem calculated?](#how-is-the-intensity-of-a-workplace-problem-calculated)
 - [Why focus on workplace issues and ignore the positive?](#why-focus-on-workplace-issues-and-ignore-the-positive)
 - [Why are fake positive reviews a problem, while fake negative reviews are not?](#why-are-fake-positive-reviews-a-problem-while-fake-negative-reviews-are-not)
+- [Why are only large companies included in Culturama?](#why-are-only-large-companies-included-in-culturama)
 
 ## What is Culturama?
 
@@ -77,7 +78,7 @@ It's no secret that companies often try to enhance their reputation as employers
 
 It's important to acknowledge that companies typically do not hire external PR agencies to create false positive reviews. Instead, they employ more subtle tactics, which can be perceived as legitimate by the individuals involved. One such approach is when a manager sends an email to a group of employees, requesting them to post a positive review, with a message along the lines of, "After all, we're not as bad as they say we are online." Often, the recipients of these requests are members of the recruitment department, who have a vested interest in posting fabricated reviews, as it increases their chances of attracting potential candidates.
 
-In summary, Culturama excludes positive employee feedback due to the difficulty in verifying its authenticity. Although many positive comments are genuine, a significant number are either influenced by employers or entirely fabricated. In our opinion, the only reliable measure of work culture quality is the absence of workplace problem reports, rather than the presence of praise.
+In summary, Culturama excludes positive employee feedback due to the difficulty in verifying its authenticity. Although many positive comments are genuine, a significant number are either influenced by employers or entirely fabricated. In our opinion, **the only reliable measure of work culture quality is the absence of workplace problem reports, rather than the presence of praise**.
 
 ## Why are fake positive reviews a problem, while fake negative reviews are not?
 
@@ -89,4 +90,9 @@ Additionally, every company has dozens, if not hundreds, of competitors in the j
 
 Therefore, it's clear that the unethical method of choice for enhancing one's reputation is by posting fake positive reviews rather than publishing fake negative reviews about competitors.
 
+## Why are only large companies included in Culturama?
+
+Regrettably, for small and some medium-sized companies, particularly those with 500 employees or fewer, there is usually insufficient publicly available information to make statistically significant conclusions about their work culture.
+
+Nonetheless, this does not imply that we cannot expand the current selection of 1500 companies in Culturama. There are undoubtedly numerous large companies not yet featured in Culturama that have ample public information on their work cultures. Our goal is to continue broadening the range of analyzed companies in the near future.
 
