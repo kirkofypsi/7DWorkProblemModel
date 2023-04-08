@@ -9,6 +9,7 @@
 - [What does the intensity of a workplace problem mean?](#what-does-the-intensity-of-a-workplace-problem-mean)
 - [How is the intensity of a workplace problem calculated?](#how-is-the-intensity-of-a-workplace-problem-calculated)
 - [Why focus on workplace issues and ignore the positive?](#why-focus-on-workplace-issues-and-ignore-the-positive)
+- [Why are fake positive reviews a problem, while fake negative reviews are not?](#why-are-fake-positive-reviews-a-problem-while-fake-negative-reviews-are-not)
 
 ## What is Culturama?
 
@@ -77,5 +78,15 @@ It's no secret that companies often try to enhance their reputation as employers
 It's important to acknowledge that companies typically do not hire external PR agencies to create false positive reviews. Instead, they employ more subtle tactics, which can be perceived as legitimate by the individuals involved. One such approach is when a manager sends an email to a group of employees, requesting them to post a positive review, with a message along the lines of, "After all, we're not as bad as they say we are online." Often, the recipients of these requests are members of the recruitment department, who have a vested interest in posting fabricated reviews, as it increases their chances of attracting potential candidates.
 
 In summary, Culturama excludes positive employee feedback due to the difficulty in verifying its authenticity. Although many positive comments are genuine, a significant number are either influenced by employers or entirely fabricated. In our opinion, the only reliable measure of work culture quality is the absence of workplace problem reports, rather than the presence of praise.
+
+## Why are fake positive reviews a problem, while fake negative reviews are not?
+
+While it's possible for a company to post fake negative reviews in order to harm a competitor's reputation, it's important to understand that engaging in such behavior can result in serious legal consequences. Spreading false information with the intention of damaging another business can provide grounds for a defamation lawsuit.
+
+Because of this, it's unlikely that falsifying negative reviews would happen as frequently as falsifying positive ones. Encouraging an employee to write an excessively positive review of their own company simply involves setting aside personal opinions temporarily, whereas fabricating negative statements about a company they have no affiliation with is a completely different matter.
+
+Additionally, every company has dozens, if not hundreds, of competitors in the job market. To improve their own standing, a company would have to produce fake negative reviews for all of their competitors, which would be a monumental task.
+
+Therefore, it's clear that the unethical method of choice for enhancing one's reputation is by posting fake positive reviews rather than publishing fake negative reviews about competitors.
 
 
