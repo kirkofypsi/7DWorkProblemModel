@@ -5,6 +5,9 @@
 - [Where does Culturama data come from?](#where-does-culturama-data-come-from)
 - [Is the Culturama employee opinion dataset static?](#is-the-culturama-employee-opinion-dataset-static)
 - [Will the Culturama employee opinion dataset be public?](#will-the-culturama-employee-opinion-dataset-be-public)
+- [Do you gather any additional information on the authors of opinions?](#do-you-gather-any-additional-information-on-the-authors-of-opinions)
+- [What does the intensity of a workplace problem mean?](#what-does-the-intensity-of-a-workplace-problem-mean)
+- [How is the intensity of a workplace problem calculated?](#how-is-the-intensity-of-a-workplace-problem-calculated)
 
 ## What is Culturama?
 
@@ -46,3 +49,24 @@ We do not have plans to publish our dataset. Our primary goal is to offer an agg
 ## Do you gather any additional information on the authors of opinions?
 
 We only store the content of the opinion and the date it was created. We do not retain any personal information such as names or addresses. Additionally, we do not gather any demographic data such as age, gender, employment location, or income level.
+
+## What does the intensity of a workplace problem mean?
+
+Intensity indicates how frequently employees report a particular workplace problem. The higher the intensity of a problem, the more prevalent it is within an organization. Problem intensity is derived from problem frequency and is **measured on a scale from 0 to 100**.
+
+It is essential to emphasize that, contrary to the natural interpretation where higher values are perceived as better, problem intensity works the other way around. **An intensity of 0** is an excellent score, signifying a complete absence of evidence that a problem exists in a company. Conversely, **an intensity of 100** indicates that the problem is very commonly mentioned by employees.
+
+## How is the intensity of a workplace problem calculated?
+
+Culturama identifies 130 distinct types of workplace problems. In a single opinion, an employee may raise multiple workplace concerns, potentially even listing several dozen of them. However, in practice, it is most common for an individual opinion to mention 1-3 problems. Please note that, due to the constraints we placed on our dataset, an opinion must contain at least one mention of a workplace issue.
+
+**The frequency of a workplace issue refers to the percentage of opinions that include this specific problem out of all opinions**. In 99% of cases, the frequency is less than 15%. This is not surprising, as it would be unusual for a single issue to appear in a significant portion of a large number of unprompted, independent opinions. Therefore, to make our data more interpretable, we remove outliers by capping all frequencies above 15% at 15%.
+
+**Intensity measure comes from linearly rescaling the range from [0%, 15%] to [0, 100]**.
+
+In summary:
+
+ - **An intensity of 100** indicates that the workplace issue was mentioned in **15% or more of the opinions**.
+ - **An intensity of 0** signifies that no opinions mentioned the specific workplace issue.
+
+
