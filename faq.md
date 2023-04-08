@@ -11,6 +11,7 @@
 - [Why focus on workplace issues and ignore the positive?](#why-focus-on-workplace-issues-and-ignore-the-positive)
 - [Why are fake positive reviews a problem, while fake negative reviews are not?](#why-are-fake-positive-reviews-a-problem-while-fake-negative-reviews-are-not)
 - [Why are only large companies included in Culturama?](#why-are-only-large-companies-included-in-culturama)
+- [How can Culturama identify 130 distinct types of workplace issues?](#how-can-culturama-identify-130-distinct-types-of-workplace-issues)
 
 ## What is Culturama?
 
@@ -95,4 +96,11 @@ Therefore, it's clear that the unethical method of choice for enhancing one's re
 Regrettably, for small and some medium-sized companies, particularly those with 500 employees or fewer, there is usually insufficient publicly available information to make statistically significant conclusions about their work culture.
 
 Nonetheless, this does not imply that we cannot expand the current selection of 1500 companies in Culturama. There are undoubtedly numerous large companies not yet featured in Culturama that have ample public information on their work cultures. Our goal is to continue broadening the range of analyzed companies in the near future.
+
+## How can Culturama identify 130 distinct types of workplace issues?
+
+Culturama employs a custom fine-tuned model based on the state of art LLM ([large language model](https://en.wikipedia.org/wiki/Large_language_model)). [Fine-tuning](https://en.wikipedia.org/wiki/Fine-tuning_(machine_learning)) involves further training of a pre-trained model on new data to enhance its performance for a particular task. In our scenario, the task is detecting workplace issues from our taxonomy within employee feedback, and the new data consists of a substantial collection of manually annotated employee opinions.
+
+To test the prediction quality, we used [k-fold cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)#k-fold_cross-validation), a widely recognized evaluation method that ensures robustness and accuracy. By doing so, we achieved an impressive [F1-score](https://en.wikipedia.org/wiki/F-score) of **0.93**, demonstrating the model's effectiveness in identifying various workplace problems.
+
 
