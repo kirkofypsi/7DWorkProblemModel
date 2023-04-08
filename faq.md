@@ -67,6 +67,6 @@ Culturama identifies 130 distinct types of workplace problems. In a single opini
 In summary:
 
  - **An intensity of 100** indicates that the workplace issue was mentioned in **15% or more of the opinions**.
- - **An intensity of 0** signifies that no opinions mentioned the specific workplace issue.
+ - **An intensity of 0** signifies that **no opinions mentioned the specific workplace issue**.
 
 
