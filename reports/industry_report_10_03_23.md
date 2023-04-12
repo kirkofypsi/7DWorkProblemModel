@@ -357,7 +357,6 @@
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Run-down place of work ](../dimensions/work_organization.md#run-down-place-of-work) | __4.3__ times more common in the industry than overall |
-| [ Poor food options ](../dimensions/rewards.md#poor-food-options) | __2.6__ times more common in the industry than overall |
 | [ Gossip or slander ](../dimensions/culture.md#gossip-or-slander) | __2.2__ times more common in the industry than overall |
 | [ Substandard place of work ](../dimensions/work_organization.md#substandard-place-of-work) | __2.1__ times more common in the industry than overall |
 | [ Inadequate parking options ](../dimensions/work_organization.md#inadequate-parking-options) | __1.9__ times more common in the industry than overall |
@@ -448,9 +447,6 @@
 
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
-| [ Physically demanding work ](../dimensions/opportunities.md#physically-demanding-work) | __3.7__ times more common in the industry than overall |
-| [ Distracting place of work ](../dimensions/work_organization.md#distracting-place-of-work) | __3.0__ times more common in the industry than overall |
-| [ Short or rigid breaks ](../dimensions/work_organization.md#short-or-rigid-breaks) | __2.7__ times more common in the industry than overall |
 | [ Too rapid business growth ](../dimensions/business_performance.md#too-rapid-business-growth) | __2.6__ times more common in the industry than overall |
 | [ No equity-based compensation ](../dimensions/rewards.md#no-equity-based-compensation) | __2.4__ times more common in the industry than overall |
 
@@ -587,7 +583,6 @@
 | Work Problem | Industry vs Overall Frequency Ratio |
 |-------------:|-------------------:|
 | [ Difficult customers ](../dimensions/opportunities.md#difficult-customers) | __4.7__ times more common in the industry than overall |
-| [ Poor food options ](../dimensions/rewards.md#poor-food-options) | __4.3__ times more common in the industry than overall |
 | [ Short or rigid breaks ](../dimensions/work_organization.md#short-or-rigid-breaks) | __3.6__ times more common in the industry than overall |
 | [ Substandard place of work ](../dimensions/work_organization.md#substandard-place-of-work) | __3.1__ times more common in the industry than overall |
 | [ Heavy multitasking ](../dimensions/opportunities.md#heavy-multitasking) | __2.5__ times more common in the industry than overall |
