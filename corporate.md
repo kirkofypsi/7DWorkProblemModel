@@ -26,3 +26,17 @@ Of the above data sources, "Public Data" is always available, and at least one a
 
 Like public Culturama, Corporate Culturama aims to detect various types of workplace problems through crowdsourcing. However, with the additional data collected, the analysis can be much more granular. Instant monitoring of the most pressing issues per geography, location, function, or specific demographics can be offered.
 
+## Applications
+
+ - Monitor workplace issues in real time by geography, function, department, or specific demographics, without the drawbacks of survey fatigue, manual analysis of open-ended responses, interpretation bias, or costly language translation.
+
+ - Track changes in the intensity of workplace issues in real time.
+
+ - Evaluate the impact of company events, such as management or process changes, on employee satisfaction.
+
+ - Benchmark your work culture against competitors and industry standards.
+
+ - Leverage insights into your competitors' challenges to effectively persuade candidates to switch companies by addressing their specific concerns.
+
+ - Gain a deeper understanding of your company's online public image, or employer branding.
+
