@@ -6,7 +6,7 @@
 - [Where does Culturama data come from?](#where-does-culturama-data-come-from)
 - [Is the Culturama employee opinion dataset static?](#is-the-culturama-employee-opinion-dataset-static)
 - [Will the Culturama employee opinion dataset be public?](#will-the-culturama-employee-opinion-dataset-be-public)
-- [Do you gather any additional information on the authors of opinions?](#do-you-gather-any-additional-information-on-the-authors-of-opinions)
+- [Does Culturama you gather any additional information on the authors of opinions?](#does-culturama-gather-any-additional-information-on-the-authors-of-opinions)
 - [Why focus on workplace issues and ignore the positive?](#why-focus-on-workplace-issues-and-ignore-the-positive)
 - [Why are fake positive reviews a problem, while fake negative reviews are not?](#why-are-fake-positive-reviews-a-problem-while-fake-negative-reviews-are-not)
 - [Why are only large companies included in Culturama?](#why-are-only-large-companies-included-in-culturama)
@@ -57,9 +57,9 @@ No, Culturama constantly scans the internet for employee opinions on companies. 
 
 We do not have plans to publish our dataset. Our primary goal is to offer an aggregated overview of workplace cultures that can assist organizations in identifying areas for improvement and enable job seekers to make data-driven decisions. By releasing our dataset, we would inadvertently draw attention to individual opinions, which is not our intention. Although all opinions collected by us are publicly accessible, compiling them in one place and making them searchable could potentially cause issues for those who expressed them.
 
-## Do you gather any additional information on the authors of opinions?
+## Does Culturama gather any additional information on the authors of opinions?
 
-We only store the content of the opinion and the date it was created. We do not retain any personal information such as names or addresses. Additionally, we do not gather any demographic data such as age, gender, employment location, or income level.
+Culturama only stores the content of the opinion and the date it was created. It does not retain any personal information such as names or addresses. Additionally, it does not gather any demographic data such as age, gender, employment location, or income level.
 
 ## Why focus on workplace issues and ignore the positive?
 
