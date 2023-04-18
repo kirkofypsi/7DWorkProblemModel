@@ -1,7 +1,7 @@
 # Frequently asked questions
 
 - [What is Culturama?](#what-is-culturama)
-- [What makes Culturama unique?)(#what-makes-culturama-unique)
+- [What makes Culturama unique?](#what-makes-culturama-unique)
 - [How can Culturama improve work cultures?](#how-can-culturama-improve-work-cultures)
 - [Where does Culturama data come from?](#where-does-culturama-data-come-from)
 - [Is the Culturama employee opinion dataset static?](#is-the-culturama-employee-opinion-dataset-static)
