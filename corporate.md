@@ -42,5 +42,5 @@ Like public Culturama, Corporate Culturama aims to detect various types of workp
 
 ## Sales channels
 
-- __Partner Sales__: Leveraging partnerships with HR software providers, employee engagement consultants, and talent acquisition firms to distribute and sell corporate Culturama.
-- __Direct Sales__: Selling corporate Culturama directly to customers through Culturama's own sales team or website,
+- __Partner Sales__: Leveraging partnerships with HR software providers, employee engagement consultants, and talent acquisition firms to distribute and sell corporate Culturama,
+- __Direct Sales__: Selling corporate Culturama directly to customers through Culturama's own sales team or website.
