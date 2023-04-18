@@ -15,11 +15,17 @@
 
 ## What is Culturama?
 
-Culturama is **a first-of-its-kind work culture analytics**, covering 1,500 major companies and drawing insights from 5 million employee opinions. It utilizes GPT technology, popularized by ChatGPT, to analyze public employee comments about companies.
+Culturama is **a first-of-its-kind free-to-use work culture analytics**, covering 1,500 major companies and drawing insights from 5 million employee opinions. It utilizes GPT technology, popularized by ChatGPT, to analyze public employee comments about companies.
 
-Unlike one-time paper studies, Culturama is a continuous study with quarterly updates, ensuring the information always stays relevant.
+## What makes Culturama unique?
 
-What truly sets Culturama apart from traditional studies is its approach to discussing work cultures. While many rely on abstract concepts like ***Agility***, ***Performance***, or ***Execution*** to describe work environments, Culturama focuses on 130 common workplace problems that employees and employers can easily understand. These issues include the ***Blame game***, ***Tight deadlines***, ***Late or incorrect pay***, and ***Uncaring managers***. This practical approach enables users to draw meaningful conclusions and take action to address these challenges in the workplace.
+Culturama differentiates itself from other work culture analytics services in several key ways:
+
+ - Scope of analysis: Culturama covers a wide range of 1,500 major companies and gathers insights from 5 million employee opinions, providing a comprehensive view of work culture across various industries.
+ - Exclusion of fake positive reviews: To maintain the reliability of the analysis, Culturama excludes positive employee feedback due to the difficulty in verifying its authenticity. This approach helps to focus on the absence of workplace problems as a measure of work culture quality rather than the presence of praise.
+- Focus on tangible workplace problems: Unlike other services that use abstract concepts to describe work environments like ***Agility***, ***Performance***, or ***Execution***, Culturama identifies 130 common, practical workplace issues like ***Blame game***, ***Tight deadlines***, ***Late or incorrect pay***, and ***Uncaring managers*** that employees and employers can easily understand and address.
+ - Continuous study with quarterly updates: Culturama is not a one-time report but a continuous study that provides updated information every quarter, ensuring that the insights remain relevant and accurate.
+ - Publicly available and free: Culturama is a free-to-use platform, making work culture analytics accessible to a broader audience, including employees, employers, and researchers.
 
 ## How can Culturama improve work cultures?
 
