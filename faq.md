@@ -7,7 +7,7 @@
 - [Is the Culturama employee opinion dataset static?](#is-the-culturama-employee-opinion-dataset-static)
 - [Will the Culturama employee opinion dataset be public?](#will-the-culturama-employee-opinion-dataset-be-public)
 - [Does Culturama gather any additional information on the authors of opinions?](#does-culturama-gather-any-additional-information-on-the-authors-of-opinions)
-- [Why focus on workplace issues and ignore the positive?](#why-focus-on-workplace-issues-and-ignore-the-positive)
+- [Why Culturama focuses on workplace issues and ignores the positive?](#why-culturama-focuses-on-workplace-issues-and-ignores-the-positive)
 - [Why are fake positive reviews a problem, while fake negative reviews are not?](#why-are-fake-positive-reviews-a-problem-while-fake-negative-reviews-are-not)
 - [Why are only large companies included in Culturama?](#why-are-only-large-companies-included-in-culturama)
 - [How can Culturama identify 130 distinct types of workplace issues?](#how-can-culturama-identify-130-distinct-types-of-workplace-issues)
@@ -20,13 +20,19 @@ Culturama is **a first-of-its-kind, free-to-use work culture analytics**, coveri
 
 ## What makes Culturama unique?
 
-Culturama differentiates itself from other work culture analytics services in several key ways:
+Culturama differentiates itself from other work culture analytics services or job review boards in several key ways:
 
  - **Scope of analysis**: Culturama covers a wide range of 1,500 major companies and gathers insights from 5 million employee opinions, providing a comprehensive view of work culture across various industries.
+
  - **Exclusion of fake positive reviews**: To maintain the reliability of the analysis, Culturama excludes positive employee feedback due to the difficulty in verifying its authenticity. This approach helps to focus on the absence of workplace problems as a measure of work culture quality rather than the presence of praise.
+
 - **Focus on tangible workplace problems**: Unlike other services that use abstract concepts to describe work environments like ***Agility***, ***Performance***, or ***Execution***, Culturama identifies 130 common, practical workplace issues like ***Blame game***, ***Tight deadlines***, ***Late or incorrect pay***, and ***Uncaring managers*** that employees and employers can easily understand and address.
+
  - **Continuous study with quarterly updates**: Culturama is not a one-time report but a continuous study that provides updated information every quarter, ensuring that the insights remain relevant and accurate.
+
  - **Publicly available and free**: Culturama is a free-to-use platform, making work culture analytics accessible to a broader audience, including employees, employers, and researchers.
+
+ - **Saves time and effort**: Culturama streamlines the process of understanding workplace culture by consolidating textual employee opinions, saving users time and effort compared to manually sifting through hundreds of reviews.
 
 ## How can Culturama improve work cultures?
 
@@ -61,7 +67,7 @@ We do not have plans to publish our dataset. Our primary goal is to offer an agg
 
 Culturama only stores the content of the opinion and the date it was created. It does not retain any personal information such as names or addresses. Additionally, it does not gather any demographic data such as age, gender, employment location, or income level.
 
-## Why focus on workplace issues and ignore the positive?
+## Why Culturama focuses on workplace issues and ignores the positive?
 
 It's no secret that companies often try to enhance their reputation as employers by posting fake positive reviews online. This practice has been widely reported by reputable media outlets such as [The Wall Street Journal](https://www.wsj.com/articles/companies-manipulate-glassdoor-by-inflating-rankings-and-pressuring-employees-11548171977) and can be easily identified through statistical analysis. One common indicator of manipulation is when a negative review is always followed by a series of excessively positive reviews, seemingly intended to offset the negative impact.
 
