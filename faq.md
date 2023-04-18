@@ -1,17 +1,18 @@
 # Frequently asked questions
 
 - [What is Culturama?](#what-is-culturama)
+- [What makes Culturama unique?)(#what-makes-culturama-unique)
 - [How can Culturama improve work cultures?](#how-can-culturama-improve-work-cultures)
 - [Where does Culturama data come from?](#where-does-culturama-data-come-from)
 - [Is the Culturama employee opinion dataset static?](#is-the-culturama-employee-opinion-dataset-static)
 - [Will the Culturama employee opinion dataset be public?](#will-the-culturama-employee-opinion-dataset-be-public)
 - [Do you gather any additional information on the authors of opinions?](#do-you-gather-any-additional-information-on-the-authors-of-opinions)
-- [What does the intensity of a workplace problem mean?](#what-does-the-intensity-of-a-workplace-problem-mean)
-- [How is the intensity of a workplace problem calculated?](#how-is-the-intensity-of-a-workplace-problem-calculated)
 - [Why focus on workplace issues and ignore the positive?](#why-focus-on-workplace-issues-and-ignore-the-positive)
 - [Why are fake positive reviews a problem, while fake negative reviews are not?](#why-are-fake-positive-reviews-a-problem-while-fake-negative-reviews-are-not)
 - [Why are only large companies included in Culturama?](#why-are-only-large-companies-included-in-culturama)
 - [How can Culturama identify 130 distinct types of workplace issues?](#how-can-culturama-identify-130-distinct-types-of-workplace-issues)
+- [What does the intensity of a workplace problem mean?](#what-does-the-intensity-of-a-workplace-problem-mean)
+- [How is the intensity of a workplace problem calculated?](#how-is-the-intensity-of-a-workplace-problem-calculated)
 
 ## What is Culturama?
 
@@ -60,25 +61,6 @@ We do not have plans to publish our dataset. Our primary goal is to offer an agg
 
 We only store the content of the opinion and the date it was created. We do not retain any personal information such as names or addresses. Additionally, we do not gather any demographic data such as age, gender, employment location, or income level.
 
-## What does the intensity of a workplace problem mean?
-
-Intensity indicates how frequently employees report a particular workplace problem. The higher the intensity of a problem, the more prevalent it is within an organization. Problem intensity is derived from problem frequency and is **measured on a scale from 0 to 100**.
-
-It is essential to emphasize that, contrary to the natural interpretation where higher values are perceived as better, problem intensity works the other way around. **An intensity of 0** is an excellent score, signifying a complete absence of evidence that a problem exists in a company. Conversely, **an intensity of 100** indicates that the problem is very commonly mentioned by employees.
-
-## How is the intensity of a workplace problem calculated?
-
-Culturama identifies 130 distinct types of workplace problems. In a single opinion, an employee may raise multiple workplace concerns, potentially even listing several dozen of them. However, in practice, it is most common for an individual opinion to mention 1-3 problems. Please note that, due to the constraints we placed on our dataset, an opinion must contain at least one mention of a workplace issue.
-
-**The frequency of a workplace issue refers to the percentage of opinions that include this specific problem out of all opinions**. In 99% of cases, the frequency is less than **15%**. This is not surprising, as it would be unusual for a single issue to appear in a significant portion of a large number of unprompted, independent opinions. Therefore, to make our data more interpretable, we remove outliers by capping all frequencies above 15% at 15%.
-
-**Intensity measure comes from linearly rescaling the range from [0%, 15%] to [0, 100]**.
-
-In summary:
-
- - **An intensity of 100** indicates that the workplace issue was mentioned in **15% or more of the opinions**.
- - **An intensity of 0** signifies that **no opinions mentioned the specific workplace issue**.
-
 ## Why focus on workplace issues and ignore the positive?
 
 It's no secret that companies often try to enhance their reputation as employers by posting fake positive reviews online. This practice has been widely reported by reputable media outlets such as [The Wall Street Journal](https://www.wsj.com/articles/companies-manipulate-glassdoor-by-inflating-rankings-and-pressuring-employees-11548171977) and can be easily identified through statistical analysis. One common indicator of manipulation is when a negative review is always followed by a series of excessively positive reviews, seemingly intended to offset the negative impact.
@@ -109,4 +91,21 @@ Culturama employs a custom fine-tuned model based on the state of art LLM ([larg
 
 To test the prediction quality, we used [k-fold cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)#k-fold_cross-validation), a widely recognized evaluation method that ensures robustness and accuracy. By doing so, we achieved an impressive [F1-score](https://en.wikipedia.org/wiki/F-score) of **0.93**, demonstrating the model's effectiveness in identifying various workplace problems.
 
+## What does the intensity of a workplace problem mean?
 
+Intensity indicates how frequently employees report a particular workplace problem. The higher the intensity of a problem, the more prevalent it is within an organization. Problem intensity is derived from problem frequency and is **measured on a scale from 0 to 100**.
+
+It is essential to emphasize that, contrary to the natural interpretation where higher values are perceived as better, problem intensity works the other way around. **An intensity of 0** is an excellent score, signifying a complete absence of evidence that a problem exists in a company. Conversely, **an intensity of 100** indicates that the problem is very commonly mentioned by employees.
+
+## How is the intensity of a workplace problem calculated?
+
+Culturama identifies 130 distinct types of workplace problems. In a single opinion, an employee may raise multiple workplace concerns, potentially even listing several dozen of them. However, in practice, it is most common for an individual opinion to mention 1-3 problems. Please note that, due to the constraints we placed on our dataset, an opinion must contain at least one mention of a workplace issue.
+
+**The frequency of a workplace issue refers to the percentage of opinions that include this specific problem out of all opinions**. In 99% of cases, the frequency is less than **15%**. This is not surprising, as it would be unusual for a single issue to appear in a significant portion of a large number of unprompted, independent opinions. Therefore, to make our data more interpretable, we remove outliers by capping all frequencies above 15% at 15%.
+
+**Intensity measure comes from linearly rescaling the range from [0%, 15%] to [0, 100]**.
+
+In summary:
+
+ - **An intensity of 100** indicates that the workplace issue was mentioned in **15% or more of the opinions**.
+ - **An intensity of 0** signifies that **no opinions mentioned the specific workplace issue**.
