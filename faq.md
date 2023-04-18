@@ -6,7 +6,7 @@
 - [Where does Culturama data come from?](#where-does-culturama-data-come-from)
 - [Is the Culturama employee opinion dataset static?](#is-the-culturama-employee-opinion-dataset-static)
 - [Will the Culturama employee opinion dataset be public?](#will-the-culturama-employee-opinion-dataset-be-public)
-- [Does Culturama you gather any additional information on the authors of opinions?](#does-culturama-gather-any-additional-information-on-the-authors-of-opinions)
+- [Does Culturama gather any additional information on the authors of opinions?](#does-culturama-gather-any-additional-information-on-the-authors-of-opinions)
 - [Why focus on workplace issues and ignore the positive?](#why-focus-on-workplace-issues-and-ignore-the-positive)
 - [Why are fake positive reviews a problem, while fake negative reviews are not?](#why-are-fake-positive-reviews-a-problem-while-fake-negative-reviews-are-not)
 - [Why are only large companies included in Culturama?](#why-are-only-large-companies-included-in-culturama)
