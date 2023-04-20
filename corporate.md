@@ -50,7 +50,7 @@ Like public Culturama, Corporate Culturama aims to detect various types of workp
 
  - __Avoids survey fatigue__ - collects employee feedback on workplace issues in a natural and unprompted way, without burdening them with lengthy and repetitive surveys that can lead to disengagement and autopilot responses.
 
- - __Automated and consistent analysis__ - significantly reduces the cost and effort required for analyzing open-text employee feedback, while also ensuring consistency and eliminating interpretation bias introduced by different analysts.
+ - __Cost-efficient and consistent analysis__ - significantly reduces the cost and effort required for analyzing open-text employee feedback, while also ensuring consistency and eliminating interpretation bias introduced by different analysts.
 
 ## Sales channels
 
