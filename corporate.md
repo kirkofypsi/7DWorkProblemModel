@@ -8,19 +8,17 @@ Each Corporate Culturama deployment is a unique instance created exclusively for
 
 ## Data Sources 
 
-Data in Corporate Culturama is gathered from up to five sources:
-
- - __Public Data__ - information on workplace cultures collected from all publicly accessible online sources, such as social media platforms, blogs, forums, and review websites. This includes all data from public Culturama on the 1,500 largest companies.
-
- - __Additional Public Data on Competitors__ - supplementary public information on workplace cultures that is not available in public Culturama but is requested by the customer. For example, if a client's competitors are not among the 1,500 companies featured in public Culturama, we can attempt to collect all publicly accessible data on those competitors.
-
- - __Additional Public Data on Customer__ - If a customer is not among the 1,500 companies featured in public Culturama, we can conduct a scan of all publicly available opinions on the customer upon request.
+Data in Corporate Culturama is gathered from at least one of the following sources:
 
  - __Internal Survey Data__ - data provided by the customer, originating from various internal sources such as exit interviews and open-ended questions from employee feedback surveys like GPTW surveys. At a minimum, the data should contain a list of opinions with each opinion's reporting date. Additional information like employee demographics (age, sex) or hierarchical data (position, department, function, geography) can also be uploaded.
 
  - __Internal Live Employee Data__ - data submitted directly by the customer's employees using our live reporting system. Employees authorized by their employer can add new opinions or update previous opinions on crucial workplace issues at any time.
 
-Of the above data sources, "Public Data" is always available, and at least one additional source is added according to the customer's preference.
+ - __Additional Public Data__ - supplementary information on workplace cultures that is not readily available in the public Culturama database but is requested by the client. For instance, if a client's competitors are not among the 1,500 companies featured in public Culturama, we can make an effort to gather all publicly accessible data on those competitors. Similarly, if a customer's company is not among the 1,500 companies in public Culturama, we can scan and analyze the available information about them, allowing the client to gain a deeper understanding of their company's online public image
+
+In addition to the above Corporate Culturama always contains: 
+
+- __Culturama Public Data__ - information on 1,500 workplace cultures of the largest companies collected from all publicly accessible online sources, such as social media platforms, blogs, forums, and review websites.
 
 ## Scope of analysis
 
