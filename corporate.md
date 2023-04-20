@@ -52,11 +52,11 @@ Using both internal survey data and live employee data:
 
 Using live employee data:
 
- - __Avoids survey fatigue__ - collects employee feedback on workplace issues in a natural and unprompted way, without burdening them with lengthy and repetitive surveys that can lead to disengagement and autopilot responses.
-
 - __Rapid and continuous monitoring__ - instead of relying on periodic surveys, the system can collect and analyze data continuously, providing real-time insights into employee concerns and sentiment. Decision-makers are immediately informed about patterns and trends in weak areas of every function/department/location, allowing for quick implementation of corrections and identifying correlations between business decisions and employee satisfaction.
 
 - __Unprompted research__ - allows employees to articulate their concerns without bias or leading questions, resulting in more genuine and accurate feedback.
+
+ - __Avoids survey fatigue__ - collects employee feedback on workplace issues in a natural and unprompted way, without burdening them with lengthy and repetitive surveys that can lead to disengagement and autopilot responses.
 
 - __Anonymity and confidentiality__: ensures that employees can express their concerns without fear of retribution, thanks to the data being processed by a third party. Culturama only shows aggregated data, not individual feedback, maintaining the anonymity of employees and further encouraging honest and open communication.
 
