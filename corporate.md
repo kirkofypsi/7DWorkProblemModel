@@ -48,7 +48,7 @@ Like public Culturama, Corporate Culturama aims to detect various types of workp
 
  - __High precision__ - Culturama offers high granularity of workplace problem detection, as it identifies 130 common workplace issues that are practical and easily understandable for employers to address, rather than relying on high-level, abstract concepts or only detecting overall sentiment.
 
- - __Avoids survey fatigue__ - collects employee feedback in a natural and unprompted way, without burdening them with lengthy and repetitive surveys that can lead to disengagement and autopilot responses.
+ - __Avoids survey fatigue__ - collects employee feedback on workplace issues in a natural and unprompted way, without burdening them with lengthy and repetitive surveys that can lead to disengagement and autopilot responses.
 
 ## Sales channels
 
