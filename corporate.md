@@ -40,6 +40,14 @@ Like public Culturama, Corporate Culturama aims to detect various types of workp
 
  - Gain a deeper understanding of your company's online public image, or employer branding.
 
+## Key differentiators
+
+ - __Unprompted research__ - allows employees to articulate their concerns without bias or leading questions, resulting in more genuine and accurate feedback.
+
+ - __Benchmarking__ - ability to compare an organization's work culture with its competitors and industry benchmarks, a feature not previously available due to the lack of industry and competitor data. Culturama provides a comprehensive view of work culture across various industries by covering a wide range of 1,500 major companies using 5 million employee opinions, 
+
+ - __High precision__ - Culturama offers high granularity of workplace problem detection, as it identifies 130 common workplace issues that are practical and easily understandable for employers to address, rather than relying on high-level, abstract concepts or only detecting overall sentiment.
+
 ## Sales channels
 
 - __Partner Sales__: Leveraging partnerships with HR software providers, employee engagement consultants, and talent acquisition firms to distribute and sell corporate Culturama,
