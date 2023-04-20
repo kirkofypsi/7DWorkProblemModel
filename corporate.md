@@ -42,15 +42,19 @@ Like public Culturama, Corporate Culturama aims to detect various types of workp
 
 ## Key differentiators
 
- - __Unprompted research__ - allows employees to articulate their concerns without bias or leading questions, resulting in more genuine and accurate feedback.
-
  - __Industry/competitors benchmarking__ - ability to compare an organization's work culture with its competitors and industry benchmarks, a feature not previously available due to the lack of industry and competitor data. Culturama provides a comprehensive view of work culture across various industries by covering a wide range of 1,500 major companies using 5 million employee opinions, 
 
  - __High precision__ - Culturama offers high granularity of workplace problem detection, as it identifies 130 common workplace issues that are practical and easily understandable for employers to address, rather than relying on high-level, abstract concepts or only detecting overall sentiment.
 
+ - __Cost-efficient and consistent analysis__ - significantly reduces the cost and effort required for analyzing open-text employee feedback, while also ensuring consistency and eliminating interpretation bias introduced by different analysts.
+
  - __Avoids survey fatigue__ - collects employee feedback on workplace issues in a natural and unprompted way, without burdening them with lengthy and repetitive surveys that can lead to disengagement and autopilot responses.
 
- - __Cost-efficient and consistent analysis__ - significantly reduces the cost and effort required for analyzing open-text employee feedback, while also ensuring consistency and eliminating interpretation bias introduced by different analysts.
+- __Rapid and continuous monitoring__ - instead of relying on periodic surveys, the system can collect and analyze data continuously, providing real-time insights into employee concerns and sentiment. Decision-makers are immediately informed about patterns and trends in weak areas of every function/department/location, allowing for quick implementation of corrections and identifying correlations between business decisions and employee satisfaction.
+
+- __Unprompted research__ - allows employees to articulate their concerns without bias or leading questions, resulting in more genuine and accurate feedback.
+
+- __Anonymity and confidentiality__: ensures that employees can express their concerns without fear of retribution, thanks to the data being processed by a third party. Culturama only shows aggregated data, not individual feedback, maintaining the anonymity of employees and further encouraging honest and open communication.
 
 ## Sales channels
 
