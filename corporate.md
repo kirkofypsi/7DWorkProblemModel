@@ -60,7 +60,7 @@ Using live employee data:
 
 ## Workplace problems taxonomy
 
-Culturama's first-of-its-kind taxonomy of workplace problem types called __7D Workplace Problem Model__ was derived from 5 million employee opinions using AI and NLP techniques. It effectively classifies 94% of employee-reported issues, grounding the taxonomy in real-world data rather than solely relying on academic knowledge. The taxonomy consists of three levels: work satisfaction dimensions (7), work satisfaction factors (39), and workplace problems (130).
+Culturama's first-of-its-kind taxonomy of workplace problem types called [__7D Workplace Problem Model__](https://github.com/kirkofypsi/7DWorkProblemModel/blob/main/taxonomy.md) was derived from 5 million employee opinions using AI and NLP techniques. It effectively classifies 94% of employee-reported issues, grounding the taxonomy in real-world data rather than solely relying on academic knowledge. The taxonomy consists of three levels: work satisfaction dimensions (7), work satisfaction factors (39), and workplace problems (130).
 
 ## Technology
 
