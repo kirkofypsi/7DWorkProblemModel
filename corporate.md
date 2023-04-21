@@ -62,11 +62,11 @@ Using live employee data:
 
 Culturama: 
 
- - leverages advanced NLP technology, akin to OpenAI and ChatGPT, to accurately identify detailed workplace problems, going beyond simple sentiment analysis in employee opinions.
+ - leverages advanced NLP technology, akin to OpenAI's ChatGPT, to accurately identify detailed workplace problems, going beyond simple sentiment analysis in employee opinions.
 
  - achieves an impressive F1-score of 0.93 on a 100K-example dataset, demonstrating the effectiveness of its fine-tuned classification model.
 
- - sucessfully identifies work-related issues in 94% of 5 million employee opinions, showcasing its ability to handle multiple languages and contexts.
+ - successfully identifies work-related issues in 94% of 5 million employee opinions, showcasing its ability to handle multiple languages and contexts.
 
 ## Sales channels
 
