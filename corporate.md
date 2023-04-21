@@ -58,6 +58,10 @@ Using live employee data:
 
 - __Anonymity and confidentiality__: ensures that employees can express their concerns without fear of retribution, thanks to the data being processed by a third party. Culturama only shows aggregated data, not individual feedback, maintaining the anonymity of employees and further encouraging honest and open communication.
 
+## Workplace problems taxonomy
+
+Culturama's first-of-its-kind taxonomy of workplace problem types called 7D Workplace Problem Model was derived from 5 million employee opinions using AI and NLP techniques. It effectively classifies 94% of employee-reported issues, grounding the taxonomy in real-world data rather than solely relying on academic knowledge. The taxonomy consists of three levels: work satisfaction dimensions (7), work satisfaction factors (39), and workplace problems (130).
+
 ## Technology
 
 Culturama: 
