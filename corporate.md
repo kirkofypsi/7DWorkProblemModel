@@ -2,10 +2,6 @@
 
 Corporate Culturama shares many similarities with the web interface of public Culturama (https://culturama.is), but it is a separate service designed specifically for individual companies.
 
-## Deployment
-
-Each Corporate Culturama deployment is a unique instance created exclusively for a single company, with access limited to personnel selected by the client. It also has a different URL than public Culturama: <<company_name>>.corporate.culturama.io.
-
 ## Data Sources 
 
 Data in Corporate Culturama is gathered from at least one of the following sources:
@@ -71,6 +67,12 @@ Culturama:
  - achieves an impressive F1-score of 0.93 on a 100K-example dataset, demonstrating the effectiveness of its fine-tuned classification model.
 
  - successfully identifies work-related issues in 94% of 5 million employee opinions, showcasing its ability to handle multiple languages and contexts.
+
+## Implementation
+
+Corporate Culturama is hosted on dedicated servers that are separate from the public service. This means that each company has its own exclusive and unique instance of the software. Access is restricted only to personnel selected by the client, and the software can be accessed through a custom URL, which follows the format of "<<company_name>>.corporate.culturama.io".
+
+The software is designed to accept all common textual data formats for internal survey data, and it can also be customized to integrate with the employee experience platforms (EXP) used by the client. In addition, we offer comprehensive training sessions to help the client's personnel get the most out of the software.
 
 ## Sales channels
 
